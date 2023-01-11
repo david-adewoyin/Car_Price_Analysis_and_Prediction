@@ -1,0 +1,2206 @@
+Brand,Model,Year,Mileage,Condition,Price,Number of Cylinders,Engine Capacity,Ratings,Color
+Toyota,Corolla,2015,186024,Foreign Used, 7530000,4,1000.0, 4.20,Grey
+Mercedes-Benz,GLK 350,2015,87465,Foreign Used, 13530000,6,3000.0, 4.50,black
+Toyota,Highlander,2008,142719,Foreign Used, 7230000,6,3500.0, 4.40,Red
+Toyota,Sienna,2006,115232,Foreign Used, 4880000,6,3000.0, 4.50,gold
+Honda,Crosstour,2012,120661,Foreign Used, 5030000,6,3000.0, 4.50,Silver
+Toyota,Camry,2014,42677,Foreign Used, 7265000,4,, 4.00,Silver
+Toyota,Camry,2012,102335,Foreign Used, 6015000,4,1000.0, 4.30,black
+Toyota,Corolla,2011,80547,Foreign Used, 6015000,4,1000.0, 4.30,black
+Toyota,Hiace,2007,65234,Foreign Used, 10515000,4,2400.0, 4.20,ash
+Mercedes-Benz,GLK 350,2012,65345,Foreign Used, 10330000,6,5900.0, 4.40,White
+Toyota,Highlander,2008,152000,Foreign Used, 10715000,6,3500.0, 4.40,Grey
+Lexus,RX 350,2013,91276,Foreign Used, 14015000,6,3500.0, 4.40,black
+Toyota,Matrix,2005,121256,Foreign Used, 3530000,4,, 4.50,black
+Lexus,RX 350,2011,96074,Foreign Used, 12030000,6,3500.0, 4.40,Red
+Toyota,Camry,2009,98638,Foreign Used, 4965000,4,4800.0, 4.40,Grey
+Toyota,Camry,2014,30382,Locally Used, 7530000,4,2000.0, 3.40,Blue
+Toyota,RAV 4,2010,194780,Foreign Used, 6865000,6,1000.0, 4.20,White
+Hyundai,Sonata,2015,58900,Locally Used, 5695000,6,5900.0, 3.50,Silver
+Toyota,Avalon,2005,84740,Foreign Used, 3165000,6,3500.0, 4.00,sliver
+Lexus,ES 350,2007,97852,Foreign Used, 6180000,6,2500.0, 4.50,black
+Toyota,Corolla,2013,87965,Foreign Used, 5080000,4,1500.0, 4.50,Grey
+Lexus,ES 350,2007,96452,Foreign Used, 6080000,6,2500.0, 4.50,gold
+Toyota,Camry,2012,176000,Foreign Used, 6515000,4,, 4.20,Silver
+Toyota,Venza,2013,201667,Foreign Used, 9815000,6,5900.0, 4.30,black
+Toyota,Venza,2011,133905,Foreign Used, 9630000,6,5900.0, 4.50,White
+Toyota,Avalon,2006,229353,Foreign Used, 4330000,6,3500.0, 4.30,Silver
+Toyota,Camry,2007,182000,Foreign Used, 4615000,4,, 4.40,Blue
+Toyota,Corolla,2014,75236,Foreign Used, 7780000,4,2000.0, 4.50,Red
+Toyota,Highlander,2014,120000,Foreign Used, 15030000,6,6000.0, 4.40,White
+Mercedes-Benz,GLK 350,2010,173702,Foreign Used, 12030000,6,6000.0, 4.40,black
+Toyota,Highlander,2010,155378,Foreign Used, 10015000,6,6000.0, 4.40,White
+Lexus,GX 460,2015,128694,Foreign Used, 26615000,8,, 4.30,yellow
+Toyota,Camry,2022,4013,Foreign Used, 26045000,4,1000.0, 4.20,Grey
+Mercedes-Benz,ML 350,2012,97739,Foreign Used, 15030000,6,3500.0, 4.30,Grey
+Mitsubishi,L200,2022,50,Brand New, 20515000,6,4000.0,,White
+Toyota,Highlander,2013,163870,Foreign Used, 12315000,6,4000.0, 4.00,black and orange
+Toyota,Camry,2013,167937,Locally Used, 4615000,4,1000.0, 4.10,Grey
+Honda,Crosstour,2010,59132,Locally Used, 3315000,6,1000.0, 4.00,Silver
+Toyota,Camry,2009,97058,Foreign Used, 4265000,4,2000.0, 4.50,Blue
+Toyota,Avalon,2013,78130,Locally Used, 9815000,6,, 3.40,Red
+Hyundai,Sonata,2015,138300,Foreign Used, 6015000,4,, 4.20,White
+Toyota,Hiace,2006,87123,Foreign Used, 10730000,4,2400.0, 4.20,ash
+Toyota,Camry,2012,63784,Foreign Used, 7015000,6,1000.0, 4.00,Red
+Toyota,Highlander,2015,122043,Foreign Used, 12515000,6,3500.0, 4.20,Green
+Toyota,Highlander,2015,81148,Foreign Used, 17030000,6,6000.0, 4.40,gold
+Mercedes-Benz,ML 350,2014,61849,Locally Used, 12530000,6,3500.0, 3.40,black
+BMW,325i,2011,84120,Foreign Used, 5315000,6,, 4.40,black
+Toyota,Highlander,2008,43677,Locally Used, 5230000,6,3500.0, 3.40,black
+Toyota,Highlander,2004,211522,Foreign Used, 5330000,6,3300.0, 4.30,gold
+Lexus,IS 250,2008,144948,Foreign Used, 5730000,6,2500.0, 4.40,White
+Acura,MDX,2007,94152,Foreign Used, 4515000,4,1000.0, 4.30,black
+Honda,Crosstour,2012,142000,Foreign Used, 7215000,6,, 4.40,Silver
+Toyota,Corolla,2007,98562,Foreign Used, 4100000,4,2400.0, 4.00,ash
+Lexus,ES 330,2006,56234,Foreign Used, 4755000,6,5900.0, 4.40,Silver
+Toyota,Highlander,2015,64000,Foreign Used, 16830000,6,3500.0, 4.40,White
+Lexus,ES 330,2004,56324,Foreign Used, 3915000,6,5900.0, 4.50,Silver
+Nissan,Frontier,2002,86779,Foreign Used, 4615000,2,2000.0, 4.40,Grey
+Toyota,Tacoma,2011,85346,Foreign Used, 10735000,6,5900.0, 4.40,Silver
+Mercedes-Benz,C 300,2015,113642,Foreign Used, 14015000,4,2000.0, 4.10,White
+Toyota,Camry,2010,151216,Foreign Used, 4715000,4,1800.0, 4.30,Blue
+Pontiac,Vibe,2003,97053,Foreign Used, 3180000,4,1500.0, 4.50,White
+Toyota,Corolla,2011,125107,Foreign Used, 5600000,4,1800.0, 4.20,Grey
+Mercedes-Benz,E 350,2014,73000,Foreign Used, 12865000,6,, 4.40,black
+Toyota,Camry,2014,72300,Foreign Used, 7215000,4,, 4.40,Red
+Toyota,Highlander,2008,240500,Foreign Used, 9015000,6,, 4.20,Silver
+Toyota,Tacoma,2016,145000,Foreign Used, 16515000,6,, 4.20,Grey
+Toyota,Camry,2013,185328,Foreign Used, 7260000,4,5900.0, 4.30,Red
+Toyota,4-Runner,2007,88977,Foreign Used, 7446000,6,5900.0, 4.40,black
+Toyota,RAV 4,2013,104902,Foreign Used, 15515000,4,1000.0, 4.40,Grey
+Acura,MDX,2019,1987,Foreign Used, 20515000,6,, 4.50,black
+Toyota,RAV 4,2010,138661,Foreign Used, 6815000,4,2500.0, 4.00,White
+Toyota,Matrix,2009,165510,Foreign Used, 5015000,4,, 4.40,Blue
+Toyota,RAV 4,2015,122441,Foreign Used, 11015000,4,, 4.20,brown
+Toyota,Highlander,2013,58955,Foreign Used, 14015000,6,, 4.40,Blue
+Toyota,Sienna,2004,138253,Foreign Used, 4515000,6,3000.0, 4.50,gold
+Toyota,Highlander,2017,71533,Foreign Used, 24030000,6,1000.0, 4.40,black
+Honda,Accord,2015,59350,Locally Used, 8830000,6,5900.0, 3.50,White
+Toyota,Highlander,2008,88136,Locally Used, 6030000,6,5900.0, 3.50,Grey
+Mercedes-Benz,C 300,2010,146300,Foreign Used, 6815000,6,, 4.40,Red
+Mercedes-Benz,E 350,2010,58109,Foreign Used, 6515000,4,2000.0, 4.00,black
+Lexus,RX 350,2011,88384,Foreign Used, 11530000,6,3500.0, 4.40,black
+Toyota,Highlander,2014,56512,Foreign Used, 15515000,6,, 4.40,black
+Toyota,Highlander,2009,85419,Foreign Used, 9015000,6,1000.0, 4.40,Silver
+Honda,Accord,2013,138860,Foreign Used, 7830000,6,5900.0, 4.30,Grey
+Mercedes-Benz,E 350,2012,167325,Foreign Used, 9530000,6,1500.0, 4.20,black
+Mercedes-Benz,E 350,2010,84215,Foreign Used, 7765000,6,1000.0, 4.40,White
+Toyota,RAV 4,2007,54662,Foreign Used, 5515000,6,, 4.30,Silver
+Toyota,Camry,2016,64031,Locally Used, 8315000,6,, 3.40,Silver
+Lexus,GX 460,2011,87268,Foreign Used, 18115000,8,3500.0, 4.00,sliver
+Toyota,Highlander,2018,20926,Locally Used, 21545000,6,3500.0, 4.00,Green
+Toyota,Venza,2009,84998,Foreign Used, 8515000,6,1000.0, 4.40,Grey
+Toyota,Corolla,2015,68966,Foreign Used, 8130000,4,2000.0, 4.50,black
+Toyota,Sienna,2007,86963,Foreign Used, 5780000,6,2500.0, 4.50,Silver
+Toyota,Sienna,2013,96328,Foreign Used, 8130000,6,2500.0, 4.50,Red
+Honda,Accord,2014,96760,Foreign Used, 7030000,4,2000.0, 4.40,White
+Toyota,Camry,2012,124998,Foreign Used, 7530000,4,1500.0, 4.40,Silver
+Land Rover,Range Rover,2014,44492,Foreign Used, 35030000,6,1500.0, 4.40,White
+Toyota,Highlander,2018,72807,Foreign Used, 23015000,6,3300.0, 4.20,Grey
+Toyota,RAV 4,2010,99583,Foreign Used, 7015000,4,, 4.40,Green
+Land Rover,Range Rover,2013,150599,Foreign Used, 30015000,8,, 4.30,black
+Toyota,Camry,2012,62567,Foreign Used, 6615000,4,2000.0, 4.40,Grey
+Lexus,RX 350,2010,89975,Foreign Used, 11530000,6,3500.0, 4.40,Grey
+Lexus,RX 350,2015,106430,Foreign Used, 14830000,6,3500.0, 4.20,wine
+Honda,Accord,2014,62355,Foreign Used, 7030000,4,2400.0, 4.40,black
+Toyota,Hilux,2018,30341,Foreign Used, 32515000,4,2400.0, 4.40,White
+Toyota,Camry,2010,58667,Foreign Used, 5815000,4,, 4.30,Silver
+Toyota,Corolla,2007,82879,Foreign Used, 3915000,4,, 4.50,black
+Toyota,Corolla,2005,73491,Foreign Used, 3915000,4,, 4.50,gold
+Toyota,Corolla,2013,85042,Foreign Used, 6215000,4,3000.0, 4.30,ash
+Mercedes-Benz,E 350,2010,142730,Foreign Used, 7915000,6,3300.0, 4.00,Grey
+Toyota,Sienna,2004,171805,Locally Used, 3215000,6,, 3.40,Blue
+Lexus,ES 350,2013,77300,Locally Used, 7430000,6,3000.0, 3.40,black
+Ford,Edge,2012,93576,Foreign Used, 7580000,6,2000.0, 4.50,Blue
+Honda,Pilot,2012,98535,Foreign Used, 6780000,6,2500.0, 4.50,Grey
+Honda,Crosstour,2010,153724,Foreign Used, 6330000,4,2000.0, 4.50,Grey
+Mercedes-Benz,C 300,2011,70721,Foreign Used, 7330000,6,1500.0, 4.40,White
+Kia,Sorento,2007,203306,Locally Used, 1615000,6,1500.0, 3.40,Silver
+Mercedes-Benz,C 300,2010,39260,Foreign Used, 7515000,6,3500.0, 4.40,White
+Mercedes-Benz,C 300,2012,40226,Foreign Used, 7515000,6,3500.0, 4.00,Silver
+Lexus,ES 350,2011,163562,Foreign Used, 7515000,6,3500.0, 4.40,White
+Toyota,Corolla,2005,45755,Foreign Used, 3915000,4,1008.0, 4.00,Silver
+Toyota,Avalon,2014,65235,Foreign Used, 11015000,6,3500.0, 4.00,black
+Toyota,Camry,2016,116761,Foreign Used, 11515000,6,6000.0, 4.20,black
+Toyota,Sienna,2006,121556,Foreign Used, 5015000,6,3000.0, 4.00,gold
+Toyota,Highlander,2009,185657,Locally Used, 5730000,6,3500.0, 3.40,wine
+Lexus,RX 350,2009,209823,Foreign Used, 7530000,6,3500.0, 4.20,Blue
+Lexus,ES 350,2012,155396,Foreign Used, 7615000,6,6000.0, 4.20,White
+Toyota,Corolla,2004,96000,Foreign Used, 3715000,4,1000.0, 4.30,Silver
+Ford,Edge,2013,82592,Foreign Used, 5530000,6,, 4.50,Silver
+Toyota,Camry,2007,103360,Foreign Used, 4730000,4,2500.0, 4.20,beige
+Toyota,Camry,2003,11903,Foreign Used, 3495000,6,5900.0, 4.50,Green
+Toyota,Sienna,2012,62727,Foreign Used, 7830000,6,, 4.50,Blue
+Toyota,Camry,2011,73281,Foreign Used, 4930000,4,2000.0, 4.00,black
+Kia,Optima,2009,229442,Foreign Used, 2715000,4,1000.0, 4.00,Grey
+Toyota,Camry,2011,88569,Foreign Used, 4930000,4,2000.0, 4.00,black
+Honda,Accord,2009,188758,Foreign Used, 3840000,4,5900.0, 4.40,citrine brown metallic finish
+Lexus,RX 350,2012,82205,Foreign Used, 13830000,6,1000.0, 4.30,Red
+Lexus,GX 460,2014,51221,Foreign Used, 26730000,6,1000.0, 4.40,White
+Honda,Pilot,2011,78356,Foreign Used, 8830000,6,1000.0, 4.30,black
+Toyota,Sienna,2008,158658,Foreign Used, 5030000,6,3500.0, 4.00,White
+Toyota,Camry,2013,89260,Foreign Used, 6915000,4,, 4.40,black
+Toyota,Corolla,2004,76961,Foreign Used, 3660000,4,1800.0, 4.40,Grey
+Toyota,Corolla,2010,125111,Foreign Used, 4730000,4,, 4.50,Red
+Toyota,Camry,2011,131556,Foreign Used, 4630000,6,3000.0, 4.50,black
+Honda,Pilot,2011,207437,Foreign Used, 6030000,6,3500.0, 4.10,wine
+Toyota,Camry,2014,89543,Foreign Used, 7030000,4,2500.0, 4.40,black
+Lexus,GX 460,2014,138876,Foreign Used, 26815000,8,4000.0, 4.00,Grey
+Mercedes-Benz,GLK 350,2011,197488,Foreign Used, 9730000,6,1000.0, 4.10,black
+Lexus,GX 460,2013,166858,Foreign Used, 17515000,6,1000.0, 4.20,gold
+Toyota,Corolla,2016,69000,Foreign Used, 7830000,4,1000.0, 4.40,Red
+Toyota,Camry,2003,100427,Foreign Used, 3330000,4,2400.0, 4.30,Silver
+Mercedes-Benz,C 300,2015,97018,Foreign Used, 15030000,4,4000.0, 4.20,Grey
+Acura,MDX,2007,209929,Foreign Used, 5030000,6,3700.0, 4.00,Grey
+Toyota,Highlander,2004,95436,Foreign Used, 5480000,6,1500.0, 4.50,gold
+Mercedes-Benz,ML 350,2015,112339,Foreign Used, 15330000,6,3000.0, 4.30,White
+Lexus,RX 350,2017,31446,Foreign Used, 25515000,6,3500.0, 4.40,Silver
+Toyota,4-Runner,2011,173630,Foreign Used, 12530000,6,1000.0, 4.10,White
+Mercedes-Benz,GLA 250,2016,73571,Foreign Used, 17030000,6,1000.0, 4.30,black
+Toyota,Camry,2013,28191,Foreign Used, 8030000,6,1000.0, 4.30,Grey
+Toyota,Highlander,2016,158752,Foreign Used, 17615000,6,, 4.20,Grey
+Mercedes-Benz,GLK 350,2010,164612,Foreign Used, 8515000,6,, 4.40,Silver
+Toyota,Highlander,2015,58566,Foreign Used, 15730000,6,1000.0, 4.40,beige
+Toyota,Sienna,2012,97852,Foreign Used, 6700000,6,2500.0, 4.00,Silver
+Toyota,RAV 4,2007,86004,Foreign Used, 5830000,4,1000.0, 4.20,Silver
+Hyundai,Sonata,2014,114569,Foreign Used, 6530000,4,2400.0, 4.40,Red
+Hyundai,Santa Fe,2014,96826,Locally Used, 6215000,4,1000.0, 3.40,Grey
+Toyota,Corolla,2003,106561,Foreign Used, 3730000,4,4000.0, 4.40,Silver
+Toyota,Corolla,2006,18522,Foreign Used, 4030000,4,4000.0, 4.30,gold
+Toyota,Highlander,2006,97655,Foreign Used, 6610000,6,2500.0, 4.50,gold
+Toyota,Camry,2009,99419,Foreign Used, 4845000,4,4000.0, 4.30,gold
+Toyota,Camry,2005,115608,Foreign Used, 3830000,4,4000.0, 4.30,wine
+Toyota,RAV 4,2009,168905,Foreign Used, 7215000,6,3500.0, 4.30,brown
+Toyota,Tacoma,2009,159189,Foreign Used, 14015000,6,6000.0, 4.30,Grey
+Toyota,Highlander,2013,89523,Foreign Used, 14815000,6,3500.0, 4.00,Blue
+Toyota,Corolla,2016,54852,Foreign Used, 7530000,4,2500.0, 4.00,White
+Toyota,Camry,2007,185825,Foreign Used, 4630000,4,, 4.50,Green
+Toyota,Corolla,2015,89373,Foreign Used, 7530000,4,2500.0, 4.00,Grey
+Mercedes-Benz,C 300,2016,68085,Foreign Used, 16845000,6,3000.0, 4.20,black
+Lexus,GX 460,2014,121336,Foreign Used, 270315008,8,4000.0, 4.00,Grey
+Mercedes-Benz,C 300,2016,56802,Foreign Used, 18315000,6,3000.0, 4.40,Blue
+Toyota,Camry,2008,115328,Foreign Used, 4265000,6,, 4.00,gold
+Toyota,Camry,2011,185000,Foreign Used, 4765000,4,1000.0, 4.20,black
+Toyota,Camry,2010,96000,Foreign Used, 5530000,4,2000.0, 4.40,black
+Lexus,RX 350,2007,105484,Foreign Used, 7740000,6,, 4.40,Blue
+Toyota,Camry,2009,96000,Foreign Used, 4580000,4,2000.0, 4.00,Blue
+Toyota,Camry,2012,85106,Foreign Used, 7015000,4,1500.0, 4.40,Grey
+Pontiac,Vibe,2009,83664,Foreign Used, 5345000,4,1500.0, 4.30,White
+Toyota,Yaris,2012,86899,Foreign Used, 4615000,4,4000.0, 4.30,Blue
+Toyota,Corolla,2006,91309,Foreign Used, 4115000,4,1500.0, 4.00,gold
+Toyota,Corolla,2006,110252,Foreign Used, 4115000,4,1500.0, 4.00,Grey
+Toyota,Sienna,2008,182642,Foreign Used, 5115000,6,1000.0, 4.00,Green
+Mercedes-Benz,ML 350,2013,159843,Foreign Used, 15015000,6,, 4.00,black
+Toyota,Camry,2004,210052,Foreign Used, 3815000,4,4000.0, 4.30,Green
+Toyota,Camry,2012,191563,Foreign Used, 6395000,6,6000.0, 4.20,Grey
+Kia,Sorento 3.5l EX,2016,96000,Locally Used, 6830000,6,3000.0, 3.30,brown
+Toyota,Highlander,2014,56000,Locally Used, 10015000,6,3000.0, 3.50,Silver
+Toyota,Highlander,2009,96552,Foreign Used, 8615000,6,2500.0, 4.50,Silver
+Toyota,Highlander,2008,97532,Foreign Used, 7930000,6,2500.0, 4.50,Grey
+Toyota,Hilux,2018,8381,Foreign Used, 33015000,6,4800.0, 4.40,White
+Toyota,Corolla,2003,120000,Foreign Used, 3530000,4,4000.0, 4.40,Silver
+Toyota,Camry,2009,64761,Foreign Used, 4715000,4,, 4.40,gold
+Toyota,Corolla,2015,56000,Foreign Used, 7230000,4,1000.0, 4.00,black
+Lexus,RX 350,2007,234702,Foreign Used, 7015000,6,6000.0, 4.10,Blue
+Toyota,Hilux,2010,86000,Foreign Used, 10315000,4,2000.0, 4.40,White
+Toyota,Camry,2009,96000,Foreign Used, 4830000,4,2000.0, 4.00,Blue
+Toyota,Sienna,2011,112809,Foreign Used, 9330000,4,2000.0, 4.40,gold
+Toyota,Corolla,2007,168736,Foreign Used, 3630000,4,2500.0, 4.30,gold
+Toyota,Corolla,2006,83930,Foreign Used, 3630000,4,2500.0, 4.00,gold
+Toyota,Corolla,2012,98054,Foreign Used, 6130000,4,1500.0, 4.50,Grey
+Toyota,Sienna,2006,96800,Foreign Used, 5780000,6,2000.0, 4.50,Silver
+Toyota,Camry,2007,86998,Foreign Used, 5330000,6,1500.0, 4.50,Silver
+Toyota,Corolla,2008,180289,Foreign Used, 3630000,4,2500.0, 4.00,Red
+Toyota,Corolla,2013,95440,Foreign Used, 6095000,4,1500.0, 4.00,Blue
+Toyota,Highlander,2013,95348,Foreign Used, 10830000,6,2500.0, 4.50,Blue
+Hyundai,Sonata,2015,96345,Foreign Used, 8330000,4,2500.0, 4.00,Grey
+Toyota,Matrix,2007,169259,Locally Used, 3645000,4,2500.0, 4.00,Silver
+Toyota,Highlander,2015,70675,Foreign Used, 16015000,6,3500.0, 4.40,Blue
+Lexus,RX 350,2014,100000,Foreign Used, 15015000,6,3500.0, 4.40,black
+Toyota,Hiace,2006,112336,Foreign Used, 9060000,4,2000.0, 4.00,black
+Toyota,Hiace,2012,45856,Foreign Used, 11545000,4,2400.0, 4.00,purple
+Toyota,Corolla,2014,93200,Foreign Used, 7215000,4,1000.0, 4.40,black
+Honda,CR-V,2009,121855,Foreign Used, 4845000,4,2000.0, 4.00,Blue
+Toyota,Corolla,2005,190543,Foreign Used, 3630000,4,2500.0, 4.00,Silver
+Hyundai,Elantra,2016,74000,Foreign Used, 6230000,5,, 4.00,gold
+Toyota,Corolla,2008,223323,Foreign Used, 3630000,4,2500.0, 4.00,Grey
+Toyota,Matrix,2006,101711,Foreign Used, 3630000,4,2500.0, 4.00,Grey
+Toyota,Corolla,2007,205262,Foreign Used, 3630000,4,2500.0, 4.00,Blue
+Toyota,Sequoia,2010,263789,Foreign Used, 12030000,6,1000.0, 4.10,Grey
+Lexus,ES 350,2013,130832,Foreign Used, 11030000,6,1000.0, 4.30,Blue
+Lexus,GX 460,2013,81911,Foreign Used, 27015000,8,1000.0, 4.40,black
+Lexus,RX 350,2010,130864,Foreign Used, 11015000,6,1000.0, 4.40,White
+Toyota,4-Runner,2016,134112,Foreign Used, 20530000,6,1000.0, 4.20,White
+Honda,Civic,2012,75163,Foreign Used, 6045000,4,1000.0, 4.00,Silver
+Toyota,Corolla,2007,101305,Foreign Used, 3630000,4,2500.0, 4.00,Blue
+Toyota,Corolla,2008,96793,Foreign Used, 3630000,4,2500.0, 4.00,Blue
+Toyota,RAV 4,2016,84983,Foreign Used, 20015000,4,2200.0, 4.40,black
+Mercedes-Benz,GLK 350,2010,86000,Foreign Used, 9330000,6,2500.0, 4.50,gold
+Toyota,Corolla,2008,99580,Foreign Used, 4130000,4,1000.0, 4.50,Silver
+Acura,MDX,2015,123483,Foreign Used, 13530000,6,1000.0, 4.10,Grey
+Ford,Edge,2010,69580,Foreign Used, 5280000,4,1500.0, 4.50,White
+Toyota,Venza,2015,87000,Foreign Used, 11815000,6,2000.0, 4.50,White
+Toyota,Venza,2009,84467,Foreign Used, 9215000,6,6000.0, 4.30,Blue
+Toyota,Avalon,2011,151864,Foreign Used, 8545000,6,6000.0, 4.40,black and orange
+Toyota,Sienna,2012,90141,Foreign Used, 11030000,6,6000.0, 4.40,Silver
+Toyota,Camry,2012,175688,Locally Used, 4830000,6,3500.0, 4.00,Silver
+Honda,Accord,2017,52092,Foreign Used, 11030000,4,1500.0, 4.40,black
+Toyota,Highlander,2013,45237,Foreign Used, 12630000,6,1500.0, 4.40,Grey
+Toyota,Hiace,2011,148526,Foreign Used, 11015000,4,2400.0, 4.10,White
+Toyota,Corolla,2008,242384,Foreign Used, 3630000,4,2500.0, 4.00,White
+Toyota,Corolla,2006,179604,Foreign Used, 3630000,4,2500.0, 4.00,gold
+Toyota,Corolla,2005,193140,Foreign Used, 3630000,4,2500.0, 4.00,gold
+Toyota,Corolla,2011,104763,Foreign Used, 4845000,4,, 4.00,Silver
+Toyota,Corolla,2014,52346,Foreign Used, 7431000,4,, 4.00,Grey
+Acura,RDX,2017,97274,Foreign Used, 15515000,6,, 4.20,White
+Toyota,4-Runner,2015,61438,Foreign Used, 22530000,6,1000.0, 4.40,Grey
+Toyota,Venza,2009,96000,Foreign Used, 8765000,6,2000.0, 4.50,Red
+Toyota,Camry,2018,38815,Foreign Used, 17815000,4,2400.0, 4.30,black
+Toyota,Camry,2018,58139,Foreign Used, 15515000,4,, 4.00,Silver
+Lexus,RX 350,2007,31083,Foreign Used, 6615000,6,, 4.40,gold
+Lexus,RX 330,2005,65000,Foreign Used, 6215000,6,, 4.40,Silver
+Toyota,RAV 4,2008,146495,Foreign Used, 5730000,4,2400.0, 4.00,gold
+Toyota,Corolla,2013,135437,Foreign Used, 5515000,4,1800.0, 4.00,Blue
+Lexus,ES 350,2013,100000,Foreign Used, 11015000,6,3500.0, 4.40,black
+Toyota,Sienna,2008,14775,Foreign Used, 5489000,6,, 4.50,black
+Mercedes-Benz,C 300,2010,85945,Foreign Used, 6830000,6,3000.0, 4.50,black
+Toyota,Highlander,2014,125889,Foreign Used, 16030000,6,4000.0, 4.30,black
+Mitsubishi,Pajero,2017,13925,Locally Used, 18045000,6,4000.0, 4.50,black
+Toyota,Venza,2010,145991,Foreign Used, 9830000,4,3000.0, 4.50,cream
+Ford,E 350,2011,123580,Foreign Used, 7215000,6,3000.0, 4.20,Red
+Honda,Accord,2013,4354,Foreign Used, 5815000,4,4000.0, 4.30,wine
+Toyota,Sienna,2004,210886,Foreign Used, 4830000,6,6000.0, 4.30,gold
+Lexus,RX 350,2016,94598,Foreign Used, 24515000,6,1000.0, 4.30,black
+Toyota,RAV 4,2005,100000,Foreign Used, 5515000,4,2200.0, 4.40,White
+Toyota,Venza,2015,65000,Foreign Used, 12515000,6,3800.0, 4.40,White
+Toyota,Venza,2010,86529,Foreign Used, 10030000,4,1000.0, 4.30,White
+Toyota,Highlander,2011,198217,Foreign Used, 11530000,6,1000.0, 4.10,White
+Mercedes-Benz,GLK 350,2011,146814,Foreign Used, 10530000,6,1000.0, 4.30,Silver
+Toyota,RAV 4,2011,108951,Foreign Used, 7515000,4,2500.0, 4.20,Silver
+Toyota,Corolla,2015,79512,Foreign Used, 7415000,4,2800.0, 4.00,Grey
+Toyota,Corolla,2014,82570,Foreign Used, 7315000,4,2500.0, 4.00,Grey
+Toyota,Corolla,2017,137832,Foreign Used, 8715000,4,2500.0, 4.00,black
+Lexus,ES 350,2007,199000,Foreign Used, 5815000,6,, 4.40,White
+Hyundai,Sonata,2013,147253,Foreign Used, 4930000,5,, 4.30,Blue
+Mercedes-Benz,GLK 350,2014,114733,Foreign Used, 13030000,6,1000.0, 4.40,cream
+Toyota,Camry,2005,45320,Foreign Used, 3545000,4,1000.0, 4.00,gold
+Mazda,CX-9,2014,97224,Foreign Used, 8015000,6,3300.0, 4.40,Grey
+Hyundai,Sonata,2011,22000,Foreign Used, 5115000,4,2000.0, 4.00,black
+Mazda,CX-9,2013,97224,Foreign Used, 8015000,6,3300.0, 4.40,Silver
+Toyota,Venza,2015,31010,Foreign Used, 10815000,4,1000.0, 4.40,black
+Land Rover,Range Rover,2011,123648,Foreign Used, 14015000,8,1000.0, 4.40,Blue
+Toyota,Avalon,2019,72924,Foreign Used, 31015000,6,1000.0, 4.20,black
+Lexus,ES 350,2009,113200,Foreign Used, 6045000,6,1000.0, 4.40,Silver
+Land Rover,Range Rover,2018,18181,Locally Used, 65605000,8,5000.0, 3.50,black
+Toyota,RAV 4,2013,32613,Foreign Used, 12515000,4,2500.0, 4.20,Green
+Toyota,Highlander,2012,139407,Foreign Used, 8915000,6,3300.0, 4.40,Silver
+Toyota,Corolla,2005,73523,Foreign Used, 3915000,4,1800.0, 4.00,Silver
+Toyota,Camry,2014,81048,Foreign Used, 6515000,4,1000.0, 4.40,gold
+Lexus,GX 460,2012,89000,Locally Used, 13965000,8,1000.0, 4.40,black
+Toyota,Corolla,2006,98562,Foreign Used, 3865000,4,2000.0, 4.00,gold
+Honda,Accord,2007,98000,Locally Used, 1315000,4,2000.0, 3.40,Grey
+Toyota,Corolla,2005,238145,Locally Used, 3815000,4,2000.0, 4.00,ash
+Toyota,Corolla,2006,110428,Locally Used, 3815000,4,2000.0, 4.00,Grey
+Toyota,Corolla,2007,97853,Locally Used, 3815000,4,2400.0, 4.00,sliver
+Toyota,Camry,2010,79188,Foreign Used, 5415000,4,2500.0, 4.00,golden yellow
+Mercedes-Benz,C 300,2012,97573,Locally Used, 7515000,6,3000.0, 4.50,Grey
+Lexus,RX 350,2013,103195,Foreign Used, 14515000,6,3400.0, 4.40,Silver
+Toyota,Highlander,2011,34259,Foreign Used, 11530000,6,, 3.30,Grey
+Hyundai,Sonata,2012,110657,Foreign Used, 5715000,4,, 4.00,White
+Ford,Edge,2010,97654,Foreign Used, 5145000,6,1000.0, 4.40,White
+Lexus,RX 350,2012,192194,Foreign Used, 11015000,6,2350.0, 4.10,ash
+Lexus,GX 460,2014,123751,Foreign Used, 26015000,6,3300.0, 4.30,White
+Toyota,Camry,2006,115000,Foreign Used, 3510000,4,, 4.00,White
+Toyota,Camry,2009,130248,Foreign Used, 4130000,4,1000.0, 4.40,Silver
+Toyota,Corolla,2016,160654,Foreign Used, 7715000,4,2500.0, 4.00,Red
+Toyota,Camry,2007,76000,Foreign Used, 4515000,4,1000.0, 4.00,Grey
+Toyota,Camry,2012,62597,Locally Used, 6815000,4,2500.0, 4.00,black
+Toyota,Camry,2018,85000,Foreign Used, 15015000,4,1000.0, 4.20,Silver
+Toyota,Camry,2005,86790,Foreign Used, 3330000,4,2200.0, 4.00,gold
+Toyota,Highlander,2014,44871,Foreign Used, 15515000,6,1000.0, 4.40,black
+Toyota,Camry,2010,58268,Foreign Used, 5830000,4,, 4.20,gold
+Toyota,Highlander,2006,180340,Locally Used, 4615000,6,, 3.50,Silver
+Toyota,Camry,2009,195621,Foreign Used, 4715000,4,1000.0, 4.00,black
+Toyota,Camry,2007,0,Foreign Used, 4445000,4,, 4.00,Silver
+Toyota,Tundra,2010,210604,Foreign Used, 9506000,8,, 4.00,Red
+Toyota,Highlander,2016,68987,Foreign Used, 15840000,6,, 4.00,maroon
+Mercedes-Benz,GLE 350,2016,42210,Foreign Used, 25020000,6,, 4.40,White
+Lexus,RX 350,2013,74653,Foreign Used, 12270000,6,, 4.00,White
+Lexus,RX 350,2010,94554,Foreign Used, 9815000,6,, 4.50,black
+Toyota,Camry,2013,21748,Foreign Used, 6519000,4,, 4.00,Red
+Toyota,Camry,2013,147643,Locally Used, 4815000,4,1000.0, 3.20,Grey
+Toyota,Corolla,2008,96589,Foreign Used, 4230000,4,1500.0, 4.50,Grey
+Toyota,Sienna,2006,147404,Locally Used, 5280000,6,, 4.40,Grey
+Toyota,RAV 4,2009,129000,Foreign Used, 7240000,6,, 4.40,White
+Toyota,Camry,2013,141944,Locally Used, 5115000,4,, 3.20,black
+Lexus,ES 350,2013,48220,Foreign Used, 13515000,6,, 4.20,Silver
+Pontiac,Vibe,2009,0,Foreign Used, 4440000,4,3000.0, 4.40,black
+Toyota,Sienna,2006,85881,Foreign Used, 4815000,6,, 4.50,Grey
+Toyota,Highlander,2011,53214,Foreign Used, 10215000,6,, 4.00,Grey
+Toyota,Sienna,2015,115384,Foreign Used, 14515000,6,3500.0, 4.00,ash
+Toyota,4-Runner,2006,102571,Locally Used, 6725000,6,, 4.40,Red
+Toyota,Corolla,2010,194955,Foreign Used, 5315000,4,1800.0, 4.10,Blue
+Toyota,Corolla,2010,208720,Foreign Used, 5365000,4,1800.0, 4.00,Red
+Toyota,Tacoma,2010,126604,Foreign Used, 11515000,6,, 4.40,Grey
+Toyota,Tacoma,2006,87607,Foreign Used, 10015000,6,, 4.00,Red
+Lexus,IS 250,2014,44597,Foreign Used, 13015000,6,2500.0, 4.30,White
+Toyota,Hilux,2022,10,Brand New, 38230000,4,2000.0,,black
+Toyota,Tacoma,2008,126412,Foreign Used, 10015000,6,, 4.20,Grey
+Toyota,Hilux,2009,335817,Foreign Used, 10515000,4,, 4.20,White
+Mitsubishi,L200,2021,1179,Locally Used, 24015000,4,, 3.50,White
+Honda,Accord,2012,174778,Foreign Used, 5015000,4,, 4.00,Grey
+Honda,Crosstour,2013,168249,Foreign Used, 7845000,6,, 4.30,Silver
+Toyota,Sienna,2013,70609,Foreign Used, 7961000,6,, 4.40,White
+Toyota,Corolla,2009,75709,Foreign Used, 5015000,4,1800.0, 4.20,Grey
+Toyota,Corolla,2017,112004,Foreign Used, 10615000,4,, 4.00,Green
+Toyota,Highlander,2010,75649,Foreign Used, 10015000,6,, 4.30,White
+Ford,Edge TIT. 3.5L,2016,89016,Foreign Used, 12415000,6,3300.0, 4.40,Grey
+Toyota,Sienna,2011,34838,Foreign Used, 10230000,6,, 4.30,Grey
+Mercedes-Benz,E 350,2013,78147,Foreign Used, 12015000,6,, 4.30,Grey
+Toyota,Solara,2007,185652,Foreign Used, 4115000,6,, 4.00,Red
+Toyota,Highlander,2016,97761,Foreign Used, 16730000,6,1000.0, 4.20,Grey
+Toyota,Tacoma,2011,83510,Foreign Used, 12530000,6,1000.0, 4.20,Grey
+Toyota,Highlander,2014,102291,Foreign Used, 16015000,6,3500.0, 4.30,Blue
+Toyota,Sienna,2009,87955,Foreign Used, 4730000,6,6000.0, 4.30,Green
+Toyota,Camry,2005,185802,Foreign Used, 4515000,4,, 4.00,Grey
+Lexus,RX 330,2004,85650,Foreign Used, 6780000,6,2500.0, 4.40,black
+Toyota,Hilux,2021,71,Brand New, 39795000,4,,,White
+Toyota,Hilux,2021,98,Brand New, 39795000,4,,,black
+Toyota,Hilux,2021,446,Brand New, 39795000,4,,,White
+Toyota,Camry,2011,102517,Foreign Used, 6210000,6,1000.0, 4.30,Silver
+Toyota,Highlander,2012,195893,Foreign Used, 11015000,6,, 4.00,White
+Toyota,Sienna,2015,79882,Foreign Used, 16315000,6,, 4.30,beige
+Hyundai,Sonata,2013,298167,Foreign Used, 5115000,4,1000.0, 4.20,Grey
+Hyundai,Sonata,2014,244934,Foreign Used, 5265000,4,1000.0, 4.20,Grey
+Hyundai,Sonata,2013,98539,Foreign Used, 5015000,4,4000.0, 4.00,Grey
+Toyota,Corolla,2010,75218,Foreign Used, 4900500,4,, 4.00,black
+Toyota,Venza,2011,77664,Foreign Used, 8515000,4,, 4.30,Silver
+Toyota,Corolla,2015,14279,Foreign Used, 7330000,4,2500.0, 4.00,Green
+Toyota,Camry,2012,213068,Foreign Used, 7730000,4,, 4.00,Blue
+Toyota,RAV 4,2009,113857,Foreign Used, 6815000,6,, 4.00,Blue
+Toyota,Camry,2009,68957,Foreign Used, 4715000,4,2400.0, 4.10,black
+Mercedes-Benz,ML 350,2013,85235,Foreign Used, 15045000,6,3500.0, 4.00,black
+Toyota,Corolla,2015,169808,Foreign Used, 7215000,4,, 4.00,Blue
+Lexus,GX 460,2020,211,Brand New, 60515000,8,,,black
+Toyota,Tacoma,2020,78,Brand New, 30615000,6,,,Silver
+Lexus,ES 330,2006,85243,Foreign Used, 4730000,6,3500.0, 4.50,Silver
+Honda,Civic,2006,92122,Foreign Used, 3215000,4,1800.0, 4.00,Blue
+Toyota,RAV 4,2015,98442,Foreign Used, 12015000,4,2000.0, 4.40,black
+Toyota,Venza,2009,148035,Foreign Used, 10530000,6,, 4.10,White
+Lexus,RX 330,2004,200000,Foreign Used, 6975000,6,, 4.30,black
+Lexus,RX 350,2014,67553,Foreign Used, 15795000,6,, 4.00,Blue
+Toyota,RAV 4,2019,34006,Foreign Used, 24515000,4,2000.0, 4.50,Grey
+Toyota,Corolla,2009,85221,Locally Used, 3330000,4,1000.0, 3.30,Grey
+Lexus,GX 460,2010,7306,Foreign Used, 20015000,6,4000.0, 4.50,black
+Lexus,RX 350,2013,116295,Foreign Used, 14465000,6,, 4.40,White
+Mercedes-Benz,ML 350,2014,134932,Foreign Used, 11515000,6,, 4.10,black
+Mercedes-Benz,GLK 350,2012,90710,Foreign Used, 11530000,6,1000.0, 4.30,Silver
+Mercedes-Benz,GLK 350,2011,98624,Foreign Used, 11015000,6,1000.0, 4.00,Grey
+Toyota,Venza,2013,67729,Foreign Used, 12515000,6,1000.0, 4.00,Silver
+Toyota,Highlander,2006,206567,Foreign Used, 5715000,6,, 4.30,Grey
+Ford,Edge,2007,105634,Foreign Used, 4035000,6,3000.0, 3.30,White
+Lexus,RX 350,2013,199373,Foreign Used, 13015000,6,, 4.00,White
+Lexus,RX 350,2013,121652,Foreign Used, 13515000,6,6000.0, 4.40,Silver
+Mercedes-Benz,ML 350,2008,162604,Foreign Used, 7015000,6,, 4.40,Blue
+Toyota,Highlander,2010,91877,Foreign Used, 7755000,6,, 4.40,White
+Lexus,RX 350,2010,36159,Foreign Used, 11015000,6,, 4.00,Grey
+Toyota,Venza,2015,81175,Foreign Used, 12015000,6,1000.0, 4.00,Blue
+Toyota,Camry,2008,156000,Locally Used, 2930000,4,2000.0, 3.20,gold
+Hyundai,Elantra,2016,146589,Foreign Used, 6015000,4,1000.0, 4.00,Blue
+Toyota,Camry,2007,74500,Foreign Used, 4415000,4,, 4.20,black
+Lexus,RX 350,2009,63744,Foreign Used, 7965000,6,, 4.20,black
+Lexus,ES 350,2013,150048,Foreign Used, 10015000,6,, 4.10,White
+Toyota,Highlander,2012,108423,Foreign Used, 11015000,6,2000.0, 4.50,black
+Toyota,Camry,2012,131316,Foreign Used, 7315000,4,, 4.00,Grey
+Toyota,Tacoma,2017,204790,Foreign Used, 18015000,6,, 4.00,black
+Lexus,RX 350,2016,35152,Foreign Used, 24030000,6,1000.0, 4.00,gold
+Toyota,Camry,2007,109583,Foreign Used, 4215000,4,4000.0, 4.30,gold
+Toyota,Corolla,2020,16543,Foreign Used, 16515000,4,2500.0, 4.40,Silver
+Mitsubishi,Pajero,2020,261,Brand New, 29885000,6,,,black
+Hyundai,Elantra,2012,180748,Foreign Used, 4815000,4,1000.0, 4.30,Grey
+Toyota,Highlander,2013,76254,Locally Used, 12515000,6,, 3.30,black
+Toyota,Corolla,2009,240450,Foreign Used, 5215000,4,1000.0, 4.00,gold
+Toyota,Highlander,2013,86000,Foreign Used, 12030000,6,3000.0, 4.40,black
+Toyota,Sienna,2015,90574,Foreign Used, 13015000,6,3500.0, 4.00,White
+Nissan,Altima,2019,21156,Foreign Used, 18530000,4,, 4.30,Grey
+Lexus,ES 350,2014,67155,Foreign Used, 11015000,6,5000.0, 4.40,Silver
+Toyota,RAV 4,2009,75836,Locally Used, 7515000,4,, 4.40,Red
+Lexus,IS 250,2015,98875,Foreign Used, 10015000,6,, 4.30,black
+Kia,Rio,2012,131793,Locally Used, 2015000,4,, 3.10,Grey
+Toyota,Venza,2013,172079,Foreign Used, 12615000,4,1000.0, 4.20,Silver
+Nissan,Murano,2010,98110,Foreign Used, 4765000,6,, 4.50,Blue
+Mercedes-Benz,GLA 250,2019,54643,Foreign Used, 19615000,4,, 4.20,black
+Toyota,Camry,2020,34864,Foreign Used, 20130000,4,, 4.20,White
+Toyota,Camry,2010,96000,Locally Used, 5465000,4,2000.0, 4.00,Grey
+Honda,Pilot,2011,103755,Foreign Used, 5715000,6,, 4.50,Red
+Mercedes-Benz,GLE 350,2016,55000,Foreign Used, 25030000,6,5000.0, 4.00,black
+Toyota,Venza,2011,145556,Foreign Used, 8745000,4,4000.0, 4.30,White
+Toyota,Corolla,2009,180008,Locally Used, 2865000,4,2000.0, 3.10,black
+Toyota,RAV 4,2014,172196,Foreign Used, 10030000,4,, 4.30,Grey
+Volkswagen,Golf,2006,109523,Locally Used, 3030000,6,, 3.90,Silver
+Lexus,ES 350,2010,110388,Foreign Used, 6815000,6,, 4.00,Grey
+Toyota,RAV 4,2012,112589,Foreign Used, 7515000,4,4000.0, 4.30,black
+Lexus,RX 350,2019,27179,Foreign Used, 26865000,6,3000.0, 4.50,Grey
+Mercedes-Benz,GLK 350,2012,83035,Foreign Used, 9545000,6,2500.0, 4.00,black
+Kia,Sorento 3.5l EX,2022,0,Brand New, 32415000,6,,,White
+Kia,Sorento,2022,0,Brand New, 32430000,6,,,White
+Kia,Sportage,2022,0,Brand New, 27105000,4,,,black
+Kia,Rio,2022,0,Brand New, 14415000,4,,,Blue
+Kia,Cerato,2022,0,Brand New, 19815000,4,,,black
+Land Rover,Range Rover,2018,44547,Foreign Used, 64515000,6,6000.0, 4.50,black
+Ford,Edge TIT. 3.5L,2016,113023,Foreign Used, 10330000,6,, 4.00,White
+Mercedes-Benz,GLK 350,2013,126925,Foreign Used, 10815000,6,3300.0, 4.00,White
+Toyota,Highlander,2015,91463,Foreign Used, 16515000,6,, 4.50,brown
+Lexus,ES 350,2010,174606,Foreign Used, 6530000,6,, 4.00,Grey
+Toyota,Camry,2005,98000,Locally Used, 3330000,4,2000.0, 3.90,gold
+Toyota,Highlander,2006,161832,Foreign Used, 6315000,6,2000.0, 4.00,black
+Mercedes-Benz,E 350,2014,107895,Foreign Used, 10830000,6,6000.0, 4.50,black
+Nissan,Sentra,2014,57949,Foreign Used, 6830000,4,, 4.20,black
+Toyota,Hilux,2022,675,Brand New, 33445000,4,2000.0,,White
+Kia,Sorento 3.5l EX,2021,0,Brand New, 26115000,6,,,black
+Kia,Sorento 3.5l EX,2021,0,Brand New, 23415000,6,,,black
+Kia,Sportage,2021,0,Brand New, 17835000,4,,,Red
+Kia,Optima,2021,0,Brand New, 16215000,2,,,White
+Kia,Cerato,2021,0,Brand New, 15027000,2,,,White
+Kia,Rio,2021,0,Brand New, 10095000,2,,,White
+Toyota,Highlander,2011,95983,Foreign Used, 11865000,6,3000.0, 4.00,Grey
+Mitsubishi,Pajero,2022,0,Brand New, 27015000,4,,,Silver
+JAC,Frison T6 4x4,2020,0,Brand New, 15915000,6,,,Silver
+JAC,Frison T6 4x4,2020,0,Brand New, 14915000,6,,,Silver
+JAC,Frison T6 4x4,2020,0,Brand New, 14515000,6,,,White
+Ford,Ranger D/C,2022,0,Brand New, 19902500,4,,,brown
+Ford,Ranger D/C,2020,0,Brand New, 17752500,4,,,White
+Ford,Ranger D/C,2020,0,Brand New, 13275000,2,,,black
+Ford,Edge TIT. 3.5L,2020,0,Brand New, 29175000,4,,,Silver
+Toyota,Coaster,2020,0,Brand New, 48515000,6,,,White
+Toyota,Coaster,2020,0,Brand New, 46015000,6,,,White
+Toyota,Yaris,2020,0,Brand New, 9515000,4,,,Blue
+Toyota,Camry,2011,108915,Foreign Used, 5530000,4,2000.0, 4.00,Grey
+Lexus,GX 460,2020,0,Brand New, 58015000,8,,,Grey
+Toyota,Hilux,2020,0,Brand New, 28515000,6,,,Red
+Toyota,Hilux,2020,0,Brand New, 38015000,6,,,Red
+Toyota,Hilux,2021,0,Brand New, 36015000,6,,,White
+Toyota,Hiace,2020,0,Brand New, 26015000,4,,,White
+Toyota,Corolla,2020,0,Brand New, 20515000,4,,,White
+Toyota,Corolla,2020,0,Brand New, 19515000,4,,,White
+Toyota,Camry,2019,0,Brand New, 28015000,6,,,Red
+Toyota,Camry,2019,0,Brand New, 24015000,4,,,Blue
+Toyota,Coaster,2019,0,Brand New, 48515000,6,,,White
+Toyota,Corolla,2019,0,Brand New, 16515000,4,,,White
+Toyota,Hilux,2020,0,Brand New, 23015000,6,,,White
+Toyota,Hiace,2019,0,Brand New, 25515000,4,,,Blue
+Toyota,Camry,2019,0,Brand New, 36515000,6,,,Silver
+Dodge,Durango,2019,66,Brand New, 33015000,6,,,black
+Toyota,Corolla,2013,97652,Foreign Used, 6330000,4,1000.0, 4.00,Blue
+Toyota,Corolla,2016,185426,Foreign Used, 8015000,6,, 4.00,Silver
+Toyota,Camry,2011,65560,Foreign Used, 6030000,4,1000.0, 4.00,yellow
+Mercedes-Benz,C 300,2015,99367,Foreign Used, 13545000,4,4000.0, 4.50,Grey
+Hyundai,Santa Fe,2013,148752,Foreign Used, 9015000,6,3300.0, 0.00,Silver
+Toyota,Corolla,2015,139552,Foreign Used, 8515000,4,2400.0, 0.00,Grey
+Lexus,GX 460,2015,97777,Foreign Used, 26530000,8,4600.0, 0.00,Silver
+Honda,Ridgeline,2010,85000,Foreign Used, 6515000,6,1000.0, 0.00,Red
+Mercedes-Benz,E 350,2014,213468,Foreign Used, 12515000,6,1000.0, 0.00,Grey
+Toyota,Corolla,2016,111502,Foreign Used, 8015000,4,4000.0, 0.00,Silver
+Land Rover,Range Rover,2014,72556,Locally Used, 23015000,6,6000.0, 0.00,black
+Toyota,Sienna,2008,121333,Foreign Used, 5815000,6,3000.0, 0.00,gold
+Toyota,Matrix,2005,97523,Foreign Used, 3880000,4,1500.0, 0.00,Silver
+Lexus,RX 330,2004,78874,Foreign Used, 6130000,6,6000.0, 0.00,black
+Mazda,CX-7,2011,156904,Foreign Used, 5030000,6,, 0.00,purple
+Toyota,RAV 4,2010,124382,Foreign Used, 6930000,4,, 0.00,Grey
+Mercedes-Benz,GLE 350,2017,51283,Foreign Used, 25530000,6,3000.0, 0.00,Blue
+Mercedes-Benz,GLK 350,2010,97814,Foreign Used, 8530000,6,, 0.00,Grey
+Toyota,Camry,2013,104930,Foreign Used, 7315000,4,2500.0, 0.00,Silver
+Mercedes-Benz,GLK 350,2012,54862,Locally Used, 11515000,4,3500.0, 0.00,Red
+Toyota,Camry,2012,55313,Foreign Used, 8530000,6,, 3.30,black
+Toyota,RAV 4,2007,101000,Foreign Used, 5915000,6,1000.0, 0.00,Grey
+Toyota,Camry,2006,98589,Foreign Used, 3360000,6,, 0.00,Red
+Toyota,Highlander,2005,202342,Foreign Used, 5015000,6,, 0.00,Blue
+Lexus,RX 330,2006,195234,Foreign Used, 6515000,6,1000.0, 0.00,White
+Honda,Civic,2011,89883,Foreign Used, 4060000,4,, 0.00,Red
+Toyota,Highlander,2011,88502,Foreign Used, 12030000,6,1000.0, 0.00,gold
+Honda,Pilot,2006,110470,Foreign Used, 4315000,6,, 0.00,Green
+Volkswagen,Golf,2012,120470,Foreign Used, 3245000,5,, 0.00,Blue
+Toyota,RAV 4,2010,52345,Foreign Used, 5895000,4,2500.0, 0.00,Silver
+Hyundai,Sonata,2015,138357,Foreign Used, 7730000,4,2400.0, 0.00,sliver
+Toyota,Venza,2014,15236,Foreign Used, 9045000,4,2000.0, 0.00,Silver
+Honda,CR-V,2009,85243,Foreign Used, 5015000,4,1800.0, 0.00,black
+Lexus,RX 350,2007,105067,Foreign Used, 6730000,6,, 0.00,Silver
+Toyota,RAV 4,2009,45231,Foreign Used, 5830000,6,3000.0, 0.00,Grey
+Toyota,Venza,2012,41027,Foreign Used, 8030000,4,2400.0, 0.00,White
+Toyota,Sequoia,2012,166760,Foreign Used, 14530000,8,, 0.00,Silver
+Toyota,4-Runner,2012,78333,Foreign Used, 17064000,8,, 0.00,black
+Hyundai,Sonata,2011,96598,Foreign Used, 5015000,4,3000.0, 0.00,Blue
+Toyota,Corolla,2006,144307,Foreign Used, 3705000,4,, 0.00,Grey
+Toyota,Camry,2010,104632,Locally Used, 4130000,4,, 4.30,Grey
+Toyota,Camry,2008,95411,Foreign Used, 3774000,4,, 0.00,Blue
+Toyota,Corolla,2012,162970,Locally Used, 2830000,4,, 2.90,gold
+Lexus,RX 350,2014,73960,Foreign Used, 12270000,6,6000.0, 0.00,beige
+Lexus,RX 330,2004,213521,Locally Used, 2730000,,3500.0,,Silver
+Toyota,Highlander,2005,235145,Locally Used, 1890000,,3500.0,,Silver
+Toyota,Corolla,2002,405472,Locally Used, 1050000,,1800.0,,black
+Ford,Edge,2008,290102,Locally Used, 1275000,,3500.0,,Grey
+Ford,Edge,2014,76565,Locally Used, 3675000,,3500.0,,black
+Kia,Rio,2012,34062,Locally Used, 1260000,,1400.0,,Blue
+Toyota,Corolla,2012,232372,Locally Used, 2100000,,1800.0,,Silver
+Honda,Civic,2007,147631,Locally Used, 1554000,,1300.0,,Silver
+Toyota,Camry,2009,125817,Locally Used, 2415000,,2400.0,,Silver
+Honda,City,2007,357519,Locally Used, 945000,,1600.0,,Grey
+Lexus,IS,2009,208056,Locally Used, 3360000,6.0,2500.0,,black
+Volkswagen,Polo,2013,130829,Locally Used, 1890000,,1600.0,,Silver
+Toyota,Corolla,2008,94247,Locally Used, 1785000,,1400.0,,Green
+Toyota,Camry,2013,160031,Foreign Used, 7072000,,2500.0,,White
+Toyota,Camry,2007,174500,Locally Used, 3640000,,2400.0,,black
+Toyota,Camry,2013,279751,Foreign Used, 8320000,,2500.0,,Blue
+Hyundai,Sonata,2015,94415,Locally Used, 6448000,,2400.0,,Silver
+Toyota,Camry,2013,65092,Locally Used, 6032000,,3500.0,,Silver
+Nissan,Sentra,2015,149953,Foreign Used, 5775000,4.0,1800.0,,Silver
+Toyota,Camry,2007,213417,Locally Used, 3328000,,2400.0,,Silver
+Lexus,RX 350,2008,108033,Locally Used, 5200000,,3500.0,,Blue
+Toyota,Camry,2013,104763,Foreign Used, 6595000,,2800.0,,black
+Toyota,Corolla,2009,332522,Locally Used, 3640000,,1800.0,,Silver
+Toyota,Camry,2007,134287,Locally Used, 3120000,,2400.0,,black
+Toyota,Camry,2011,226347,Foreign Used, 4410000,,2500.0,,Grey
+Toyota,Highlander,2011,240911,Locally Used, 8944000,,3500.0,,White
+Toyota,Camry,2007,91621,Locally Used, 3744000,,3500.0,,Silver
+Lexus,GS,2006,264049,Locally Used, 3328000,8.0,3000.0,,black
+Lexus,RX 350,2008,108033,Locally Used, 5200000,,3500.0,,Blue
+Toyota,Sienna,2004,235494,Locally Used, 3328000,,3300.0,,White
+Hyundai,Sonata,2015,116235,Locally Used, 5720000,,1800.0,,Silver
+Toyota,Camry,2014,311658,Foreign Used, 8400000,,3500.0,,Silver
+Toyota,Tundra,2011,311514,Locally Used, 11550000,,5700.0,,Grey
+Hyundai,Sonata,2015,94415,Locally Used, 6448000,,2400.0,,Silver
+Lexus,ES,2011,229610,Locally Used, 5720000,,3500.0,,Silver
+Lexus,IS,2007,107448,Locally Used, 3640000,,2500.0,,Grey
+Toyota,Highlander,2001,284208,Locally Used, 3640000,,3000.0,,Silver
+Hyundai,Sonata,2011,119874,Locally Used, 3150000,,2400.0,,White
+Toyota,Camry,2005,395002,Foreign Used, 3640000,,2400.0,,Silver
+Lexus,RX 350,2010,166230,Foreign Used, 9450000,,3400.0,,Grey
+Acura,TL,2010,287146,Locally Used, 3640000,,3500.0,,White
+Land Rover,Range Rover,2011,100097,Locally Used, 10920000,,3500.0,,black
+Toyota,Sienna,2005,307224,Foreign Used, 4888000,,3300.0,,gold
+Toyota,Highlander,2015,79850,Locally Used, 14560000,,3500.0,,black
+Toyota,Corolla,2012,78077,Locally Used, 3360000,,1800.0,,black
+Mercedes-Benz,E350,2013,79024,Locally Used, 5250000,,3500.0,,black
+Toyota,Camry,2007,322278,Locally Used, 3852000,,3500.0,,Grey
+Mercedes-Benz,GLK-Class,2010,201186,Foreign Used, 8400000,,3500.0,,black
+Mercedes-Benz,M Class,2008,152843,Locally Used, 4160000,6.0,3500.0,,Grey
+Toyota,Camry,2005,395002,Foreign Used, 3640000,,2400.0,,Silver
+Lexus,GX,2006,168388,Locally Used, 6760000,,4200.0,,black
+Lexus,ES,2007,100121,Locally Used, 4264000,,3500.0,,Blue
+Mercedes-Benz,M Class,2006,224160,Locally Used, 3952000,,3500.0,,Red
+Land Rover,Range Rover,2014,88,Locally Used, 28200000,,3000.0,,gold
+Toyota,Highlander,2006,201583,Locally Used, 3120000,,3300.0,,gold
+Acura,MDX,2007,154459,Locally Used, 4740000,6.0,3700.0,,Green
+Toyota,Venza,2009,165972,Locally Used, 6760000,6.0,3500.0,,purple
+Lexus,ES,2007,252761,Locally Used, 3850000,6.0,3500.0,,White
+Hyundai,Sonata,2013,177629,Foreign Used, 6240000,4.0,2400.0,,Blue
+Toyota,Venza,2013,110458,Foreign Used, 10500000,,3500.0,,black
+Toyota,Camry,2013,65092,Locally Used, 6032000,,3500.0,,Silver
+Lexus,GS,2006,160742,Locally Used, 3328000,6.0,3500.0,,Blue
+Mercedes-Benz,M Class,2011,137469,Foreign Used, 7875000,,3500.0,,White
+Toyota,Highlander,2015,79850,Locally Used, 14560000,,3500.0,,black
+Acura,RDX,2008,269438,Foreign Used, 4410000,4.0,2300.0,,black
+Toyota,Venza,2013,77364,Foreign Used, 11960000,,3500.0,,Silver
+Toyota,Venza,2012,149415,Locally Used, 6300000,6.0,2500.0,,brown
+Mercedes-Benz,GL-Class,2013,100261,Foreign Used, 14700000,,4700.0,,White
+Toyota,Highlander,2003,338814,Locally Used, 3952000,,2400.0,,Blue
+Jeep,Liberty,2008,114736,Locally Used, 3990000,,3700.0,,Silver
+Nissan,Sentra,2015,149953,Foreign Used, 5775000,4.0,1800.0,,Silver
+Toyota,Highlander,2003,338814,Locally Used, 3952000,,2400.0,,Blue
+Ford,Edge,2011,186348,Foreign Used, 5250000,,3500.0,,Grey
+Toyota,Camry,2014,311658,Foreign Used, 8400000,,3500.0,,Silver
+Toyota,RAV4,2007,109651,Locally Used, 4056000,4.0,3500.0,,Silver
+Toyota,Sienna,2007,206987,Locally Used, 4680000,,3500.0,,gold
+Lexus,IS,2007,310755,Foreign Used, 4700000,,2500.0,,black
+Toyota,Highlander,2009,184060,Locally Used, 6760000,6.0,3500.0,,Blue
+Lexus,ES,2008,77326,Foreign Used, 6760000,,3500.0,,Silver
+Toyota,Highlander,2013,143477,Locally Used, 9360000,,3500.0,,Grey
+Toyota,Camry,2010,157496,Foreign Used, 4294500,6.0,2500.0,,Silver
+Toyota,Highlander,2012,115987,Locally Used, 7800000,,3500.0,,black
+Toyota,Highlander,2005,204586,Locally Used, 3640000,,3500.0,,Blue
+Ford,Explorer,2013,219928,Locally Used, 6760000,,2000.0,,White
+Toyota,Corolla,2009,326449,Locally Used, 3024000,4.0,1800.0,,Silver
+Lexus,GX,2008,246608,Locally Used, 6300000,,4700.0,,black
+Pontiac,Vibe,2009,189435,Foreign Used, 3990000,4.0,2400.0,,Grey
+Toyota,Corolla,2009,332522,Locally Used, 3640000,,1800.0,,Silver
+Lexus,ES,2007,146223,Locally Used, 4732000,,3500.0,,black
+Mercedes-Benz,C300,2008,319974,Locally Used, 4888000,,3000.0,,Grey
+Hyundai,Elantra,2013,263619,Foreign Used, 5408000,,1800.0,,Grey
+Toyota,Sienna,2011,140138,Foreign Used, 6825000,,3500.0,,black
+Hyundai,Sonata,2014,243435,Foreign Used, 7280000,4.0,2400.0,,Red
+Mercedes-Benz,M Class,2011,146652,Locally Used, 5145000,,3500.0,,black
+Lexus,RX 350,2007,213992,Foreign Used, 5565000,,3500.0,,gold
+Lexus,GS,2006,167329,Locally Used, 3328000,,3000.0,,black
+Land Rover,Lr3,2006,141123,Locally Used, 3680000,,4000.0,,Green
+Mercedes-Benz,E350,2013,79024,Locally Used, 5250000,,3500.0,,black
+Toyota,Highlander,2005,204586,Locally Used, 3640000,,3500.0,,Blue
+Lexus,RX 330,2004,247254,Locally Used, 4472000,,3300.0,,Silver
+Land Rover,Range Rover,2009,55181,Locally Used, 9150000,,4600.0,,black
+Toyota,Camry,2011,160002,Locally Used, 3952000,,2500.0,,Grey
+Toyota,Camry,2007,122857,Locally Used, 3120000,,2400.0,,Grey
+Toyota,RAV4,2014,69987,Locally Used, 9360000,,3500.0,,black
+Land Rover,Range Rover,2011,100097,Locally Used, 10920000,,3500.0,,black
+Toyota,Camry,2020,67067,Foreign Used, 13800000,,2500.0,,Silver
+Lexus,ES,2007,136872,Locally Used, 3570000,,3500.0,,brown
+Lexus,GS,2007,247223,Locally Used, 3360000,6.0,3500.0,,Grey
+Lexus,GX,2006,168388,Locally Used, 6760000,,4200.0,,black
+Toyota,Highlander,2013,143477,Locally Used, 9360000,,3500.0,,Grey
+Toyota,Land Cruiser Prado,2011,80869,Locally Used, 17680000,,2700.0,,black
+Toyota,Camry,2012,151898,Foreign Used, 6760000,,2400.0,,Green
+Toyota,RAV4,2008,333965,Foreign Used, 5250000,,2400.0,,black
+Lexus,IS,2007,310755,Foreign Used, 4700000,,2500.0,,black
+Lexus,ES,2008,77326,Foreign Used, 6760000,,3500.0,,Silver
+Mercedes-Benz,C300,2015,82680,Locally Used, 12000000,,2500.0,,Blue
+Toyota,Corolla,2009,200815,Locally Used, 4160000,,1800.0,,gold
+Land Rover,Range Rover,2010,99973,Locally Used, 6240000,,5000.0,,black
+Lexus,RX 350,2008,139481,Locally Used, 6240000,,3500.0,,Silver
+Lexus,ES,2009,121574,Locally Used, 4368000,,3500.0,,Blue
+Lexus,ES,2007,100121,Locally Used, 4264000,,3500.0,,Blue
+Toyota,Matrix,2009,170458,Foreign Used, 4300000,4.0,2400.0,,White
+Toyota,Highlander,2011,240911,Locally Used, 8944000,,3500.0,,White
+Toyota,Corolla,2011,99371,Locally Used, 3640000,,1800.0,,black
+Toyota,RAV4,2007,109651,Locally Used, 4056000,4.0,3500.0,,Silver
+Lexus,IS,2015,62274,Foreign Used, 13520000,,2500.0,,White
+Toyota,Corolla,2009,200815,Locally Used, 4160000,,1800.0,,gold
+Hyundai,Santa Fe,2007,276589,Foreign Used, 3380000,,2700.0,,Silver
+Toyota,Camry,2004,194133,Foreign Used, 3536000,4.0,2400.0,,White
+Lexus,ES,2004,226649,Locally Used, 3016000,,3300.0,,black
+Toyota,Camry,2013,104763,Foreign Used, 6595000,,2800.0,,black
+Toyota,Corolla,2011,99371,Locally Used, 3640000,,1800.0,,black
+Toyota,RAV4,2007,109651,Locally Used, 4056000,4.0,3500.0,,Silver
+Toyota,Camry,2007,322278,Locally Used, 3852000,,3500.0,,Grey
+Toyota,Camry,2012,117040,Locally Used, 4410000,4.0,3500.0,,black
+Lexus,ES,2011,139744,Foreign Used, 6718750,,3500.0,,gold
+Toyota,Camry,2013,224716,Foreign Used, 5775000,,2500.0,,Silver
+Lexus,ES,2007,147470,Locally Used, 6240000,,3500.0,,gold
+Mercedes-Benz,C300,2011,200657,Foreign Used, 6780000,,3000.0,,black
+Toyota,Camry,2011,301735,Foreign Used, 5408000,,2500.0,,Blue
+Toyota,Corolla,2014,161613,Locally Used, 5040000,,1800.0,,Green
+Toyota,Highlander,2004,228822,Locally Used, 3120000,4.0,3300.0,,Silver
+Toyota,Camry,2012,144198,Foreign Used, 6760000,,2500.0,,Red
+Land Rover,Range Rover,2014,88,Locally Used, 28200000,,3000.0,,gold
+Ford,Explorer,2013,219928,Locally Used, 6760000,,2000.0,,White
+Toyota,Hilux,2013,335712,Locally Used, 6300000,,2700.0,,White
+Lexus,ES,2011,184980,Locally Used, 4200000,,3500.0,,black
+Ford,Edge,2011,421952,Foreign Used, 6760000,,3500.0,,Blue
+Toyota,Venza,2013,240496,Locally Used, 7592000,4.0,2700.0,,Grey
+Hyundai,Santa Fe,2012,81231,Locally Used, 3675000,,2400.0,,brown
+Hyundai,Santa Fe,2015,112062,Locally Used, 6825000,,2400.0,,Grey
+Toyota,Venza,2009,234028,Locally Used, 7280000,6.0,3500.0,,Red
+Toyota,Tundra,2014,223097,Foreign Used, 22050000,,5700.0,,Grey
+Lexus,GS,2006,256018,Locally Used, 3440000,6.0,3000.0,,Blue
+Toyota,Avalon,2013,110675,Locally Used, 7644000,6.0,3500.0,,Silver
+Toyota,Tacoma,2008,301097,Locally Used, 4900000,6.0,4000.0,,Silver
+Mercedes-Benz,C300,2010,99742,Foreign Used, 5040000,,3500.0,,White
+Toyota,Corolla,2009,180386,Locally Used, 3045000,4.0,1800.0,,Silver
+Toyota,Tundra,2005,340233,Foreign Used, 7488000,,4700.0,,black
+Mercedes-Benz,C300,2011,327553,Foreign Used, 6090000,6.0,3000.0,,White
+Ford,Explorer,2014,81174,Locally Used, 15600000,6.0,3500.0,,White
+Lexus,ES,2008,185503,Locally Used, 3675000,,3500.0,,Silver
+Mercedes-Benz,GL-Class,2011,136386,Locally Used, 6825000,,5500.0,,black
+Toyota,RAV4,2007,147884,Locally Used, 3640000,,2400.0,,Silver
+Toyota,RAV4,2008,109660,Locally Used, 3307500,6.0,3500.0,,Red
+Lexus,IS,2008,154521,Locally Used, 3255000,,3500.0,,White
+Toyota,Tacoma,2005,111455,Locally Used, 6300000,,4000.0,,gold
+Toyota,Camry,2012,143955,Locally Used, 5200000,,2500.0,,black
+Toyota,Venza,2010,95687,Foreign Used, 9360000,,3500.0,,Silver
+Land Rover,Range Rover Evoque,2012,54000,Locally Used, 7087500,,2800.0,,Red
+Toyota,Highlander,2008,108308,Locally Used, 4410000,,3500.0,,black
+Toyota,Corolla,2005,208707,Foreign Used, 3744000,,1800.0,,Silver
+Lexus,RX 350,2009,216533,Foreign Used, 6195000,,3500.0,,Grey
+Hyundai,Elantra,2015,114412,Locally Used, 3045000,,1800.0,,brown
+Hyundai,Santa Fe,2008,290680,Foreign Used, 4680000,,3300.0,,Grey
+Mercedes-Benz,S-Class,2008,87535,Locally Used, 8320000,,5500.9,,black
+Lexus,ES,2005,139286,Foreign Used, 3990000,,3300.0,,White
+Nissan,Murano,2012,128748,Locally Used, 3990000,6.0,3500.0,,black
+Toyota,Camry,2012,138946,Locally Used, 4700000,,2500.0,,black
+Lexus,GS,2008,197705,Foreign Used, 4725000,,3500.0,,black
+Lexus,RX 350,2015,103089,Foreign Used, 14700000,,3500.0,,Grey
+Toyota,Corolla,2008,185043,Locally Used, 3640000,,1800.0,,black
+Ford,Escape,2014,165413,Foreign Used, 5250000,,2000.0,,Red
+Toyota,Tacoma,2007,151456,Foreign Used, 7665000,,3500.0,,White
+Toyota,RAV4,2015,135678,Foreign Used, 13520000,,2500.0,,White
+Acura,MDX,2010,58805,Locally Used, 5200000,,3700.0,,ivory
+Toyota,Sienna,2004,237181,Locally Used, 4680000,,3300.0,,Grey
+Toyota,Avalon,2011,107251,Locally Used, 4210000,6.0,3500.0,,black
+Lexus,GX,2003,232164,Locally Used, 3675000,8.0,4700.0,,Red
+Land Rover,Range Rover,2011,223592,Foreign Used, 13125000,,5000.0,,black
+Toyota,Matrix,2010,510727,Locally Used, 3952000,,1800.0,,White
+Toyota,Corolla,2007,107719,Foreign Used, 4010000,,1800.0,,black
+Lexus,ES,2009,231559,Locally Used, 3675000,6.0,3500.0,,black
+Toyota,Corolla,2010,57490,Locally Used, 3848000,4.0,1800.0,,Red
+Toyota,RAV4,2015,55764,Locally Used, 7245000,,2500.0,,Grey
+Lexus,ES,2007,173942,Locally Used, 4680000,,3500.0,,Grey
+Toyota,Venza,2013,203555,Foreign Used, 8295000,,2700.0,,Silver
+Toyota,Sienna,2008,122235,Locally Used, 3848000,,3500.0,,White
+Toyota,Corolla,2009,242119,Locally Used, 3640000,4.0,1800.0,,black
+Land Rover,Lr3,2005,126109,Locally Used, 3150000,,4400.0,,White
+Toyota,Camry,2011,108763,Locally Used, 3360000,,2500.0,,Red
+Toyota,Corolla,2009,212309,Locally Used, 3536000,,1800.0,,Red
+Lexus,RX 330,2006,299781,Foreign Used, 6300000,,3300.0,,Silver
+Land Rover,Range Rover,2008,79439,Locally Used, 5200000,,4200.0,,black
+Lexus,ES,2007,262201,Locally Used, 3465000,6.0,3500.0,,Silver
+Mercedes-Benz,GLK-Class,2010,74282,Locally Used, 5040000,,3500.0,,Blue
+Toyota,Camry,2018,33945,Locally Used, 13520000,,2500.0,,Grey
+Mercedes-Benz,C300,2009,196439,Locally Used, 3570000,6.0,3000.0,,black
+Toyota,Avalon,2007,146297,Locally Used, 3120000,,3500.0,,Blue
+Lexus,RX 350,2011,94104,Foreign Used, 10395000,,3500.0,,Grey
+Pontiac,Vibe,2009,232277,Foreign Used, 3885000,,2400.0,,Silver
+Toyota,Sienna,2005,291136,Locally Used, 4992000,6.0,3300.0,,Grey
+Toyota,Camry,2014,164519,Foreign Used, 6300000,4.0,2500.0,,Silver
+Acura,MDX,2008,279586,Locally Used, 3150000,,3700.0,,Silver
+Toyota,Land Cruiser Prado,2014,149674,Locally Used, 16800000,4.0,2700.0,,black
+Lexus,ES,2007,245290,Locally Used, 4680000,,3500.0,,black
+Toyota,Venza,2013,160737,Locally Used, 10400000,,3500.0,,black
+Ford,Ranger,2011,281548,Locally Used, 3990000,,2200.0,,White
+Toyota,Sienna,2005,305026,Locally Used, 5720000,6.0,3300.0,,Grey
+Mitsubishi,L200,2011,117523,Locally Used, 5775000,,2400.0,,brown
+Toyota,Camry,2009,174367,Locally Used, 3640000,,2400.0,,Red
+Lexus,RX 350,2010,111944,Foreign Used, 10500000,,3500.0,,Grey
+Lexus,ES,2007,160232,Locally Used, 3265000,6.0,3500.0,,black
+Toyota,Sienna,2008,322230,Foreign Used, 4515000,,3500.0,,White
+Toyota,Camry,2012,107722,Locally Used, 4520000,,2500.0,,Grey
+Mercedes-Benz,C350,2008,434317,Locally Used, 5200000,,3500.0,,black
+Toyota,Camry,2009,351531,Locally Used, 3120000,4.0,2400.0,,black
+Ford,Edge,2014,81173,Locally Used, 3190000,,2000.0,,black
+Lexus,ES,2008,116827,Locally Used, 3675000,,3500.0,,gold
+Lexus,IS,2008,157465,Locally Used, 3150000,,2500.0,,black
+Lexus,IS,2008,157300,Locally Used, 3640000,,2500.0,,Red
+Lexus,ES,2007,178631,Locally Used, 4160000,,3500.0,,Grey
+Toyota,Sienna,2005,121563,Locally Used, 3120000,,3500.0,,White
+Lexus,IS,2009,106868,Locally Used, 3675000,,3500.0,,Silver
+Toyota,Highlander,2005,199202,Locally Used, 3760000,,3300.0,,Blue
+Toyota,Camry,2006,125815,Locally Used, 3328000,,2400.0,,gold
+Nissan,Pathfinder,2006,367402,Locally Used, 3120000,,3200.0,,black
+Toyota,Corolla,2012,134083,Locally Used, 3952000,,1800.0,,Grey
+Nissan,Pathfinder,2005,275968,Foreign Used, 3150000,,4000.0,,Grey
+Toyota,RAV4,2007,117784,Locally Used, 3640000,,3500.0,,White
+Hyundai,Elantra,2012,88492,Locally Used, 5780000,,1800.0,,White
+Ford,Explorer,2008,381543,Locally Used, 3150000,6.0,4000.0,,black
+Toyota,Highlander,2012,98358,Foreign Used, 13520000,6.0,3500.0,,black
+Pontiac,Vibe,2004,226374,Foreign Used, 3150000,,1800.0,,White
+Toyota,Camry,2013,126677,Foreign Used, 6090000,4.0,2500.0,,Grey
+Lexus,GS,2007,179777,Locally Used, 4160000,,3500.0,,Silver
+Toyota,Camry,2012,92564,Locally Used, 4992000,,2500.0,,black
+Toyota,Highlander,2008,164682,Locally Used, 4725000,,3500.0,,Silver
+Kia,Sportage,2013,90020,Locally Used, 8840000,,2000.0,,Red
+Ford,Edge,2014,81173,Locally Used, 3190000,,2000.0,,black
+Land Rover,Range Rover Evoque,2012,54000,Locally Used, 7087500,,2800.0,,Red
+Mercedes-Benz,C300,2010,256173,Foreign Used, 6760000,6.0,3500.0,,black
+Toyota,4-Runner,2017,132556,Foreign Used, 24960000,,4700.0,,black
+Toyota,Sienna,2005,121563,Locally Used, 3120000,,3500.0,,White
+Lexus,IS,2009,106868,Locally Used, 3675000,,3500.0,,Silver
+Toyota,Highlander,2007,318108,Foreign Used, 4830000,,3300.0,,Blue
+Pontiac,Vibe,2004,226374,Foreign Used, 3150000,,1800.0,,White
+Mercedes-Benz,GL-Class,2010,71626,Locally Used, 4725000,,4700.0,,Silver
+Toyota,Camry,2009,187564,Locally Used, 3536000,,2500.0,,Grey
+Lexus,GX,2011,104330,Locally Used, 18720000,8.0,4600.0,,Silver
+Toyota,Camry,2013,179925,Locally Used, 4108000,,2500.0,,black
+Lexus,ES,2007,160232,Locally Used, 3265000,6.0,3500.0,,black
+Nissan,Sentra,2010,252529,Foreign Used, 3150000,,2000.0,,black
+Toyota,Matrix,2008,68888,Locally Used, 3640000,4.0,1800.0,,Silver
+Toyota,Camry,2005,355845,Foreign Used, 3640000,,2400.0,,Silver
+Toyota,Avalon,2011,107251,Locally Used, 4210000,6.0,3500.0,,black
+Mercedes-Benz,C300,2008,150928,Foreign Used, 5145000,,3000.0,,black
+Toyota,RAV4,2004,181035,Foreign Used, 3675000,4.0,2400.0,,Silver
+Toyota,Corolla,2010,188678,Locally Used, 3848000,4.0,1800.0,,White
+Lexus,ES,2007,267034,Locally Used, 3570000,,3500.0,,ivory
+Honda,Accord,2014,281034,Foreign Used, 6457500,,2400.0,,black
+Honda,Pilot,2008,247653,Foreign Used, 3803100,6.0,3500.0,,Green
+Mercedes-Benz,M Class,2006,194642,Locally Used, 3570000,8.0,5000.0,,black
+Toyota,Highlander,2015,108335,Foreign Used, 15120000,,3500.0,,White
+Toyota,Corolla,2013,149529,Locally Used, 4160000,,1800.0,,Blue
+Toyota,Corolla,2009,91447,Locally Used, 3744000,,1800.0,,White
+Lexus,ES,2007,267034,Locally Used, 3570000,,3500.0,,ivory
+Toyota,RAV4,2004,181035,Foreign Used, 3675000,4.0,2400.0,,Silver
+Lexus,GX,2011,104330,Locally Used, 18720000,8.0,4600.0,,Silver
+Mercedes-Benz,M Class,2006,194642,Locally Used, 3570000,8.0,5000.0,,black
+Kia,Optima,2016,84321,Locally Used, 5775000,,2400.0,,White
+Lexus,RX 350,2010,52276,Locally Used, 7350000,,3500.0,,black
+Mercedes-Benz,C350,2008,289939,Foreign Used, 3885000,,3500.0,,black
+Hyundai,Santa Fe,2017,70808,Foreign Used, 17850000,,3300.0,,Silver
+Mercedes-Benz,C300,2008,150928,Foreign Used, 5145000,,3000.0,,black
+Toyota,Camry,2007,128339,Locally Used, 2720000,,3500.0,,Grey
+Toyota,Camry,2005,293070,Locally Used, 2288000,,2400.0,,gold
+Toyota,Corolla,2015,108760,Locally Used, 5145000,,1800.0,,White
+Toyota,Corolla,2016,80077,Locally Used, 4935000,,1800.0,,Grey
+Toyota,Matrix,2008,68888,Locally Used, 3640000,4.0,1800.0,,Silver
+Nissan,Sentra,2014,67821,Locally Used, 4725000,,1800.0,,Grey
+Ford,Edge,2017,45389,Locally Used, 15750000,,2400.0,,black
+Toyota,Corolla,2010,188616,Locally Used, 3352000,,1800.0,,black
+Mercedes-Benz,GLK-Class,2010,34126,Locally Used, 5775000,6.0,3500.0,,White
+Lexus,RX 330,2005,167290,Locally Used, 3780000,,3300.0,,black
+Toyota,Corolla,2017,99756,Locally Used, 8840000,4.0,1800.0,,Grey
+Mercedes-Benz,C300,2011,194738,Locally Used, 3465000,,3000.0,,black
+Toyota,Corolla,2012,120627,Locally Used, 2940000,,1800.0,,black
+Toyota,Camry,2008,159578,Locally Used, 3952000,,2400.0,,Red
+Ford,Explorer,2013,40832,Locally Used, 4200000,6.0,3500.0,,black
+Mitsubishi,L200,2005,152024,Locally Used, 3885000,,2800.0,,White
+Toyota,RAV4,2011,158779,Locally Used, 4583250,4.0,2400.0,,black
+Mercedes-Benz,C350,2008,289939,Foreign Used, 3885000,,3500.0,,black
+Toyota,Corolla,2010,322341,Locally Used, 4160000,,1800.0,,Grey
+Toyota,RAV4,2011,158779,Locally Used, 4583250,4.0,2400.0,,black
+Toyota,Camry,2007,196375,Locally Used, 3016000,,2400.0,,gold
+Mazda,6,2014,275964,Locally Used, 5250000,,2500.0,,Grey
+Toyota,Camry,2009,131636,Locally Used, 3848000,,2300.0,,Blue
+Lexus,RX 350,2010,52276,Locally Used, 7350000,,3500.0,,black
+Toyota,Camry,2012,359326,Locally Used, 4784000,,2500.0,,black
+Mitsubishi,Pajero,2013,207000,Foreign Used, 17900000,6.0,3500.0,,black
+Mitsubishi,L200,2005,152024,Locally Used, 3885000,,2800.0,,White
+Toyota,Camry,2011,174345,Foreign Used, 4888000,,3600.0,,Silver
+Toyota,Camry,2004,386616,Locally Used, 3120000,,2400.0,,black
+Toyota,Venza,2012,76252,Locally Used, 6825000,6.0,3500.0,,Grey
+Mercedes-Benz,M Class,2007,248916,Locally Used, 3591000,,3500.0,,black
+Mercedes-Benz,M Class,2007,248916,Locally Used, 3591000,,3500.0,,black
+Toyota,Land Cruiser,2000,253121,Locally Used, 3360000,,4700.0,,black
+Toyota,Camry,2005,117506,Foreign Used, 3360000,,2800.0,,Silver
+Toyota,Corolla,2009,107412,Locally Used, 3224000,,1800.0,,Grey
+Ford,Escape,2014,126528,Locally Used, 4200000,,1600.0,,Silver
+Toyota,Sienna,2003,137744,Locally Used, 2288000,6.0,3000.0,,gold
+Toyota,Camry,2011,174345,Foreign Used, 4888000,,3600.0,,Silver
+Toyota,Land Cruiser Prado,2003,117219,Locally Used, 5775000,4.0,2700.0,,black
+Toyota,Camry,2012,300528,Foreign Used, 7280000,,2400.0,,black
+Kia,Sportage,2015,147773,Locally Used, 4200000,,2000.0,,orange
+Toyota,Matrix,2010,274498,Locally Used, 3536000,,1800.0,,Grey
+Toyota,Highlander,2013,624002,Foreign Used, 8925000,,3500.0,,White
+Nissan,Frontier,2001,407954,Foreign Used, 2730000,4.0,2400.0,,black
+Ford,Edge,2014,76565,Locally Used, 3675000,,3500.0,,black
+Toyota,Sienna,2006,183637,Locally Used, 3640000,6.0,3300.0,,Red
+Toyota,Camry,2009,131636,Locally Used, 3848000,,2300.0,,Blue
+Mitsubishi,Pajero,2013,207000,Foreign Used, 17900000,6.0,3500.0,,black
+Mercedes-Benz,M Class,2011,238874,Foreign Used, 9880000,,3500.0,,White
+Hyundai,Elantra,2014,152062,Locally Used, 3360000,,1800.0,,black
+Toyota,Highlander,2001,146686,Foreign Used, 3675000,6.0,3000.0,,gold
+Hyundai,Accent,2009,275531,Foreign Used, 3150000,,1600.0,,Blue
+Toyota,Corolla,2008,264622,Locally Used, 3328000,,1800.0,,black
+Toyota,Camry,2012,269194,Locally Used, 4700000,,2500.0,,Grey
+Toyota,Camry,2008,163432,Locally Used, 2912000,,2400.0,,gold
+Toyota,Camry,2007,196375,Locally Used, 3016000,,2400.0,,gold
+Toyota,Camry,2004,386616,Locally Used, 3120000,,2400.0,,black
+Lexus,ES,2011,24825,Locally Used, 4677750,6.0,3500.0,,black
+Toyota,Corolla,2009,107192,Locally Used, 3024000,,1800.0,,Silver
+Lexus,GX,2008,215271,Locally Used, 5775000,8.0,4700.0,,Red
+Acura,TL,2009,202146,Locally Used, 3675000,,3500.0,,black
+Honda,CR-V,2014,110517,Locally Used, 6300000,4.0,2400.0,,black
+Toyota,Corolla,2004,126029,Locally Used, 2297167,,1800.0,,Blue
+Toyota,Camry,2007,103773,Locally Used, 2940000,6.0,3500.0,,black
+Toyota,Sienna,2007,500544,Foreign Used, 5720000,6.0,3500.0,,White
+Acura,TL,2009,202146,Locally Used, 3675000,,3500.0,,black
+Hyundai,Elantra,2008,259605,Foreign Used, 3640000,,2000.0,,Grey
+Toyota,Corolla,2004,183448,Locally Used, 2600000,,1800.0,,Green
+Toyota,Land Cruiser,2000,253121,Locally Used, 3360000,,4700.0,,black
+Toyota,Sienna,2011,232300,Foreign Used, 6700000,,1800.0,,Silver
+Honda,Accord Crosstour,2010,54097,Locally Used, 4784000,,3500.0,,black
+Toyota,Highlander,2010,310362,Locally Used, 5840000,6.0,3500.0,,Red
+Toyota,Camry,2007,109191,Locally Used, 2620000,,3500.0,,Grey
+Mercedes-Benz,M Class,2013,209463,Foreign Used, 15600000,6.0,3500.0,,White
+Lexus,RX 350,2009,223878,Locally Used, 3700000,,3500.0,,Blue
+Toyota,Highlander,2010,310362,Locally Used, 5840000,6.0,3500.0,,Red
+Toyota,Camry,2007,103773,Locally Used, 2940000,6.0,3500.0,,black
+Toyota,Corolla,2007,158436,Locally Used, 2205000,,1800.0,,Grey
+Toyota,Corolla,2007,302766,Locally Used, 2704000,,1800.0,,black
+Toyota,Camry,2008,95229,Locally Used, 2912000,,2800.0,,Blue
+Toyota,Matrix,2006,226646,Locally Used, 2392000,,1800.0,,Grey
+Toyota,Corolla,2005,257459,Locally Used, 3120000,,1800.0,,gold
+Mercedes-Benz,CLA-Class,2014,90053,Locally Used, 7350000,4.0,2000.0,,White
+Toyota,Corolla,2004,126029,Locally Used, 2297167,,1800.0,,Blue
+Mercedes-Benz,E350,2010,174135,Locally Used, 4725000,,3500.0,,Silver
+Toyota,Sienna,2011,232300,Foreign Used, 6700000,,1800.0,,Silver
+Toyota,Sienna,2007,500544,Foreign Used, 5720000,6.0,3500.0,,White
+Honda,Accord Crosstour,2010,54097,Locally Used, 4784000,,3500.0,,black
+Mercedes-Benz,M Class,2013,209463,Foreign Used, 15600000,6.0,3500.0,,White
+Toyota,Corolla,2006,429898,Locally Used, 2912000,,1800.0,,Grey
+Toyota,Corolla,2007,302766,Locally Used, 2704000,,1800.0,,black
+Ford,Edge,2014,76565,Locally Used, 3675000,,3500.0,,black
+Toyota,Camry,2008,95229,Locally Used, 2912000,,2800.0,,Blue
+Toyota,Matrix,2004,160910,Locally Used, 2600000,,1800.0,,Silver
+Toyota,Camry,2008,163432,Locally Used, 2912000,,2400.0,,gold
+Toyota,Corolla,2006,482800,Locally Used, 2100000,,1800.0,,Silver
+Toyota,Corolla,2007,158436,Locally Used, 2205000,,1800.0,,Grey
+Toyota,Camry,2007,184092,Locally Used, 3120000,,2400.0,,black
+Toyota,Matrix,2006,226646,Locally Used, 2392000,,1800.0,,Grey
+Acura,MDX,2007,308146,Locally Used, 3452000,6.0,3700.0,,Grey
+Toyota,Highlander,2003,189330,Locally Used, 2625000,4.0,3000.0,,black
+Toyota,Corolla,2005,291898,Locally Used, 2808000,,1800.0,,gold
+Toyota,Corolla,2006,364888,Locally Used, 2912000,,1800.0,,Grey
+Mazda,CX-9,2008,210567,Locally Used, 3640000,6.0,3700.0,,Silver
+Mercedes-Benz,E350,2010,174135,Locally Used, 4725000,,3500.0,,Silver
+Toyota,RAV4,2008,276164,Locally Used, 3255000,,2400.0,,gold
+Toyota,Corolla,2003,272157,Locally Used, 2392000,,1800.0,,Silver
+Honda,Accord,2013,122192,Locally Used, 6760000,,3500.0,,Silver
+Toyota,Highlander,2014,92575,Brand New, 18450000,,3500.0,,White
+Toyota,Camry,2010,282006,Foreign Used, 4888000,,2500.0,,black
+Toyota,Corolla,2003,239564,Locally Used, 2288000,,1800.0,,Blue
+Toyota,Camry,2012,181597,Locally Used, 4692000,4.0,2500.0,,Red
+Toyota,Corolla,2004,99906,Locally Used, 3640000,,1800.0,,Silver
+Toyota,Corolla,2009,132167,Locally Used, 2992500,,1800.0,,Red
+Toyota,Corolla,2005,285160,Locally Used, 2415000,,1800.0,,black
+Mercedes-Benz,C300,2008,209629,Locally Used, 3255000,6.0,3000.0,,Grey
+Mercedes-Benz,CLA-Class,2014,90053,Locally Used, 7350000,4.0,2000.0,,White
+Toyota,Corolla,2005,341247,Foreign Used, 3570000,,1800.0,,black
+Honda,Pilot,2009,87018,Locally Used, 3952000,6.0,3500.0,,Blue
+Toyota,Matrix,2004,99088,Locally Used, 2392000,,1800.0,,Blue
+Lexus,ES,2003,99471,Locally Used, 2704000,6.0,3000.0,,Green
+Toyota,Corolla,2004,421928,Locally Used, 2173500,,1800.0,,White
+Honda,CR-V,2014,159807,Locally Used, 4725000,,2400.0,,Silver
+Toyota,Corolla,2003,186269,Locally Used, 2392000,,1800.0,,black
+Toyota,Corolla,2003,194052,Locally Used, 2600000,,1800.0,,Silver
+Pontiac,Vibe,2009,179413,Locally Used, 3640000,,2400.0,,Grey
+Toyota,Camry,2009,457924,Locally Used, 2625000,,2400.0,,Red
+Lexus,ES,2008,69469,Locally Used, 3675000,6.0,3500.0,,Grey
+Toyota,Sienna,1999,209950,Locally Used, 2496000,6.0,3000.0,,gold
+Lexus,RX 300,2001,170377,Locally Used, 2600000,,3000.0,,Silver
+Toyota,Corolla,2005,285160,Locally Used, 2415000,,1800.0,,black
+Toyota,Camry,2007,184092,Locally Used, 3120000,,2400.0,,black
+Toyota,Corolla,2003,186269,Locally Used, 2392000,,1800.0,,black
+Toyota,Camry,2003,96287,Locally Used, 1680000,,2400.0,,Silver
+Toyota,Camry,2005,154456,Locally Used, 2296000,,2400.0,,Silver
+Acura,MDX,2011,120209,Locally Used, 4200000,,3700.0,,black
+Honda,CR-V,2006,390198,Foreign Used, 3848000,,2400.0,,Silver
+Lexus,RX 300,2001,170377,Locally Used, 2600000,,3000.0,,Silver
+Toyota,Camry,2009,191842,Locally Used, 2625000,,2400.0,,black
+Chrysler,Town&Country,2005,450481,Locally Used, 2205000,,3800.0,,Grey
+Honda,CR-V,2012,102821,Locally Used, 4725000,4.0,2500.0,,brown
+Toyota,Sienna,1999,209950,Locally Used, 2496000,6.0,3000.0,,gold
+Toyota,Camry,2005,154456,Locally Used, 2296000,,2400.0,,Silver
+Toyota,Corolla,2004,289406,Locally Used, 2047500,,1800.0,,White
+Toyota,Camry,2008,91583,Locally Used, 4056000,,2400.0,,Green
+Toyota,Matrix,2009,148135,Locally Used, 3150000,,1800.0,,Blue
+Toyota,Camry,2003,225751,Foreign Used, 3640000,,3000.0,,black
+Toyota,Corolla,2003,170254,Locally Used, 2100000,,1800.0,,Silver
+Honda,Crosstour,2012,86522,Locally Used, 3675000,6.0,3500.0,,Blue
+Toyota,Camry,2007,172878,Locally Used, 2730000,,2400.0,,Green
+Toyota,Camry,2003,96287,Locally Used, 1680000,,2400.0,,Silver
+Toyota,Venza,2013,89025,Locally Used, 7800000,,3500.0,,black
+Honda,CR-V,2012,102821,Locally Used, 4725000,4.0,2500.0,,brown
+Honda,Accord,2014,101768,Locally Used, 4620000,,2400.0,,Silver
+Nissan,Altima,2013,143979,Locally Used, 3150000,,2500.0,,Grey
+Toyota,Corolla,2007,173642,Locally Used, 2080000,,1800.0,,Blue
+Kia,Sorento,2003,192087,Locally Used, 2100000,,3500.0,,Grey
+Honda,Pilot,2007,292623,Foreign Used, 3848000,,3500.0,,Silver
+Nissan,Rogue,2008,104339,Locally Used, 1785000,4.0,2500.0,,Silver
+Toyota,RAV4,2006,74687,Locally Used, 2940000,4.0,2400.0,,Red
+Chrysler,Town&Country,2005,182878,Locally Used, 2310000,,3300.0,,Grey
+Toyota,Corolla,2008,149519,Locally Used, 2625000,,1800.0,,black
+Lexus,GS,2006,147534,Locally Used, 3045000,,3500.0,,Silver
+Toyota,Camry,2009,191842,Locally Used, 2625000,,2400.0,,black
+Toyota,Camry,2007,163269,Locally Used, 2625000,4.0,2400.0,,Silver
+Toyota,Camry,2003,230198,Locally Used, 2080000,,3000.0,,Grey
+Honda,Accord,2009,95358,Locally Used, 2310000,,2400.0,,Blue
+Toyota,Camry,2003,225751,Foreign Used, 3640000,,3000.0,,black
+Toyota,Camry,2007,120028,Locally Used, 3640000,4.0,2400.0,,black
+Toyota,Highlander,2003,184715,Locally Used, 2912000,,3000.0,,Green
+Mercedes-Benz,C300,2009,240474,Foreign Used, 5250000,,3000.0,,black
+Toyota,Corolla,2008,204378,Locally Used, 2625000,,1800.0,,Red
+Lexus,GS,2006,147534,Locally Used, 3045000,,3500.0,,Silver
+Toyota,Corolla,2008,223734,Locally Used, 2310000,,1800.0,,Silver
+Toyota,Sienna,2001,366544,Locally Used, 1768000,,3000.0,,White
+Toyota,Camry,2007,281578,Locally Used, 2730000,,2500.0,,Red
+Toyota,Corolla,2003,170254,Locally Used, 2100000,,1800.0,,Silver
+Kia,Rio,2014,58088,Locally Used, 3020000,4.0,1400.0,,Silver
+Dodge,Durango,2011,278920,Locally Used, 7275000,,3600.0,,Grey
+Toyota,Venza,2013,89025,Locally Used, 7800000,,3500.0,,black
+Dodge,Durango,2011,278920,Locally Used, 7275000,,3600.0,,Grey
+Mercedes-Benz,GL-Class,2010,107062,Locally Used, 8320000,8.0,4600.0,,Grey
+Toyota,Sienna,2005,218675,Foreign Used, 4305000,,3300.0,,Blue
+Toyota,Avalon,2007,162646,Locally Used, 2600000,,3500.0,,Grey
+Toyota,RAV4,2007,180661,Locally Used, 3202500,,2500.0,,Blue
+Toyota,Camry,2007,308426,Locally Used, 3640000,,2400.0,,Red
+Toyota,Corolla,2003,299999,Locally Used, 2100000,,1800.0,,black
+Toyota,Camry,2013,124892,Locally Used, 4515000,,2500.0,,Blue
+Nissan,Rogue,2009,229256,Locally Used, 2121000,,2500.0,,Blue
+Honda,CR-V,2005,153755,Locally Used, 2600000,,2500.0,,Red
+Toyota,Camry,2002,288644,Locally Used, 2080000,,2400.0,,burgandy
+Toyota,Corolla,2003,254492,Foreign Used, 2310000,4.0,1800.0,,black
+Toyota,Sienna,2005,218675,Foreign Used, 4305000,,3300.0,,Blue
+Toyota,Sienna,2000,326021,Locally Used, 2080000,,3000.0,,gold
+Nissan,Rogue,2009,229256,Locally Used, 2121000,,2500.0,,Blue
+Toyota,Corolla,2004,227085,Locally Used, 2080000,,1800.0,,gold
+Nissan,Sentra,2013,184721,Locally Used, 2625000,,1800.0,,Grey
+Mazda,CX-7,2007,170526,Locally Used, 2100000,,2300.0,,Silver
+Toyota,Avalon,2007,162646,Locally Used, 2600000,,3500.0,,Grey
+Toyota,Camry,2007,373194,Locally Used, 2935000,,2400.0,,gold
+Toyota,RAV4,2007,180661,Locally Used, 3202500,,2500.0,,Blue
+Mercedes-Benz,GL-Class,2010,107062,Locally Used, 8320000,8.0,4600.0,,Grey
+Toyota,Corolla,2004,294974,Locally Used, 2912000,,1800.0,,Blue
+Toyota,Camry,2008,93290,Locally Used, 2625000,,2400.0,,black
+Chrysler,Town&Country,2008,162503,Foreign Used, 1825000,,3800.0,,White
+Toyota,Corolla,2013,219449,Locally Used, 3360000,4.0,1800.0,,black
+Mercedes-Benz,GL-Class,2008,110373,Locally Used, 4160000,,4700.0,,Silver
+Toyota,Sienna,2007,224758,Locally Used, 1995000,,3300.0,,black
+Toyota,RAV4,2003,196448,Locally Used, 2600000,,2000.0,,black
+Toyota,Camry,2008,91583,Locally Used, 4056000,,2400.0,,Green
+Acura,MDX,2003,142745,Locally Used, 2080000,,3500.0,,black
+Honda,Pilot,2004,122437,Locally Used, 1669500,,3500.0,,Silver
+Toyota,Camry,2007,234125,Locally Used, 2625000,,2800.0,,Red
+Lexus,ES,2003,204636,Locally Used, 2310000,,3000.0,,black
+Kia,Cerato,2010,101119,Locally Used, 2730000,,1600.0,,Silver
+Toyota,Camry,2002,288644,Locally Used, 2080000,,2400.0,,burgandy
+Toyota,Corolla,2004,32215,Locally Used, 2100000,,1800.0,,Silver
+Toyota,Camry,2003,251781,Locally Used, 2392000,,2400.0,,gold
+Toyota,Sienna,2001,228509,Foreign Used, 2625000,,3500.0,,black
+Mercedes-Benz,GLK-Class,2011,264033,Locally Used, 7540000,,3500.0,,black
+Acura,MDX,2014,191410,Locally Used, 4350000,,3500.0,,Grey
+Ford,Fusion,2012,63400,Locally Used, 2625000,,2500.0,,Blue
+Kia,Cerato,2010,101119,Locally Used, 2730000,,1600.0,,Silver
+Toyota,Highlander,2013,121997,Foreign Used, 9975000,6.0,3500.0,,Blue
+Lexus,ES,2003,204636,Locally Used, 2310000,,3000.0,,black
+Toyota,Camry,2005,233595,Locally Used, 2172450,,2800.0,,Silver
+Chrysler,Town&Country,2008,162503,Foreign Used, 1825000,,3800.0,,White
+Honda,CR-V,2007,154313,Locally Used, 4160000,,2400.0,,gold
+Mazda,CX-7,2007,170526,Locally Used, 2100000,,2300.0,,Silver
+Toyota,Sequoia,2003,112695,Locally Used, 2080000,,4700.0,,Silver
+Mazda,6,2003,331987,Locally Used, 2310000,,1800.0,,Grey
+Nissan,Pathfinder,2007,346146,Locally Used, 1995000,,4000.0,,Silver
+Honda,Accord,2003,199349,Locally Used, 1976000,,2400.0,,Grey
+Toyota,Sequoia,2007,87187,Locally Used, 2467500,,4700.0,,black
+Toyota,Corolla,2010,146107,Locally Used, 3536000,,1800.0,,Silver
+Lexus,IS,2009,208056,Locally Used, 3360000,6.0,2500.0,,black
+Toyota,Corolla,2004,227085,Locally Used, 2080000,,1800.0,,gold
+Toyota,Corolla,2007,142117,Locally Used, 2600000,,1800.0,,Red
+Toyota,Corolla,2004,239881,Locally Used, 2704000,,1800.0,,Silver
+Toyota,Camry,2005,235356,Locally Used, 1890000,4.0,2400.0,,Blue
+Toyota,Highlander,2017,51789,Locally Used, 15225000,,3500.0,,black
+Toyota,Sienna,2011,151955,Locally Used, 5250000,,3500.0,,gold
+Honda,Accord,2008,239839,Locally Used, 2912000,,3000.0,,Red
+Toyota,Corolla,2009,204038,Locally Used, 2520000,,1800.0,,Grey
+Toyota,Camry,2002,338043,Locally Used, 2080000,,2400.0,,Silver
+Nissan,Altima,2008,242366,Locally Used, 1890000,4.0,2500.0,,White
+Mazda,6,2003,331987,Locally Used, 2310000,,1800.0,,Grey
+Lexus,RX 300,2000,126468,Locally Used, 2548000,,3000.0,,black
+Toyota,Camry,2003,251781,Locally Used, 2392000,,2400.0,,gold
+Honda,Accord,2008,239839,Locally Used, 2912000,,3000.0,,Red
+Toyota,Highlander,2013,121997,Foreign Used, 9975000,6.0,3500.0,,Blue
+Toyota,Highlander,2005,171029,Locally Used, 2940000,6.0,3300.0,,black
+Lexus,ES,2004,115278,Locally Used, 2600000,,3300.0,,Red
+Honda,CR-V,2007,154313,Locally Used, 4160000,,2400.0,,gold
+Toyota,Camry,2002,338043,Locally Used, 2080000,,2400.0,,Silver
+Toyota,Corolla,2006,168759,Locally Used, 1890000,,1800.0,,Blue
+Toyota,Camry,2007,417361,Foreign Used, 2635000,,2400.0,,Grey
+Toyota,Corolla,2007,142117,Locally Used, 2600000,,1800.0,,Red
+Mercedes-Benz,C300,2012,91305,Locally Used, 3675000,,3000.0,,White
+Mercedes-Benz,GLK-Class,2011,264033,Locally Used, 7540000,,3500.0,,black
+Honda,Accord,2008,116982,Locally Used, 2704000,,2400.0,,Silver
+Mazda,CX-7,2007,136320,Locally Used, 2100000,,2300.0,,Blue
+Toyota,Sienna,2011,151955,Locally Used, 5250000,,3500.0,,gold
+Honda,Pilot,2006,194887,Locally Used, 2600000,,3500.0,,black
+Toyota,Highlander,2002,240130,Locally Used, 2610000,,3500.0,,Blue
+Toyota,Avensis,2005,309407,Foreign Used, 3848000,,2200.0,,Grey
+Lexus,RX 330,2004,394867,Locally Used, 4680000,,3300.0,,Grey
+Toyota,Sienna,1999,147074,Locally Used, 1872000,,3500.0,,gold
+Toyota,Camry,2010,99072,Locally Used, 4680000,,2500.0,,Silver
+Toyota,Camry,2007,198558,Foreign Used, 2940000,,2400.0,,Silver
+Toyota,Corolla,2009,204610,Locally Used, 2940000,,2400.0,,Grey
+Volvo,S80,1999,395999,Locally Used, 2625000,,2400.0,,Green
+Toyota,Corolla,2003,242892,Locally Used, 2392000,,1800.0,,Grey
+Lexus,RX 300,2003,363665,Locally Used, 2600000,,3000.0,,Blue
+Toyota,Corolla,2004,299999,Locally Used, 2496000,,1800.0,,Grey
+Toyota,Corolla,2005,215997,Locally Used, 2310000,,1800.0,,Blue
+Toyota,Highlander,2004,394970,Locally Used, 2415000,,3000.0,,black
+Lexus,ES,2008,165575,Locally Used, 4368000,,3500.0,,Silver
+Honda,Accord,2008,245871,Locally Used, 2496000,,2500.0,,black
+Toyota,Highlander,2009,141023,Locally Used, 5250000,,2700.0,,Silver
+Toyota,Corolla,2006,251907,Locally Used, 2820000,,1800.0,,White
+Toyota,Camry,2008,259329,Locally Used, 2625000,,2400.0,,Silver
+BMW,325i,2007,246119,Locally Used, 3150000,,3000.0,,black
+Toyota,Camry,2007,335906,Locally Used, 2835000,,2400.0,,Red
+Toyota,Corolla,2005,203699,Locally Used, 2496000,,2400.0,,Blue
+Honda,Pilot,2006,165641,Locally Used, 1785000,,3500.0,,Blue
+Toyota,Corolla,2008,99999,Locally Used, 2808000,,1800.0,,gold
+Toyota,RAV4,2003,300212,Locally Used, 2080000,4.0,2400.0,,black
+Toyota,Avalon,2002,108205,Locally Used, 2088000,,3000.0,,Silver
+Honda,CR-V,2008,179113,Locally Used, 2730000,,2400.0,,Blue
+Toyota,Corolla,2008,125935,Locally Used, 2310000,,1800.0,,black
+Toyota,Camry,2002,409396,Locally Used, 2288000,,2400.0,,Green
+Honda,CR-V,2010,88452,Locally Used, 3848000,,2400.0,,black
+Toyota,Corolla,2008,147462,Foreign Used, 4368000,,1800.0,,Red
+Toyota,Corolla,2005,185056,Locally Used, 2100000,,1800.0,,Grey
+Toyota,RAV4,2002,385142,Locally Used, 2080000,,2000.0,,Blue
+Honda,CR-V,2003,427036,Locally Used, 1976000,4.0,2400.0,,brown
+Toyota,Sienna,2004,154713,Locally Used, 2625000,,3000.0,,Silver
+Toyota,Camry,2002,282654,Locally Used, 1872000,,2400.0,,Grey
+Toyota,Highlander,2003,206371,Locally Used, 2315000,,3000.0,,Silver
+Toyota,Camry,2003,274463,Locally Used, 2288000,,2400.0,,Silver
+Hyundai,Sonata,2008,389502,Locally Used, 1890000,,2400.0,,Blue
+Toyota,Corolla,2005,167832,Locally Used, 2315250,,1800.0,,Blue
+Lexus,ES,2003,292932,Locally Used, 2310000,6.0,3300.0,,beige
+Mercedes-Benz,C300,2008,99220,Locally Used, 4992000,,3000.0,,black
+Toyota,Camry,2010,154938,Locally Used, 2730000,,2400.0,,Blue
+Volkswagen,Passat,2016,84860,Locally Used, 5250000,4.0,1800.0,,Grey
+Nissan,Frontier,2005,337481,Locally Used, 2787750,,4000.0,,black
+Toyota,Sienna,2004,170348,Foreign Used, 4305000,,3300.0,,gold
+Toyota,Camry,2010,145980,Foreign Used, 4515000,,2400.0,,Red
+Kia,Sorento,2005,156233,Locally Used, 1575000,,3500.0,,purple
+Kia,Sorento,2012,223888,Locally Used, 3725000,,3500.0,,black
+Honda,CR-V,1997,478807,Locally Used, 1365000,,2000.0,,Green
+Toyota,Corolla,2005,87618,Locally Used, 2205000,4.0,1800.0,,Grey
+Toyota,Corolla,2014,75000,Locally Used, 5564000,4.0,1800.0,,Silver
+Toyota,Corolla,2007,198023,Locally Used, 2512000,,1800.0,,Grey
+Honda,Accord,2004,415171,Locally Used, 1560000,,2400.0,,Red
+Toyota,Sienna,2002,342471,Locally Used, 1575000,6.0,3000.0,,Silver
+Toyota,Camry,2009,199999,Locally Used, 2625000,,3500.0,,black
+Honda,Accord,2007,217460,Locally Used, 2184000,6.0,2400.0,,Grey
+Toyota,Corolla,2005,173456,Locally Used, 2310000,,1800.0,,black
+Honda,Accord,2013,230439,Locally Used, 4200000,,3500.0,,black
+Toyota,Corolla,2005,299999,Locally Used, 2310000,,1800.0,,Red
+Toyota,Corolla,2009,224868,Locally Used, 2625000,,1800.0,,black
+Toyota,Avalon,2008,163742,Locally Used, 2520000,,3500.0,,Red
+Toyota,Camry,2003,489949,Locally Used, 1890000,,2400.0,,Silver
+Toyota,Avensis,2005,131315,Locally Used, 2808000,4.0,2000.0,,black
+Mazda,6,2004,178653,Locally Used, 1890000,,2000.0,,Silver
+Toyota,Highlander,2003,310235,Locally Used, 2912000,,3000.0,,Green
+Lexus,ES,2007,122895,Locally Used, 2415000,6.0,3500.0,,Silver
+Honda,CR-V,2003,176822,Locally Used, 2100000,,2000.0,,Silver
+Mercedes-Benz,M Class,2006,85319,Locally Used, 4368000,,3500.0,,Blue
+Honda,Accord,2008,198351,Locally Used, 2392000,,2400.0,,black
+Toyota,RAV4,2008,85567,Locally Used, 2940000,,2400.0,,Blue
+Toyota,Corolla,2005,182069,Locally Used, 3328000,,1800.0,,Red
+Toyota,Camry,2002,236002,Locally Used, 2080000,,2400.0,,Silver
+Toyota,Camry,2002,211173,Locally Used, 1768000,6.0,3000.0,,Silver
+Toyota,Camry,2003,523045,Locally Used, 1842750,,2400.0,,gold
+Toyota,Corolla,2005,299999,Locally Used, 2912000,,1800.0,,Silver
+Nissan,Sentra,2010,87221,Locally Used, 2835000,,2000.0,,Grey
+Toyota,Camry,2007,123584,Locally Used, 3640000,,2400.0,,Green
+Toyota,Venza,2012,147182,Locally Used, 7280000,6.0,2400.0,,White
+Toyota,Avalon,2003,533974,Locally Used, 1664000,6.0,3000.0,,black
+Toyota,Corolla,2005,145488,Locally Used, 2912000,,1800.0,,Red
+Toyota,Corolla,2006,183440,Locally Used, 2704000,,1800.0,,gold
+Honda,CR-V,2002,395067,Locally Used, 1575000,,2400.0,,Blue
+Lexus,ES,2004,354906,Locally Used, 2310000,6.0,3300.0,,Green
+Acura,MDX,2007,140253,Locally Used, 2940000,,3700.0,,black
+Honda,Accord,2006,189929,Locally Used, 1976000,,2400.0,,gold
+Toyota,Camry,2008,118457,Locally Used, 2520000,,2400.0,,Silver
+Toyota,Camry,2002,394769,Locally Used, 1664000,,3000.0,,burgandy
+Hyundai,Elantra,2010,410129,Locally Used, 2600000,,1800.0,,Grey
+Honda,Accord,2013,230439,Locally Used, 4200000,,3500.0,,black
+Lexus,RX 300,2000,167599,Locally Used, 1890000,,3000.0,,gold
+Lexus,ES,2004,354906,Locally Used, 2310000,6.0,3300.0,,Green
+Acura,MDX,2007,140253,Locally Used, 2940000,,3700.0,,black
+Volvo,S80,2000,318288,Locally Used, 1260000,,2400.0,,Blue
+Toyota,Camry,2001,290417,Locally Used, 1456000,4.0,2000.0,,gold
+Honda,Pilot,2006,160535,Locally Used, 2808000,,3500.0,,Blue
+Hyundai,Sonata,2009,151511,Locally Used, 1875000,,2000.0,,black
+Toyota,Camry,2006,269312,Locally Used, 2100000,,2400.0,,Grey
+Honda,Accord,2009,233833,Locally Used, 2756000,,2400.0,,Grey
+Honda,Accord,2005,278891,Locally Used, 1560000,,2400.0,,black
+Lexus,RX 350,2007,181508,Locally Used, 3990000,,3500.0,,Blue
+Toyota,Corolla,2011,166931,Locally Used, 4680000,,1800.0,,Grey
+Toyota,Highlander,2011,232282,Locally Used, 6615000,,3500.0,,White
+Toyota,Camry,2001,290417,Locally Used, 1456000,4.0,2000.0,,gold
+Toyota,Matrix,2007,127856,Locally Used, 2308000,,1800.0,,Silver
+Honda,Accord,2003,207827,Locally Used, 1260000,,2400.0,,gold
+Honda,Accord,2005,278891,Locally Used, 1560000,,2400.0,,black
+Volkswagen,Passat,1999,319241,Locally Used, 1260000,,1500.0,,Blue
+Toyota,Corolla,2001,264590,Locally Used, 1872000,,1800.0,,Silver
+Toyota,Corolla,2008,204462,Locally Used, 2100000,,1800.0,,Blue
+Honda,Pilot,2006,160535,Locally Used, 2808000,,3500.0,,Blue
+Lexus,GX,2005,203896,Locally Used, 5720000,8.0,4700.0,,black
+Lexus,RX 350,2007,181508,Locally Used, 3990000,,3500.0,,Blue
+Toyota,Highlander,2002,202794,Locally Used, 1910000,,3000.0,,Blue
+Toyota,Corolla,2006,273720,Locally Used, 1890000,4.0,1800.0,,black
+Toyota,Highlander,2002,194694,Locally Used, 2447550,,2400.0,,Blue
+Hyundai,Sonata,2007,306131,Locally Used, 1995000,,2400.0,,Red
+Toyota,Corolla,2006,273720,Locally Used, 1890000,4.0,1800.0,,black
+Lexus,RX 300,2000,193031,Locally Used, 1569750,,3000.0,,black
+Toyota,Corolla,2001,264590,Locally Used, 1872000,,1800.0,,Silver
+Honda,Accord,2005,250936,Locally Used, 1560000,,2400.0,,black
+Volvo,XC90,2003,197453,Locally Used, 2625000,,2900.0,,Silver
+Toyota,Camry,2003,153276,Locally Used, 1942500,,2400.0,,White
+Toyota,RAV4,2006,326066,Locally Used, 2625000,4.0,2400.0,,Grey
+Toyota,Corolla,2008,204462,Locally Used, 2100000,,1800.0,,Blue
+Hyundai,Elantra,2012,195600,Locally Used, 2625000,,1800.0,,Red
+Toyota,Camry,2003,153276,Locally Used, 1942500,,2400.0,,White
+Toyota,Camry,2010,157036,Foreign Used, 5200000,,2500.0,,gold
+Toyota,Solara,2004,249934,Locally Used, 1680000,4.0,2400.0,,black
+Toyota,Land Cruiser Prado,2006,187116,Locally Used, 10400000,,2700.0,,black
+Volvo,XC90,2003,197453,Locally Used, 2625000,,2900.0,,Silver
+Peugeot,307,2005,100454,Foreign Used, 2288000,,1400.0,,Blue
+Toyota,Tacoma,2008,150327,Locally Used, 5386500,,4000.0,,black
+Volvo,XC90,2008,306466,Locally Used, 3640000,,3200.0,,Red
+Honda,CR-V,2008,105738,Locally Used, 2415000,,2400.0,,Blue
+Infiniti,FX35,2005,62165,Locally Used, 1880000,,3500.0,,Grey
+Peugeot,307,2005,101422,Locally Used, 3744000,,2000.0,,purple
+Mercedes-Benz,GL-Class,2007,216676,Locally Used, 5200000,8.0,4500.0,,black
+Honda,Accord,2008,219864,Locally Used, 2704000,,2400.0,,black
+Mercedes-Benz,M Class,2008,256332,Locally Used, 4888000,,3500.0,,Green
+Toyota,Solara,2004,249934,Locally Used, 1680000,4.0,2400.0,,black
+Lexus,GX,2011,158377,Foreign Used, 17010000,,4600.0,,White
+Honda,Accord,2005,142845,Locally Used, 1323000,,2500.0,,black
+Toyota,Corolla,2005,143330,Locally Used, 2704000,,1800.0,,Blue
+Volkswagen,Golf,2009,180592,Locally Used, 2625000,,1600.0,,black
+Toyota,Corolla,2009,212412,Locally Used, 2730000,,1800.0,,black
+Honda,Accord,2004,304762,Locally Used, 1260000,,2400.0,,Green
+Toyota,Camry,2000,358273,Locally Used, 1253333,,2200.0,,White
+Toyota,Camry,2007,168881,Locally Used, 2415000,,2400.0,,Grey
+Honda,City,2019,27941,Locally Used, 5250000,,1500.0,,black
+Kia,Cerato,2010,71532,Locally Used, 2100000,,1800.0,,black
+Peugeot,307,2005,101422,Locally Used, 3744000,,2000.0,,purple
+Hyundai,Sonata,2013,86378,Locally Used, 4160000,,2400.0,,black
+Hyundai,Elantra,2010,102058,Locally Used, 1575000,4.0,2000.0,,teal
+Honda,Accord,2007,251435,Locally Used, 1575000,,3000.0,,Grey
+Toyota,Corolla,2007,197810,Locally Used, 2310000,,1800.0,,Silver
+Honda,Accord,2015,398987,Foreign Used, 5065000,4.0,2400.0,,White
+Ford,Edge,2011,132682,Locally Used, 3675000,,3500.0,,brown
+Honda,Accord,2011,201329,Locally Used, 3328000,,2000.0,,White
+Kia,Cerato,2013,120182,Locally Used, 2625000,,1600.0,,Red
+Honda,Accord,2008,95535,Locally Used, 2712000,,2400.0,,Grey
+Honda,CR-V,2013,284471,Foreign Used, 6510000,4.0,2400.0,,White
+Honda,Pilot,2003,156048,Locally Used, 1680000,,3500.0,,black
+Infiniti,FX35,2005,62165,Locally Used, 1880000,,3500.0,,Grey
+Jeep,Liberty,2003,236492,Locally Used, 1785000,6.0,3700.0,,black
+Ford,Escape,2010,214273,Locally Used, 1680000,,3000.0,,matt black
+Toyota,Camry,2000,358273,Locally Used, 1253333,,2200.0,,White
+Toyota,Camry,2007,168881,Locally Used, 2415000,,2400.0,,Grey
+Toyota,Highlander,2005,249985,Locally Used, 1942500,6.0,3500.0,,Silver
+Infiniti,FX35,2004,75099,Locally Used, 1680000,,3500.0,,Silver
+Honda,Accord,2003,226905,Locally Used, 1365000,,2400.0,,Grey
+Toyota,Matrix,2006,277221,Locally Used, 1995000,,1800.0,,Blue
+Mercedes-Benz,C300,2016,75375,Foreign Used, 15600000,,2000.0,,White
+Honda,City,2019,27941,Locally Used, 5250000,,1500.0,,black
+Mercedes-Benz,C240,2003,150000,Locally Used, 1872000,,2400.0,,Silver
+Honda,Accord,2011,201329,Locally Used, 3328000,,2000.0,,White
+Volkswagen,Passat,2013,167130,Locally Used, 4512000,,2500.0,,black
+Kia,Sorento,2011,230721,Locally Used, 5250000,4.0,2400.0,,black
+Toyota,Camry,2012,79841,Locally Used, 3675000,,3500.0,,Grey
+Honda,Accord,2003,226905,Locally Used, 1365000,,2400.0,,Grey
+Acura,MDX,2008,144763,Locally Used, 1890000,6.0,3700.0,,black
+Mercedes-Benz,C240,2003,150000,Locally Used, 1872000,,2400.0,,Silver
+Toyota,Camry,2009,236947,Locally Used, 2635000,,3500.0,,black
+Toyota,Corolla,2006,158668,Locally Used, 2100000,,1800.0,,Grey
+Toyota,Camry,2009,125817,Locally Used, 2415000,,2400.0,,Silver
+Hyundai,Elantra,2013,139569,Locally Used, 2625000,,1800.0,,White
+Ford,Escape,2010,214273,Locally Used, 1680000,,3000.0,,matt black
+Toyota,Tacoma,2008,150327,Locally Used, 5386500,,4000.0,,black
+Mercedes-Benz,E350,2006,48595,Locally Used, 2600000,,3500.0,,burgandy
+Toyota,Highlander,2005,249985,Locally Used, 1942500,6.0,3500.0,,Silver
+Toyota,Highlander,2008,155243,Locally Used, 4935000,,3500.0,,black
+Toyota,Highlander,2005,235145,Locally Used, 1890000,,3500.0,,Silver
+Toyota,Highlander,2012,44254,Locally Used, 8320000,,3500.0,,black
+Mercedes-Benz,M Class,2001,268136,Foreign Used, 2940000,,3200.0,,Green
+Ford,Edge,2011,132682,Locally Used, 3675000,,3500.0,,brown
+Lexus,GX,2011,158377,Foreign Used, 17010000,,4600.0,,White
+Lexus,GS,2006,214306,Locally Used, 2160000,,3000.0,,black
+Toyota,Camry,2009,236947,Locally Used, 2635000,,3500.0,,black
+Honda,CR-V,2004,139159,Foreign Used, 1680000,,2400.0,,brown
+Toyota,Corolla,2011,85977,Locally Used, 3952000,,1800.0,,Grey
+Lexus,ES,2002,212816,Locally Used, 3328000,,3000.0,,Silver
+Honda,Accord,2011,146252,Locally Used, 2415000,,2400.0,,White
+Lexus,IS,2008,204677,Locally Used, 2845000,,2500.0,,White
+Toyota,Sienna,1998,198465,Locally Used, 1260000,,3000.0,,Silver
+Lexus,GS,2006,289882,Locally Used, 3640000,,4300.0,,black
+Toyota,Corolla,2010,119579,Locally Used, 2730000,,1800.0,,Red
+Toyota,Corolla,2003,67206,Locally Used, 2100000,,1800.0,,gold
+Lexus,IS,2008,204677,Locally Used, 2845000,,2500.0,,White
+Honda,Accord,2003,236645,Locally Used, 2288000,,1800.0,,black
+Toyota,Matrix,2005,144013,Locally Used, 2600000,4.0,1800.0,,Blue
+Honda,CR-V,2004,139159,Foreign Used, 1680000,,2400.0,,brown
+Lexus,RX 330,2004,204939,Locally Used, 4680000,,3300.0,,Grey
+Mercedes-Benz,E350,2008,222810,Locally Used, 2625000,,2500.0,,Silver
+Honda,Accord,2003,196508,Locally Used, 1155000,4.0,2400.0,,Red
+Toyota,Camry,2010,176694,Locally Used, 3307500,4.0,2500.0,,Silver
+Honda,Pilot,2006,112492,Locally Used, 1680000,,3500.0,,Green
+Toyota,Corolla,2005,171903,Locally Used, 2100000,,1800.0,,Silver
+Toyota,Camry,2004,245989,Locally Used, 1890000,,2400.0,,gold
+Toyota,Corolla,2005,171903,Locally Used, 2100000,,1800.0,,Silver
+Honda,Accord,2003,227409,Locally Used, 1456000,,2400.0,,Grey
+Honda,Accord,2003,47026,Locally Used, 1456000,,2400.0,,Grey
+Toyota,Matrix,2005,144013,Locally Used, 2600000,4.0,1800.0,,Blue
+Toyota,Camry,2010,176694,Locally Used, 3307500,4.0,2500.0,,Silver
+Hyundai,Santa Fe,2002,241992,Locally Used, 1575000,,2700.0,,brown
+Hyundai,Sonata,2014,228985,Locally Used, 3780000,,2400.0,,Blue
+Toyota,Camry,2008,154459,Locally Used, 2625000,,2400.0,,black
+Toyota,Highlander,2006,303450,Locally Used, 3640000,6.0,3300.0,,Grey
+Lexus,GS,2006,289882,Locally Used, 3640000,,4300.0,,black
+Toyota,Highlander,2008,137201,Locally Used, 7280000,,2400.0,,Silver
+Hyundai,Sonata,2014,228985,Locally Used, 3780000,,2400.0,,Blue
+Honda,Accord,2003,177975,Locally Used, 1664000,,2000.0,,Blue
+Honda,Accord,2008,95937,Locally Used, 1470000,4.0,2400.0,,Green
+Honda,Pilot,2004,162901,Locally Used, 1470000,,3500.0,,black
+Lexus,RX 300,2003,258416,Locally Used, 2912000,,3000.0,,Blue
+Toyota,Camry,2004,245989,Locally Used, 1890000,,2400.0,,gold
+Peugeot,307,2008,744495,Locally Used, 1872000,,1600.0,,Silver
+Toyota,Highlander,2005,235145,Locally Used, 1890000,,3500.0,,Silver
+Toyota,Camry,2008,154459,Locally Used, 2625000,,2400.0,,black
+Nissan,Sunny,2002,111765,Locally Used, 1365000,,2000.0,,Blue
+Ford,Edge,2013,159032,Locally Used, 3675000,4.0,2000.0,,black
+Volvo,XC90,2004,256289,Locally Used, 2100000,,3500.0,,White
+Lexus,ES,2005,391415,Locally Used, 2646000,6.0,3300.0,,Green
+Lexus,ES,2005,391415,Locally Used, 2646000,6.0,3300.0,,Green
+Nissan,Sunny,2002,111765,Locally Used, 1365000,,2000.0,,Blue
+Toyota,Corolla,2004,231220,Locally Used, 1900000,,1800.0,,Blue
+Honda,Accord Crosstour,2010,145368,Locally Used, 2940000,,3500.0,,Green
+Toyota,Camry,2003,324262,Locally Used, 1575000,,2400.0,,Blue
+Honda,Accord,2006,219664,Locally Used, 1470000,,2000.0,,black
+Toyota,Corolla,2013,153593,Locally Used, 3591000,,1800.0,,White
+Honda,Pilot,2004,291742,Locally Used, 1575000,,3500.0,,gold
+Lexus,GX,2020,15834,Foreign Used, 45360000,8.0,4600.0,,black
+Mercedes-Benz,CLA-Class,2014,306294,Foreign Used, 8400000,,2000.0,,White
+Honda,Accord,2003,156499,Locally Used, 1207500,,2400.0,,black
+Peugeot,307,2008,306847,Locally Used, 1560000,,1600.0,,Silver
+Kia,Cerato,2010,250214,Locally Used, 1375000,,1600.0,,Grey
+Toyota,Camry,1999,157996,Locally Used, 1352000,,2300.0,,gold
+Ford,Edge,2013,159032,Locally Used, 3675000,4.0,2000.0,,black
+Peugeot,607,2009,271172,Locally Used, 1575000,,2900.0,,black
+Honda,Pilot,2006,104687,Locally Used, 1890000,,3500.0,,Blue
+Volvo,XC90,2005,420079,Foreign Used, 1375000,,2500.0,,Red
+Toyota,Highlander,2008,137201,Locally Used, 7280000,,2400.0,,Silver
+Toyota,Camry,2006,198464,Locally Used, 1575000,,2400.0,,Grey
+Mercedes-Benz,S-Class,2000,297274,Locally Used, 1575000,8.0,5000.0,,Grey
+Hyundai,Accent,2015,96728,Foreign Used, 3255000,,1200.0,,Silver
+Volkswagen,Passat,2008,166502,Foreign Used, 2415000,,2000.0,,Silver
+Nissan,Altima,2011,343537,Locally Used, 1575000,,2500.0,,black
+Toyota,Corolla,2003,297119,Locally Used, 1575000,,1800.0,,Red
+Toyota,Sienna,2006,335088,Locally Used, 1425000,,3300.0,,Silver
+Lexus,RX 330,2005,100788,Foreign Used, 5460000,,3300.0,,gold
+Toyota,Corolla,2005,201968,Locally Used, 1995000,,1800.0,,black
+Toyota,Camry,2004,250632,Locally Used, 2028000,,2400.0,,Green
+Honda,Accord,2003,208331,Locally Used, 1302000,,2400.0,,black
+Kia,Cerato,2012,111843,Locally Used, 1940000,,1600.0,,black
+Peugeot,607,2009,271172,Locally Used, 1575000,,2900.0,,black
+Lexus,RX 300,2002,149319,Locally Used, 1995000,,3000.0,,black
+Volvo,XC90,2005,420079,Foreign Used, 1375000,,2500.0,,Red
+Nissan,Altima,2011,343537,Locally Used, 1575000,,2500.0,,black
+Mercedes-Benz,M Class,2014,56481,Locally Used, 16120000,,3500.0,,White
+Volkswagen,Passat,2008,166502,Foreign Used, 2415000,,2000.0,,Silver
+Toyota,Camry,2006,198464,Locally Used, 1575000,,2400.0,,Grey
+Honda,Accord,2004,254876,Locally Used, 1260000,,2400.0,,black
+Honda,Crosstour,2012,112197,Foreign Used, 5355000,,3500.0,,Grey
+Hyundai,Accent,2014,95634,Locally Used, 2100000,,1500.0,,black
+Toyota,RAV4,2001,318492,Locally Used, 1365000,4.0,2000.0,,Silver
+Lexus,ES,2007,97872,Locally Used, 3150000,,3500.0,,black
+Peugeot,307,2002,239688,Locally Used, 1575000,,2000.0,,Silver
+Lexus,ES,2007,229762,Locally Used, 3465000,6.0,3500.0,,black
+Toyota,Corolla,2012,232372,Locally Used, 2100000,,1800.0,,Silver
+Honda,Accord,2003,208331,Locally Used, 1302000,,2400.0,,black
+Toyota,Corolla,2004,223228,Locally Used, 1575000,,1800.0,,Blue
+Mercedes-Benz,M Class,2014,56481,Locally Used, 16120000,,3500.0,,White
+Toyota,Yaris,2008,200348,Locally Used, 2100000,,1300.0,,black
+Toyota,Yaris,2000,135198,Foreign Used, 1575000,,1300.0,,Green
+Toyota,Corolla,2003,157102,Locally Used, 3640000,,1800.0,,Silver
+Toyota,Corolla,2005,106992,Locally Used, 1785000,4.0,1800.0,,Silver
+Toyota,Yaris,2008,213675,Locally Used, 1365000,4.0,1300.0,,Silver
+Lexus,GX,2003,325987,Locally Used, 6240000,,4700.0,,black
+Volvo,S80,1999,272746,Locally Used, 1312500,,2900.0,,Green
+Toyota,Corolla,2004,223228,Locally Used, 1575000,,1800.0,,Blue
+Toyota,Corolla,2005,106992,Locally Used, 1785000,4.0,1800.0,,Silver
+Toyota,RAV4,2001,318492,Locally Used, 1365000,4.0,2000.0,,Silver
+Toyota,Camry,2001,270407,Locally Used, 1260000,,2400.0,,Green
+Toyota,Corolla,2010,98840,Locally Used, 3640000,4.0,1800.0,,Red
+Volkswagen,Passat,2010,265644,Locally Used, 2415000,,2000.0,,Silver
+Nissan,Sunny,2010,185315,Locally Used, 1260000,,1600.0,,White
+Toyota,Sienna,2006,335088,Locally Used, 1425000,,3300.0,,Silver
+Toyota,Corolla,2012,232372,Locally Used, 2100000,,1800.0,,Silver
+Toyota,Camry,2006,146626,Locally Used, 2105750,,2400.0,,black
+Toyota,Highlander,2003,118006,Locally Used, 3328000,,3000.0,,Green
+Mercedes-Benz,GLK-Class,2011,84767,Locally Used, 5250000,,5500.0,,black
+Honda,Accord,2008,281871,Locally Used, 2173500,,2400.0,,Grey
+Toyota,Camry,2002,300001,Foreign Used, 2940000,,2400.0,,Green
+Ford,Explorer,2001,181295,Locally Used, 3675000,,4000.0,,gold
+Toyota,Yaris,2000,135198,Foreign Used, 1575000,,1300.0,,Green
+Hyundai,Elantra,2003,106264,Locally Used, 1260000,,2000.0,,gold
+Honda,Accord,2003,187793,Locally Used, 1456000,,2400.0,,gold
+Toyota,Corolla,2003,204392,Locally Used, 2100000,,1800.0,,Red
+Toyota,Camry,2000,278412,Locally Used, 1260000,,1400.0,,Red
+Toyota,Corolla,2005,223938,Locally Used, 3120000,,1800.0,,Blue
+Toyota,Camry,2000,327503,Locally Used, 1456000,,2200.0,,gold
+Nissan,Sentra,2003,229742,Locally Used, 1050000,,1800.0,,gold
+Hyundai,Sonata,2012,155935,Locally Used, 3810000,,2400.0,,Red
+Lexus,IS,1999,421038,Locally Used, 1575000,6.0,3000.0,,Silver
+Toyota,Camry,2002,300001,Foreign Used, 2940000,,2400.0,,Green
+Toyota,Avensis,2007,274044,Locally Used, 2310000,,1800.0,,black
+Mercedes-Benz,GLK-Class,2011,84767,Locally Used, 5250000,,5500.0,,black
+Volkswagen,Passat,2010,265644,Locally Used, 2415000,,2000.0,,Silver
+Toyota,Corolla,2010,98840,Locally Used, 3640000,4.0,1800.0,,Red
+Toyota,Avensis,2003,146331,Locally Used, 1470000,,2000.0,,black
+Ford,Edge,2007,307057,Locally Used, 2100000,,3500.0,,Grey
+Toyota,Corolla,2007,218772,Locally Used, 1785000,4.0,1800.0,,black
+Toyota,Corolla,2003,204392,Locally Used, 2100000,,1800.0,,Red
+Toyota,Camry,2003,367668,Locally Used, 1785000,,2400.0,,Blue
+Toyota,Camry,2006,146626,Locally Used, 2105750,,2400.0,,black
+Lexus,RX 350,2008,281507,Locally Used, 4940000,,3500.0,,Grey
+Honda,Accord,2005,208503,Foreign Used, 2520000,,2400.0,,Grey
+Toyota,Camry,2007,158334,Foreign Used, 3990000,,3500.0,,black
+Toyota,Highlander,2003,118006,Locally Used, 3328000,,3000.0,,Green
+Nissan,Altima,2007,241606,Locally Used, 2940000,,2500.0,,black
+Toyota,Corolla,2005,223938,Locally Used, 3120000,,1800.0,,Blue
+Ford,Explorer,2001,181295,Locally Used, 3675000,,4000.0,,gold
+Nissan,Altima,2000,183215,Locally Used, 1050000,,1800.0,,burgandy
+Toyota,Camry,2007,169887,Locally Used, 2625000,,2400.0,,Grey
+Volkswagen,Passat,2009,201489,Locally Used, 1260000,,1800.0,,black
+Ford,Expedition,2005,211260,Locally Used, 2100000,,5400.0,,Green
+Honda,Accord,2003,239787,Locally Used, 1664000,,2400.0,,gold
+Honda,Accord,2005,263115,Locally Used, 1260000,,2500.0,,Red
+Toyota,Camry,2003,294389,Locally Used, 1575000,,2400.0,,black
+Toyota,Corolla,2010,259112,Locally Used, 1575000,,1800.0,,black
+Toyota,Camry,2008,353147,Locally Used, 2730000,,2400.0,,Silver
+Nissan,Sentra,2010,125349,Locally Used, 1575000,,2000.0,,black
+Honda,Pilot,2009,153312,Locally Used, 3675000,,3500.0,,black
+Toyota,Camry,1999,417054,Locally Used, 1560000,,2200.0,,Grey
+Honda,Accord,2005,208503,Foreign Used, 2520000,,2400.0,,Grey
+Toyota,RAV4,2005,126795,Locally Used, 2205000,,2400.0,,black
+Toyota,4-Runner,2008,93037,Locally Used, 5400000,6.0,4000.0,,Red
+Toyota,Corolla,2014,40396,Locally Used, 5008500,,1800.0,,Grey
+Mercedes-Benz,GLA 250,2015,98233,Foreign Used, 16640000,,2400.0,,Grey
+Toyota,Camry,2002,115313,Locally Used, 1976000,,3000.0,,black
+Toyota,RAV4,2008,190590,Locally Used, 3260250,,2500.0,,Silver
+Lexus,RX 350,2017,48009,Locally Used, 26250000,,3500.0,,White
+Lexus,RX 350,2011,136195,Locally Used, 9360000,,3500.0,,Silver
+Toyota,Yaris,2007,232115,Locally Used, 1785000,,1300.0,,Blue
+Volkswagen,Passat,1997,246783,Locally Used, 1050000,,1800.0,,black
+Toyota,Hilux,2007,218751,Locally Used, 4200000,,2700.0,,Green
+Toyota,Camry,2009,148600,Locally Used, 2929500,,2400.0,,Blue
+Toyota,Corolla,2009,80225,Locally Used, 2625000,4.0,1800.0,,Grey
+Lexus,RX 330,2004,213521,Locally Used, 2730000,,3500.0,,Silver
+Ford,Edge,2010,284713,Locally Used, 2835000,,3500.0,,black
+Honda,Accord,2004,1237,Locally Used, 1560000,,3000.0,,White
+Honda,Accord,2004,1237,Locally Used, 1560000,,3000.0,,White
+Toyota,Camry,2012,67894,Locally Used, 3990000,,2500.0,,Grey
+Toyota,RAV4,2007,235003,Locally Used, 3045000,,3500.0,,Silver
+Nissan,Primera,1996,147388,Locally Used, 1050000,,1600.0,,Silver
+Mercedes-Benz,C240,2003,271341,Locally Used, 1768000,,2600.0,,gold
+Lexus,IS,2007,305497,Foreign Used, 3465000,,2500.0,,Grey
+Volkswagen,Jetta,2007,106593,Locally Used, 1680000,,1600.0,,gold
+Jeep,Liberty,2005,289211,Locally Used, 1050000,,3700.0,,black
+Honda,Accord,2007,221275,Locally Used, 1470000,,2400.0,,Silver
+Honda,Odyssey,2002,133727,Locally Used, 1365000,,3500.0,,Silver
+Toyota,Solara,2000,226210,Locally Used, 1050000,,1800.0,,black
+Toyota,Sienna,2004,254534,Locally Used, 3375000,,3300.0,,Silver
+Honda,Accord,2003,225481,Locally Used, 1560000,,2400.0,,White
+Honda,Civic,2005,530335,Locally Used, 1560000,4.0,1700.0,,Grey
+Kia,Rio,2012,34062,Locally Used, 1260000,,1400.0,,Blue
+Toyota,Corolla,2009,138366,Foreign Used, 4410000,,1800.0,,black
+Mercedes-Benz,M Class,2011,95334,Locally Used, 5565000,,3500.0,,Grey
+Ford,Edge,2008,290102,Locally Used, 1275000,,3500.0,,Grey
+Toyota,Camry,2005,259084,Locally Used, 1890000,,2400.0,,Grey
+Toyota,Corolla,2006,173429,Locally Used, 1890000,,1800.0,,Silver
+Honda,Pilot,2004,140472,Locally Used, 1260000,,3500.0,,Silver
+Mazda,CX-9,2010,209593,Locally Used, 3675000,,3700.0,,White
+Kia,Rio,2014,78345,Locally Used, 3848000,,1800.0,,brown
+Hyundai,Sonata,2007,212144,Locally Used, 1365000,,3300.0,,Grey
+Toyota,Corolla,2006,173429,Locally Used, 1890000,,1800.0,,Silver
+Toyota,Corolla,2006,252121,Locally Used, 1664000,,1800.0,,Blue
+Kia,Rio,2014,78345,Locally Used, 3848000,,1800.0,,brown
+Kia,Cerato,2013,88701,Locally Used, 2310000,,1600.0,,Silver
+Toyota,RAV4,2010,111428,Locally Used, 3360000,,2400.0,,Silver
+Toyota,Camry,2012,148313,Foreign Used, 6500000,,3500.0,,brown
+Volkswagen,Jetta,2001,237332,Locally Used, 1050000,,2000.0,,black
+Mazda,CX-9,2010,209593,Locally Used, 3675000,,3700.0,,White
+Honda,Civic,2008,137387,Locally Used, 1175000,,1800.0,,black
+Toyota,Camry,2005,259084,Locally Used, 1890000,,2400.0,,Grey
+Toyota,Camry,2009,148600,Locally Used, 2929500,,2400.0,,Blue
+Toyota,Corolla,2009,289458,Locally Used, 4472000,,1800.0,,Silver
+Nissan,Rogue,2012,233697,Locally Used, 3047625,,2500.0,,black
+Honda,Accord,2007,246676,Foreign Used, 2310000,4.0,2400.0,,gold
+Honda,Civic,2006,224532,Locally Used, 2028000,,1800.0,,Blue
+Toyota,Camry,2002,341093,Locally Used, 1365000,,2400.0,,gold
+BMW,325i,2003,371149,Locally Used, 1995000,,3000.0,,Grey
+Mazda,CX-9,2008,93246,Foreign Used, 5000000,,3700.0,,Red
+Hyundai,Sonata,2007,374028,Locally Used, 1260000,6.0,2400.0,,Silver
+Honda,Odyssey,2000,510090,Locally Used, 1575000,,3500.0,,Grey
+Volkswagen,Jetta,2007,170188,Locally Used, 2310000,,2500.0,,black
+Mazda,CX-7,2008,278583,Foreign Used, 1785000,,2300.0,,black
+Mercedes-Benz,M Class,2007,147788,Locally Used, 3570000,6.0,3500.0,,Silver
+Toyota,Tacoma,2005,200494,Locally Used, 4725000,,2500.0,,Silver
+Mercedes-Benz,C300,2008,307354,Locally Used, 3465000,,3500.0,,black
+Volkswagen,Passat,2004,266546,Locally Used, 1365000,,1800.0,,Grey
+Toyota,Corolla,2006,231749,Locally Used, 2310000,,1800.0,,Red
+Peugeot,607,2004,278206,Locally Used, 2100000,,2000.0,,Blue
+Toyota,Corolla,2007,251272,Locally Used, 1470000,,1600.0,,Silver
+Honda,Civic,2008,166341,Locally Used, 3328000,4.0,2000.0,,black
+Honda,Accord,2011,56564,Locally Used, 2404500,,3500.0,,White
+Volkswagen,Polo,2013,130829,Locally Used, 1890000,,1600.0,,Silver
+Honda,City,2010,220454,Locally Used, 2100000,,1800.0,,black
+Honda,Accord,2009,194038,Locally Used, 2310000,,2400.0,,black
+Toyota,Camry,2008,181596,Foreign Used, 4158000,,3300.0,,White
+Lexus,ES,2011,158587,Locally Used, 4515000,6.0,3500.0,,Silver
+Peugeot,607,2009,248404,Locally Used, 2625000,,2200.0,,Grey
+Toyota,Camry,2008,53745,Locally Used, 2475000,,2400.0,,Silver
+Honda,Accord,2011,56564,Locally Used, 2404500,,3500.0,,White
+Honda,City,2010,220454,Locally Used, 2100000,,1800.0,,black
+Toyota,Camry,2008,53745,Locally Used, 2475000,,2400.0,,Silver
+Toyota,Camry,2004,333822,Locally Used, 1984500,4.0,2400.0,,Blue
+Volkswagen,Polo,2013,130829,Locally Used, 1890000,,1600.0,,Silver
+Toyota,Corolla,2007,259029,Locally Used, 1470000,,1800.0,,black
+Honda,Accord,2008,205867,Locally Used, 2328750,,2400.0,,gold
+Volkswagen,Golf,2001,276256,Foreign Used, 2025000,,1600.0,,Silver
+Peugeot,607,2004,278206,Locally Used, 2100000,,2000.0,,Blue
+Lexus,GX,2010,192551,Locally Used, 14377500,8.0,4600.0,,Grey
+Honda,Accord,2009,194038,Locally Used, 2310000,,2400.0,,black
+Toyota,Camry,2002,341093,Locally Used, 1365000,,2400.0,,gold
+Honda,Pilot,2006,171666,Locally Used, 2100000,,3500.0,,Grey
+Honda,Accord,2003,361798,Locally Used, 1010000,,2400.0,,Grey
+Mercedes-Benz,C300,2012,102559,Locally Used, 4200000,,3000.0,,black
+Honda,Pilot,2003,373685,Locally Used, 1680000,,3500.0,,Silver
+Honda,Pilot,2006,171666,Locally Used, 2100000,,3500.0,,Grey
+Toyota,Camry,2013,102263,Locally Used, 3600000,4.0,2500.0,,Red
+Volkswagen,Golf,2001,276256,Foreign Used, 2025000,,1600.0,,Silver
+Peugeot,307,2009,283600,Locally Used, 1470000,,2000.0,,gold
+Lexus,RX 350,2008,153833,Locally Used, 4305000,,3500.0,,black
+Toyota,Corolla,2002,405472,Locally Used, 1050000,,1800.0,,black
+Toyota,Corolla,2006,207252,Locally Used, 1365000,,1800.0,,Blue
+Toyota,Sienna,1999,118883,Locally Used, 1560000,,3000.0,,gold
+Toyota,Corolla,2010,220471,Locally Used, 3900000,,1800.0,,Silver
+Honda,Civic,2007,348097,Locally Used, 1768000,,1800.0,,Grey
+Toyota,Camry,1997,477811,Locally Used, 1365000,,2500.0,,gold
+Toyota,Matrix,2007,160876,Locally Used, 2250000,,1800.0,,Red
+Toyota,Corolla,2006,207252,Locally Used, 1365000,,1800.0,,Blue
+Hyundai,Elantra,2008,126493,Locally Used, 2600000,,2000.0,,black
+Mercedes-Benz,CLA-Class,2014,204491,Locally Used, 8550000,,2400.0,,black
+Toyota,Camry,1997,333546,Locally Used, 1050000,,3200.0,,Blue
+Toyota,Sienna,2000,213880,Locally Used, 1575000,,3000.0,,White
+Honda,CR-V,2000,425480,Locally Used, 1248000,4.0,2000.0,,Silver
+Toyota,Camry,2013,102263,Locally Used, 3600000,4.0,2500.0,,Red
+Honda,Civic,2007,348097,Locally Used, 1768000,,1800.0,,Grey
+Toyota,Corolla,2002,405472,Locally Used, 1050000,,1800.0,,black
+Honda,Civic,2007,147631,Locally Used, 1554000,,1300.0,,Silver
+Mercedes-Benz,C300,2015,200818,Locally Used, 10125000,,2000.0,,black
+Toyota,Highlander,2010,162621,Foreign Used, 9562500,,3500.0,,black
+Toyota,Corolla,2005,87618,Locally Used, 2205000,4.0,1800.0,,Grey
+Honda,Accord Crosstour,2010,54097,Locally Used, 4784000,,3500.0,,black
+Lexus,ES,2007,146223,Locally Used, 4732000,,3500.0,,black
+Toyota,Corolla,2004,99906,Locally Used, 3640000,,1800.0,,Silver
+Lexus,ES,2007,193460,Locally Used, 4160000,,3500.0,,Silver
+Toyota,Land Cruiser Prado,2014,149674,Locally Used, 16800000,4.0,2700.0,,black
+Toyota,Camry,2015,92360,Locally Used, 6800000,4.0,2500.0,,Grey
+Toyota,Sienna,2007,500544,Foreign Used, 5720000,6.0,3500.0,,White
+Toyota,RAV4,2007,109651,Locally Used, 4056000,4.0,3500.0,,Silver
+Toyota,Camry,2007,322278,Locally Used, 3852000,,3500.0,,Grey
+Lexus,ES,2011,158587,Locally Used, 4515000,6.0,3500.0,,Silver
+Toyota,Camry,2007,373194,Locally Used, 2935000,,2400.0,,gold
+Lexus,ES,2003,292932,Locally Used, 2310000,6.0,3300.0,,beige
+Mitsubishi,Pajero,2013,162472,Locally Used, 5565000,,3500.0,,black
+Toyota,Sequoia,2001,277582,Locally Used, 2625000,,4700.0,,purple
+Toyota,Camry,1997,536446,Locally Used, 1252500,,2200.0,,black
+Toyota,Camry,2004,214211,Locally Used, 1575000,,2400.0,,Blue
+Honda,Odyssey,2005,186773,Locally Used, 2310000,4.0,3500.0,,Silver
+Toyota,Camry,2008,114262,Locally Used, 3848000,,3500.0,,Silver
+Honda,Accord,2003,212450,Locally Used, 1012500,,2400.0,,Silver
+Lexus,ES,2005,311357,Locally Used, 3140000,,3300.0,,Grey
+Kia,Rio,2005,201633,Locally Used, 840000,,1400.0,,Silver
+Lexus,ES,2013,121262,Foreign Used, 10080000,,3500.0,,White
+Honda,CR-V,1999,346418,Locally Used, 748000,,2000.0,,black
+Toyota,Corolla,1997,350248,Locally Used, 1575000,,1800.0,,Silver
+Honda,Pilot,2003,327622,Locally Used, 1687500,6.0,3500.0,,Grey
+Hyundai,Sonata,2018,175511,Locally Used, 5985000,4.0,2400.0,,Silver
+Honda,Accord,2005,218415,Locally Used, 2288000,,2400.0,,Grey
+Hyundai,Sonata,2012,238262,Locally Used, 4160000,,2400.0,,Blue
+Honda,Accord,2006,344809,Locally Used, 2025000,,2000.0,,Silver
+Honda,Accord,2006,151053,Locally Used, 1512000,,2400.0,,Blue
+Toyota,Camry,2012,126159,Foreign Used, 6760000,,2500.0,,Red
+Hyundai,Elantra,2005,382771,Locally Used, 945000,,2000.0,,Silver
+Toyota,Camry,2007,139479,Locally Used, 3120000,6.0,3500.0,,Blue
+Lexus,ES,2007,302470,Locally Used, 3465000,,3500.0,,Grey
+Mercedes-Benz,GL-Class,2013,142225,Locally Used, 15600000,,4700.0,,Silver
+Honda,City,2007,357519,Locally Used, 945000,,1600.0,,Grey
+Toyota,Camry,1998,409927,Foreign Used, 997500,,2000.0,,Green
+Toyota,Camry,2000,444274,Locally Used, 785000,,2200.0,,Silver
+Ford,Edge,2013,42856,Locally Used, 4992000,,3500.0,,black
+Toyota,Camry,2004,220877,Locally Used, 2808000,,2400.0,,gold
+Mercedes-Benz,C300,2010,142379,Locally Used, 3780000,,3500.0,,White
+Toyota,Corolla,2012,102422,Locally Used, 2940000,,1800.0,,Grey
+Toyota,Camry,1999,220048,Locally Used, 945000,,2200.0,,Grey
+Hyundai,Sonata,2007,129652,Locally Used, 2025000,,3300.0,,black
+Nissan,Sentra,2007,85459,Locally Used, 840000,4.0,1800.0,,Grey
+Honda,CR-V,1998,223359,Locally Used, 892500,,2400.0,,Blue
+Toyota,Camry,2004,283760,Locally Used, 2288000,4.0,2400.0,,Grey
+Honda,Pilot,2005,172542,Locally Used, 2288000,,3500.0,,Silver
+Lexus,ES,2008,502157,Locally Used, 5720000,6.0,3500.0,,gold
+Toyota,Camry,2012,115797,Locally Used, 6240000,,2400.0,,Red
+Mercedes-Benz,E350,2010,275116,Foreign Used, 6300000,6.0,3500.0,,black
+Kia,Rio,2008,156218,Locally Used, 840000,,1400.0,,black
+Volkswagen,Golf,1999,344472,Locally Used, 840000,,2200.0,,Blue
+Kia,Rio,2008,256331,Locally Used, 997500,,1600.0,,black
+Toyota,Camry,2007,159159,Locally Used, 3640000,,2400.0,,gold
+Toyota,Camry,2011,331424,Foreign Used, 5040000,4.0,2500.0,,Grey
+Lexus,ES,2007,100163,Locally Used, 7280000,,3500.0,,gold
+Kia,Rio,2009,295416,Locally Used, 735000,,1500.0,,black
+Hyundai,Accent,2012,134394,Locally Used, 1300000,,1600.0,,Silver
+Honda,Accord,2005,261366,Locally Used, 945000,,2000.0,,Blue
+Nissan,Primera,2000,215346,Locally Used, 735000,4.0,2400.0,,Red
+Mercedes-Benz,GL-Class,2008,252873,Locally Used, 5720000,8.0,4600.0,,black
+Nissan,Primera,1997,292500,Locally Used, 792500,,1400.0,,black
+Hyundai,Accent,2016,45797,Locally Used, 4200000,4.0,1400.0,,black
+Honda,Accord,2001,231211,Locally Used, 988000,,2300.0,,gold
+Honda,Accord,2001,231211,Locally Used, 988000,,2300.0,,gold
+Honda,Accord,2001,270961,Locally Used, 714000,,2300.0,,Red
+Toyota,Highlander,2015,81302,Foreign Used, 15120000,,3500.0,,Red
+Volkswagen,Jetta,2009,105933,Locally Used, 2100000,,2500.0,,Blue
+Toyota,RAV4,1994,295413,Locally Used, 840000,,1600.0,,Blue
+Honda,Civic,2001,770038,Locally Used, 892500,4.0,1700.0,,Blue
+Toyota,Venza,2009,126257,Locally Used, 3675000,,3500.0,,White
+Toyota,Camry,2009,224686,Locally Used, 1785000,,2400.0,,Grey
+Toyota,Hilux,2010,24528,Locally Used, 5775000,4.0,2000.0,,black
+Toyota,Sienna,2004,147637,Locally Used, 3120000,,3300.0,,White
+Toyota,Tundra,2007,156511,Locally Used, 5040000,,5700.0,,brown
+Toyota,Tundra,2007,114995,Locally Used, 5350000,8.0,5700.0,,black
+Ford,Edge,2013,130219,Locally Used, 4668000,,3500.0,,Silver
+Toyota,Camry,2007,78023,Locally Used, 2625000,,2400.0,,Green
+Toyota,Camry,2011,162791,Foreign Used, 4305000,,2400.0,,Grey
+Toyota,Camry,2011,380921,Foreign Used, 5200000,,2500.0,,Grey
+Toyota,Sienna,2012,142717,Locally Used, 5250000,,3500.0,,gold
+Hyundai,Sonata,2011,178467,Locally Used, 3432000,,2400.0,,Blue
+Hyundai,Sonata,2016,221776,Foreign Used, 7035000,,2400.0,,Blue
+Lexus,IS,2008,133420,Locally Used, 4160000,,3500.0,,Red
+Toyota,RAV4,2007,270449,Locally Used, 3150000,4.0,2400.0,,Blue
+Land Rover,Range Rover,2012,72682,Locally Used, 6380000,,4000.0,,Grey
+Hyundai,Elantra,2013,91321,Locally Used, 3432000,,1800.0,,black
+Toyota,Camry,2015,53724,Locally Used, 6090000,,2500.0,,black
+Toyota,Corolla,2005,353300,Locally Used, 2600000,,1800.0,,Silver
+Toyota,Corolla,2005,353300,Locally Used, 2600000,,1800.0,,Silver
+Toyota,Camry,2015,53724,Locally Used, 6090000,,2500.0,,black
+Toyota,Camry,2009,204250,Locally Used, 3432000,,2400.0,,Silver
+Toyota,Venza,2013,140635,Locally Used, 9880000,,3500.0,,Silver
+Ford,Explorer,2013,233283,Locally Used, 4725000,,3500.0,,black
+Toyota,Tacoma,2007,104438,Foreign Used, 5550000,,4000.0,,Blue
+Toyota,Tundra,2008,311273,Foreign Used, 6300000,,5700.0,,Red
+Toyota,HiAce,2007,80513,Foreign Used, 9450000,,2800.0,,Silver
+Toyota,Corolla,2009,241182,Locally Used, 3536000,,1800.0,,Red
+Toyota,RAV4,2019,78836,Locally Used, 19950000,,2500.0,,Blue
+Kia,Sorento,2011,114189,Locally Used, 4095000,,3300.0,,black
+Toyota,Hilux,2012,110928,Locally Used, 9360000,,3500.0,,White
+Toyota,Camry,2010,79354,Locally Used, 3848000,,2500.0,,Grey
+Toyota,Hilux,2012,110928,Locally Used, 9360000,,3500.0,,White
+Toyota,Camry,2010,79354,Locally Used, 3848000,,2500.0,,Grey
+Toyota,Avalon,2007,148988,Locally Used, 3600000,,3500.0,,White
+Toyota,Corolla,2011,160113,Locally Used, 4160000,,1800.0,,black
+Toyota,HiAce,2007,80513,Foreign Used, 9450000,,2800.0,,Silver
+Kia,Sorento,2011,114189,Locally Used, 4095000,,3300.0,,black
+Toyota,Camry,2007,179168,Locally Used, 3016000,,2400.0,,black
+Acura,TL,2012,111334,Foreign Used, 7592000,6.0,3500.0,,White
+Toyota,Sienna,2006,136775,Foreign Used, 4305000,,3300.0,,gold
+Toyota,Highlander,2015,165406,Foreign Used, 14175000,,3500.0,,burgandy
+Toyota,Land Cruiser,2014,103985,Locally Used, 23100000,,5700.0,,black
+Ford,Explorer,2013,233283,Locally Used, 4725000,,3500.0,,black
+Mercedes-Benz,CLA-Class,2016,132332,Foreign Used, 12075000,,2000.0,,White
+Toyota,Camry,2006,77532,Foreign Used, 4160000,,2400.0,,Grey
+Toyota,Camry,2011,230512,Foreign Used, 4784000,4.0,2500.0,,Silver
+Hyundai,Sonata,2011,142243,Locally Used, 3432000,,2400.0,,beige
+Toyota,Land Cruiser,2014,103985,Locally Used, 23100000,,5700.0,,black
+Toyota,Sienna,2011,63713,Foreign Used, 7350000,,3500.0,,Grey
+Lexus,ES,2007,181974,Locally Used, 3640000,,3500.0,,Red
+Toyota,Camry,2007,300288,Locally Used, 2912000,,2400.0,,black
+Toyota,Camry,2011,88333,Foreign Used, 4992000,,2500.0,,Silver
+Mercedes-Benz,CLA-Class,2014,101487,Foreign Used, 10500000,,2000.0,,Grey
+Toyota,Tacoma,2007,50290,Locally Used, 5250000,,2700.0,,Blue
+Toyota,Corolla,2011,235530,Locally Used, 4160000,,1800.0,,Grey
+Mercedes-Benz,GLK-Class,2012,182470,Foreign Used, 8925000,6.0,3500.0,,Grey
+Toyota,Corolla,2009,187689,Locally Used, 3536000,,1800.0,,black
+Toyota,Corolla,2009,80748,Locally Used, 3276000,,1800.0,,Blue
+Toyota,RAV4,2006,120446,Locally Used, 3150000,,2700.0,,Silver
+Toyota,Avalon,2013,137918,Foreign Used, 8100000,,3500.0,,White
+Lexus,IS,2015,117114,Foreign Used, 14768000,,2500.0,,black
+Toyota,Camry,2011,88333,Foreign Used, 4992000,,2500.0,,Silver
+Toyota,Camry,2007,378925,Locally Used, 2625000,,2400.0,,Grey
+Toyota,Camry,2011,140842,Foreign Used, 4992000,4.0,2500.0,,Grey
+Lexus,ES,2005,231791,Locally Used, 3536000,,3300.0,,Green
+Toyota,Sienna,2011,63713,Foreign Used, 7350000,,3500.0,,Grey
+Toyota,Corolla,2009,187689,Locally Used, 3536000,,1800.0,,black
+Toyota,Sequoia,2008,198169,Locally Used, 7400000,,5700.0,,black
+Lexus,ES,2012,93891,Locally Used, 4830000,,3500.0,,White
+Toyota,Camry,2007,300288,Locally Used, 2912000,,2400.0,,black
+Toyota,Corolla,2010,115620,Foreign Used, 4315000,,1800.0,,Red
+Acura,MDX,2007,224589,Foreign Used, 5000000,,3700.0,,Green
+Toyota,Sienna,2006,160772,Foreign Used, 6032000,,3500.0,,Silver
+Toyota,RAV4,2006,120446,Locally Used, 3150000,,2700.0,,Silver
+Lexus,IS,2015,117114,Foreign Used, 14768000,,2500.0,,black
+Toyota,Camry,2007,188413,Locally Used, 3224000,,2400.0,,Red
+Toyota,Highlander,2008,173811,Foreign Used, 7592000,,3300.0,,black
+Toyota,Avalon,2015,137872,Foreign Used, 12480000,6.0,3500.0,,black
+Ford,Edge,2013,92118,Locally Used, 4160000,,3500.0,,Grey
+Toyota,Corolla,2009,95362,Locally Used, 3848000,,1800.0,,White
+Ford,Edge,2016,52184,Locally Used, 14560000,,3500.0,,black
+Toyota,Corolla,2007,270248,Locally Used, 3640000,,1800.0,,Green
+Lexus,ES,2005,231791,Locally Used, 3536000,,3300.0,,Green
+Ford,Explorer,2011,259142,Foreign Used, 7320000,,3500.0,,Blue
+Toyota,RAV4,2009,100271,Locally Used, 4004000,,3500.0,,Silver
+Toyota,Highlander,2006,304319,Foreign Used, 5200000,,3300.0,,black
+Toyota,Highlander,2015,182190,Foreign Used, 18720000,,3500.0,,White
+Lexus,GX,2014,169188,Locally Used, 19880000,8.0,4600.0,,White
+Toyota,Tacoma,2007,50290,Locally Used, 5250000,,2700.0,,Blue
+Mercedes-Benz,GL-Class,2007,235543,Foreign Used, 6090000,,4700.0,,Blue
+Toyota,Hilux,2012,189367,Locally Used, 6300000,,2700.0,,White
+Toyota,Highlander,2012,130781,Foreign Used, 9975000,6.0,2700.0,,black
+Toyota,Camry,2009,236152,Locally Used, 3640000,,2500.0,,Silver
+Ford,Explorer,2009,128563,Locally Used, 9975000,,4000.0,,brown
+Toyota,Highlander,2013,146766,Foreign Used, 10500000,,3500.0,,Grey
+Toyota,Camry,2007,180398,Foreign Used, 4368000,,2400.0,,Green
+Toyota,Highlander,2013,220088,Locally Used, 7500000,,3500.0,,Grey
+Lexus,GX,2015,55940,Locally Used, 19760000,8.0,4600.0,,black
+Honda,Crosstour,2012,248100,Foreign Used, 6000000,,3500.0,,Grey
+Toyota,Corolla,2009,95362,Locally Used, 3848000,,1800.0,,White
+Toyota,Camry,2003,135586,Foreign Used, 3640000,,3000.0,,gold
+Ford,Edge,2016,52184,Locally Used, 14560000,,3500.0,,black
+Toyota,Corolla,2011,269139,Foreign Used, 5720000,,1800.0,,Red
+Toyota,RAV4,2008,248028,Foreign Used, 5200000,,3500.0,,Blue
+Toyota,Camry,2006,200685,Foreign Used, 3952000,,3000.0,,gold
+Toyota,Sienna,2006,160772,Foreign Used, 6032000,,3500.0,,Silver
+Toyota,Camry,2009,178543,Foreign Used, 4888000,,2500.0,,Red
+Toyota,RAV4,2015,119933,Foreign Used, 11960000,,2500.0,,Silver
+Lexus,ES,2008,90453,Foreign Used, 5320000,,3500.0,,gold
+Lexus,ES,2008,263487,Foreign Used, 5250000,,3500.0,,Grey
+Toyota,Highlander,2006,304319,Foreign Used, 5200000,,3300.0,,black
+Toyota,RAV4,2008,101740,Locally Used, 3432000,,3500.0,,purple
+Honda,Ridgeline,2007,125352,Locally Used, 3640000,,3500.0,,black
+Toyota,Camry,2007,229969,Foreign Used, 4368000,,2400.0,,Silver
+Mercedes-Benz,GLK-Class,2015,138202,Foreign Used, 10700000,,3500.0,,White
+Toyota,Corolla,2010,115620,Foreign Used, 4315000,,1800.0,,Red
+Toyota,Camry,2003,135586,Foreign Used, 3640000,,3000.0,,gold
+Toyota,Camry,2011,170067,Foreign Used, 4784000,,2500.0,,Red
+Lexus,ES,2010,104279,Locally Used, 5720000,,3500.0,,Grey
+Toyota,Camry,2007,225137,Locally Used, 3120000,,2400.0,,Silver
+Toyota,Camry,2009,178543,Foreign Used, 4888000,,2500.0,,Red
+Lexus,ES,2010,225619,Locally Used, 4200000,,3500.0,,black
+Toyota,Sienna,2005,46438,Locally Used, 3640000,,3300.0,,Blue
+Toyota,Camry,2011,162528,Locally Used, 5824000,,3500.0,,Grey
+Toyota,Camry,2009,94944,Locally Used, 4992000,4.0,2400.0,,burgandy
+Ford,Explorer,2014,63304,Locally Used, 8320000,,3500.0,,Red
+Toyota,Camry,2009,343632,Locally Used, 3952000,,2400.0,,Grey
+Toyota,Camry,2007,95166,Locally Used, 3328000,,2400.0,,Green
+Toyota,Camry,2003,486279,Locally Used, 2392000,,2400.0,,Silver
+Toyota,Camry,2006,1,Locally Used, 2704000,,2400.0,,black
+Toyota,Camry,2007,95166,Locally Used, 3328000,,2400.0,,Green
+Honda,Crosstour,2013,156715,Foreign Used, 6825000,,3500.0,,black
+Lexus,ES,2005,205914,Locally Used, 3328000,,3300.0,,Blue
+Toyota,Venza,2010,210393,Locally Used, 6240000,,3500.0,,brown
+Toyota,Camry,2012,143302,Locally Used, 7800000,,2800.0,,Grey
+Toyota,Camry,2012,91473,Locally Used, 4680000,,2500.0,,Silver
+Toyota,Sienna,2011,106153,Foreign Used, 8008000,6.0,3500.0,,Green
+Toyota,Camry,2011,75123,Foreign Used, 6240000,,2500.0,,black
+Toyota,Camry,2011,162528,Locally Used, 5824000,,3500.0,,Grey
+Toyota,Highlander,2008,113950,Foreign Used, 6825000,,3500.0,,Blue
+Mercedes-Benz,E350,2013,271535,Locally Used, 11440000,,3500.0,,black
+Toyota,RAV4,2018,96832,Locally Used, 9480000,,2400.0,,Grey
+Toyota,Venza,2010,148016,Foreign Used, 10440000,,3500.0,,Blue
+Mercedes-Benz,M Class,2010,103700,Foreign Used, 9568000,6.0,3500.0,,Silver
+Toyota,Sienna,2007,210408,Foreign Used, 6032000,,3500.0,,White
+Toyota,Highlander,2004,65042,Locally Used, 4152000,,3300.0,,Red
+Ford,Edge,2008,354304,Foreign Used, 4472000,,3500.0,,Silver
+Toyota,RAV4,2010,138782,Locally Used, 4992000,,3500.0,,White
+Toyota,Highlander,2008,201988,Locally Used, 6760000,,3500.0,,Silver
+Lexus,ES,2007,171774,Locally Used, 4680000,,3500.0,,gold
+Toyota,RAV4,2006,141213,Locally Used, 4160000,,2400.0,,Silver
+Lexus,ES,2010,104279,Locally Used, 5720000,,3500.0,,Grey
+Toyota,RAV4,2016,107590,Foreign Used, 11025000,,2400.0,,Red
+Toyota,Corolla,2013,74654,Locally Used, 4680000,,1800.0,,black
+Toyota,RAV4,2016,135267,Foreign Used, 16640000,,2500.0,,Grey
+Toyota,Corolla,2014,96505,Locally Used, 6760000,,1800.0,,Blue
+Toyota,Camry,2009,339273,Locally Used, 3328000,,3500.0,,black
+Toyota,Camry,2007,150381,Foreign Used, 4368000,,2400.0,,gold
+Toyota,Sienna,2008,169440,Foreign Used, 6032000,,3500.0,,Blue
+Toyota,Camry,2007,74425,Foreign Used, 4095000,,3500.0,,black
+Toyota,Venza,2010,148016,Foreign Used, 10440000,,3500.0,,Blue
+Toyota,Camry,2009,268577,Foreign Used, 4200000,,2400.0,,black
+Toyota,Hilux,2011,72288,Locally Used, 7140000,,2700.0,,White
+Ford,Explorer,2013,233154,Locally Used, 7072000,,3500.0,,black
+Mercedes-Benz,M Class,2008,214407,Locally Used, 5408000,,3500.0,,Silver
+Toyota,Camry,2009,155389,Locally Used, 3952000,,2400.0,,Silver
+Lexus,IS,2009,142346,Locally Used, 5200000,,2500.0,,Grey
+Toyota,RAV4,2007,92686,Foreign Used, 6032000,,3500.0,,White
+Toyota,Camry,2007,90484,Locally Used, 3640000,,2400.0,,black
+Mercedes-Benz,C300,2008,143900,Locally Used, 5200000,,3000.0,,Grey
+Kia,Sorento,2012,151314,Locally Used, 4935000,,3500.0,,brown
+Toyota,Camry,2020,37451,Foreign Used, 23920000,,2400.0,,brown
+Land Rover,Range Rover Evoque,2014,165454,Locally Used, 9880000,,2000.0,,White
+Toyota,Corolla,2013,184567,Locally Used, 4472000,,1800.0,,Blue
+Hyundai,Elantra,2013,249257,Foreign Used, 5720000,,1800.0,,black
+Toyota,Hilux,2014,229329,Locally Used, 10400000,,2700.0,,White
+Acura,MDX,2010,198774,Foreign Used, 8632000,,3700.0,,Silver
+Mercedes-Benz,GL-Class,2009,113376,Locally Used, 8320000,,5500.0,,black
+Toyota,Camry,2007,280289,Locally Used, 2625000,,3500.0,,black
+Toyota,Corolla,2010,87422,Foreign Used, 5200000,,1800.0,,Silver
+Toyota,Camry,2006,200685,Foreign Used, 3952000,,3000.0,,gold
+Mercedes-Benz,GLK-Class,2011,128298,Locally Used, 8840000,,3500.0,,White
+Lexus,GX,2017,47195,Locally Used, 41800000,,4600.0,,black
+Toyota,Venza,2013,134592,Foreign Used, 12480000,,3500.0,,Grey
+Mercedes-Benz,C300,2008,137009,Foreign Used, 5620000,,3000.0,,black
+Toyota,RAV4,2010,187274,Foreign Used, 7072000,,3500.0,,black
+Toyota,Camry,2007,168215,Locally Used, 3328000,,2400.0,,black
+Toyota,Hilux,2014,229329,Locally Used, 10400000,,2700.0,,White
+Land Rover,Range Rover Evoque,2014,165454,Locally Used, 9880000,,2000.0,,White
+Mercedes-Benz,CLA-Class,2015,190355,Foreign Used, 13000000,,2000.0,,Grey
+Hyundai,Elantra,2013,249257,Foreign Used, 5720000,,1800.0,,black
+Toyota,Corolla,2011,98119,Locally Used, 4680000,,1800.0,,Red
+Toyota,Camry,2009,155389,Locally Used, 3952000,,2400.0,,Silver
+Toyota,Corolla,2013,184567,Locally Used, 4472000,,1800.0,,Blue
+Toyota,Land Cruiser Prado,2019,2405,Locally Used, 46800000,,2700.0,,black
+Mercedes-Benz,GL-Class,2009,113376,Locally Used, 8320000,,5500.0,,black
+Nissan,Rogue,2009,163603,Locally Used, 3150000,,2500.0,,Silver
+Mercedes-Benz,GLK-Class,2011,128298,Locally Used, 8840000,,3500.0,,White
+Lexus,GX,2017,47195,Locally Used, 41800000,,4600.0,,black
+Toyota,Sienna,2011,139079,Foreign Used, 8375000,6.0,3500.0,,Silver
+Mercedes-Benz,GL-Class,2007,122342,Locally Used, 6240000,,4700.0,,black
+Hyundai,Santa Fe,2007,140588,Foreign Used, 4264000,,3300.0,,Blue
+Toyota,Highlander,2005,425506,Foreign Used, 5616000,,3300.0,,Green
+Toyota,Sienna,2007,210408,Foreign Used, 6032000,,3500.0,,White
+Toyota,Corolla,2009,118485,Foreign Used, 5200000,,1800.0,,Silver
+Toyota,Camry,2012,175598,Locally Used, 7072000,,2500.0,,Silver
+Toyota,Tundra,2007,302015,Locally Used, 8400000,8.0,5700.0,,black
+Toyota,Camry,2012,148323,Foreign Used, 5880000,,2500.0,,Red
+Toyota,Tacoma,2012,204665,Foreign Used, 13000000,6.0,4000.0,,Grey
+Ford,Edge,2008,259900,Locally Used, 3328000,6.0,3500.0,,black
+Toyota,Camry,2013,114504,Foreign Used, 6300000,,2500.0,,Silver
+Toyota,Venza,2010,156769,Foreign Used, 10400000,,3500.0,,Blue
+Ford,Edge,2007,372747,Foreign Used, 3990000,,3500.0,,black
+Hyundai,Santa Fe,2008,127191,Locally Used, 2310000,6.0,3300.0,,black
+Toyota,Sienna,2006,156159,Locally Used, 2100000,,3300.0,,Silver
+Toyota,Venza,2010,255069,Locally Used, 5720000,,2700.0,,Green
+Toyota,Camry,2007,225586,Locally Used, 2415000,,2400.0,,black
+Honda,CR-V,2005,185365,Locally Used, 1960000,4.0,2000.0,,White
+Peugeot,307,2008,738953,Locally Used, 1365000,,2000.0,,White
+Toyota,Camry,2007,16124,Locally Used, 2100000,,3500.0,,Blue
+Toyota,Sienna,2006,164082,Locally Used, 2920000,,3300.0,,White
+Toyota,Camry,2002,332837,Locally Used, 1612000,,2400.0,,Blue
+Lexus,IS,2011,126208,Locally Used, 4200000,,2500.0,,black
+Lexus,RX,2005,171005,Foreign Used, 6240000,6.0,3300.0,,Silver
+Ford,Edge,2011,360099,Foreign Used, 5670000,,3500.0,,White
+Toyota,Camry,2009,289750,Locally Used, 3120000,,2400.0,,black
+Ford,Edge,2010,133160,Locally Used, 5200000,,3500.0,,Red
+Toyota,Highlander,2008,141947,Foreign Used, 7800000,6.0,3500.0,,Grey
+Toyota,Camry,2009,171063,Foreign Used, 4784000,,2400.0,,Silver
+Toyota,Tundra,2008,51535,Locally Used, 10400000,,5700.0,,Grey
+Mercedes-Benz,M Class,2014,84303,Foreign Used, 15080000,,3500.0,,black
+Toyota,Highlander,2002,113024,Foreign Used, 5200000,,3000.0,,Blue
+Lexus,IS,2009,170491,Foreign Used, 5720000,,2500.0,,Silver
+Toyota,Camry,2004,342874,Locally Used, 2600000,,3000.0,,Blue
+Toyota,Sienna,2012,157753,Locally Used, 7800000,,3500.0,,Grey
+Toyota,Camry,2007,105430,Foreign Used, 4680000,,2400.0,,Grey
+Lexus,RX,2004,202365,Foreign Used, 6240000,,3300.0,,Blue
+Toyota,Highlander,2008,107641,Foreign Used, 8112000,,3500.0,,Blue
+Toyota,Highlander,2010,259667,Locally Used, 7280000,,3500.0,,Silver
+Lexus,ES,2007,236543,Locally Used, 3952000,6.0,3500.0,,black
+Mercedes-Benz,GL-Class,2015,110210,Locally Used, 26000000,,3500.0,,Silver
+Toyota,Venza,2009,204741,Foreign Used, 8400000,6.0,3500.0,,White
+Toyota,RAV4,2016,107590,Foreign Used, 11025000,,2400.0,,Red
+Toyota,Camry,2004,173541,Foreign Used, 3432000,,2400.0,,Blue
+Honda,Ridgeline,2006,298936,Foreign Used, 6448000,6.0,3500.0,,Grey
+Toyota,Camry,2013,219135,Foreign Used, 5250000,,2500.0,,black
+Toyota,Corolla,2016,103595,Foreign Used, 7140000,,1800.0,,black
+Lexus,ES,2011,143371,Foreign Used, 6300000,6.0,3500.0,,Silver
+Lexus,GX,2004,305087,Locally Used, 5200000,,4700.0,,black
+Toyota,Camry,2007,198522,Locally Used, 3120000,,2400.0,,Grey
+Toyota,Corolla,2008,285020,Foreign Used, 4368000,,1800.0,,Grey
+Lexus,ES,2005,217281,Locally Used, 3224000,,3300.0,,Silver
+Toyota,Tundra,2012,99670,Foreign Used, 12600000,,4600.0,,White
+Pontiac,Vibe,2009,190277,Foreign Used, 4388000,,2400.0,,Blue
+Toyota,Corolla,2012,159187,Locally Used, 4992000,4.0,1800.0,,black
+Lexus,ES,2007,236543,Locally Used, 3952000,6.0,3500.0,,black
+Mercedes-Benz,M Class,2014,84303,Foreign Used, 15080000,,3500.0,,black
+Lexus,RX,2004,202365,Foreign Used, 6240000,,3300.0,,Blue
+Lexus,IS,2008,110417,Locally Used, 3465000,,2500.0,,Red
+Mercedes-Benz,M Class,2013,224238,Locally Used, 14560000,,3500.0,,White
+Lexus,GX,2004,305087,Locally Used, 5200000,,4700.0,,black
+Honda,Ridgeline,2006,298936,Foreign Used, 6448000,6.0,3500.0,,Grey
+Lexus,IS,2009,170491,Foreign Used, 5720000,,2500.0,,Silver
+Toyota,Camry,2003,183540,Locally Used, 2704000,,2400.0,,Silver
+Lexus,ES,2011,143371,Foreign Used, 6300000,6.0,3500.0,,Silver
+Toyota,Corolla,2009,87059,Locally Used, 3536000,,1800.0,,gold
+Toyota,Camry,2012,55441,Locally Used, 6448000,,2500.0,,black
+Mercedes-Benz,M Class,2006,205049,Foreign Used, 9360000,,3500.0,,White
+Land Rover,Lr3,2007,13172,Locally Used, 5250000,,4400.0,,black
+Toyota,Corolla,2013,74654,Locally Used, 4680000,,1800.0,,black
+Hyundai,Sonata,2012,214034,Foreign Used, 5200000,,2400.0,,black
+Toyota,4-Runner,2005,318844,Locally Used, 5200000,,4000.0,,burgandy
+Mercedes-Benz,GLK-Class,2015,156587,Foreign Used, 12075000,,3500.0,,Silver
+Toyota,Corolla,2010,96901,Foreign Used, 6760000,,1800.0,,Red
+Toyota,Corolla,2014,131885,Locally Used, 5375000,,1800.0,,black
+Lexus,ES,2013,69929,Foreign Used, 10920000,6.0,3500.0,,black
+Toyota,Highlander,2008,113950,Foreign Used, 6825000,,3500.0,,Blue
+Toyota,Camry,2004,130544,Locally Used, 2600000,,3000.0,,Blue
+Toyota,Tacoma,2008,311069,Foreign Used, 7350000,,4000.0,,black
+Toyota,Highlander,2008,156672,Locally Used, 6240000,,3500.0,,gold
+Toyota,Camry,2009,171063,Foreign Used, 4784000,,2400.0,,Silver
+Toyota,Corolla,2014,39995,Locally Used, 5824000,,1800.0,,Grey
+Toyota,Camry,2003,133222,Locally Used, 2392000,,2400.0,,Green
+Land Rover,Lr3,2007,13172,Locally Used, 5250000,,4400.0,,black
+Mercedes-Benz,M Class,2015,6369,Foreign Used, 14910000,,3500.0,,Grey
+Toyota,Corolla,2004,105417,Locally Used, 2704000,4.0,1800.0,,Grey
+Toyota,Highlander,2006,121904,Foreign Used, 5304000,,3300.0,,gold
+Toyota,Corolla,2009,87059,Locally Used, 3536000,,1800.0,,gold
+Toyota,Corolla,2012,117068,Foreign Used, 5512000,,1800.0,,Grey
+Toyota,Camry,2012,55441,Locally Used, 6448000,,2500.0,,black
+Toyota,Highlander,2008,151646,Locally Used, 5000000,,3500.0,,Blue
+Mercedes-Benz,M Class,2006,205049,Foreign Used, 9360000,,3500.0,,White
+Lexus,ES,2014,76023,Locally Used, 13000000,,3500.0,,Silver
+Toyota,Corolla,2004,113880,Locally Used, 2912000,,1800.0,,Red
+Toyota,Corolla,2012,138087,Locally Used, 5928000,,1800.0,,black
+Toyota,RAV4,2007,346405,Locally Used, 4160000,,2400.0,,White
+Ford,Fusion,2013,51603,Foreign Used, 9975000,,1600.0,,Silver
+Toyota,Corolla,2008,285020,Foreign Used, 4368000,,1800.0,,Grey
+Toyota,Camry,2012,203698,Foreign Used, 6090000,,2500.0,,black
+Toyota,Camry,2009,307893,Foreign Used, 4784000,,2400.0,,Grey
+Toyota,Venza,2009,332037,Locally Used, 6780000,,3500.0,,black
+Honda,Pilot,2006,94583,Foreign Used, 4160000,,3500.0,,black
+Toyota,Tacoma,2006,216119,Foreign Used, 9360000,,3700.0,,black
+Mercedes-Benz,M Class,2015,55296,Foreign Used, 15330000,,3500.0,,White
+Toyota,Highlander,2011,63845,Foreign Used, 12480000,,3500.0,,Grey
+Lexus,RX 350,2014,104116,Foreign Used, 15080000,,3500.0,,Blue
+Toyota,Camry,2009,67847,Locally Used, 3536000,4.0,2400.0,,Red
+Lexus,ES,2014,210580,Foreign Used, 13140000,6.0,3500.0,,Grey
+Hyundai,Sonata,2012,214034,Foreign Used, 5200000,,2400.0,,black
+Toyota,Camry,2007,162841,Locally Used, 4056000,,2400.0,,Silver
+Toyota,Camry,2007,121805,Locally Used, 3120000,,2400.0,,Green
+Honda,Pilot,2006,290172,Foreign Used, 5200000,,3500.0,,White
+Ford,Edge,2012,156750,Locally Used, 6552000,,3500.0,,Red
+Lexus,ES,2013,69929,Foreign Used, 10920000,6.0,3500.0,,black
+Toyota,Highlander,2013,176845,Locally Used, 8320000,6.0,3500.0,,Silver
+Lexus,ES,2009,113298,Foreign Used, 5824000,,3500.0,,brown
+Toyota,Venza,2009,149467,Locally Used, 6240000,,3500.0,,Silver
+Mercedes-Benz,M Class,2012,186958,Foreign Used, 13125000,,3500.0,,Grey
+Toyota,Camry,2015,65510,Locally Used, 7800000,,2500.0,,Silver
+Mercedes-Benz,GLK-Class,2010,256449,Locally Used, 6968000,,3500.0,,Blue
+Toyota,Camry,2007,104203,Foreign Used, 5720000,,3500.0,,Silver
+Mazda,CX-9,2009,384535,Foreign Used, 5928000,,3700.0,,Silver
+Toyota,Camry,2007,116764,Locally Used, 3848000,,2400.0,,Red
+Mazda,CX-9,2009,384535,Foreign Used, 5928000,,3700.0,,Silver
+Toyota,Corolla,2014,39995,Locally Used, 5824000,,1800.0,,Grey
+Toyota,Camry,2009,228053,Locally Used, 3016000,,2400.0,,Blue
+Toyota,Corolla,2009,224166,Locally Used, 3640000,,1800.0,,Grey
+Mercedes-Benz,GLK-Class,2010,256449,Locally Used, 6968000,,3500.0,,Blue
+Toyota,Camry,2004,207878,Locally Used, 2808000,,2400.0,,black
+Nissan,Pathfinder,2006,154331,Locally Used, 3016000,,4000.0,,Silver
+Lexus,RX 350,2014,104116,Foreign Used, 15080000,,3500.0,,Blue
+Toyota,Camry,2015,65510,Locally Used, 7800000,,2500.0,,Silver
+Toyota,Camry,2012,265824,Locally Used, 4680000,4.0,2500.0,,black
+Toyota,Highlander,2008,151646,Locally Used, 5000000,,3500.0,,Blue
+Toyota,Matrix,2005,318227,Foreign Used, 3536000,4.0,1800.0,,black
+Toyota,Venza,2009,353224,Locally Used, 7280000,,2700.0,,Red
+Toyota,Highlander,2003,193170,Locally Used, 2912000,6.0,3300.0,,Green
+Honda,Accord Crosstour,2012,169271,Foreign Used, 6040000,,2400.0,,Grey
+Ford,Fusion,2013,309757,Foreign Used, 7665000,,1600.0,,black
+Mercedes-Benz,M Class,2012,186958,Foreign Used, 13125000,,3500.0,,Grey
+Toyota,Corolla,2013,142741,Locally Used, 4472000,,1800.0,,Grey
+Mercedes-Benz,C300,2011,118154,Foreign Used, 6760000,,3000.0,,Grey
+Toyota,Camry,2009,182109,Locally Used, 3120000,,2400.0,,black
+Honda,Pilot,2004,238062,Locally Used, 2080000,,3500.0,,Silver
+Mercedes-Benz,GL-Class,2016,67226,Locally Used, 21000000,,2000.0,,black
+Toyota,Highlander,2010,138164,Foreign Used, 8839995,,3500.0,,black
+Toyota,Sienna,2011,265576,Foreign Used, 7350000,,3500.0,,White
+Mercedes-Benz,C300,2008,8500,Foreign Used, 7072000,,3000.0,,Silver
+Toyota,Camry,2005,110031,Foreign Used, 3848000,,2400.0,,Green
+Toyota,RAV4,2011,178195,Locally Used, 5200000,,2500.0,,black
+Honda,Accord,2010,204994,Foreign Used, 5200000,,2400.0,,Silver
+Toyota,Camry,2005,110031,Foreign Used, 3848000,,2400.0,,Green
+Toyota,Highlander,2010,191252,Locally Used, 8320000,,3500.0,,black
+Lexus,IS,2011,126208,Locally Used, 4200000,,2500.0,,black
+Mazda,CX-7,2007,240472,Foreign Used, 4160000,,2300.0,,White
+Toyota,Camry,2008,170919,Locally Used, 2912000,,2400.0,,Blue
+Toyota,Camry,2007,152499,Locally Used, 3120000,,2400.0,,Green
+Toyota,4-Runner,2003,174774,Locally Used, 5200000,,4000.0,,beige
+Toyota,Camry,2008,236366,Locally Used, 3120000,,2400.0,,gold
+Toyota,Corolla,2004,189433,Foreign Used, 3640000,,1800.0,,Grey
+Mercedes-Benz,GL-Class,2013,255241,Foreign Used, 14700000,,4700.0,,Grey
+Honda,Accord,2014,298307,Locally Used, 6300000,,2500.0,,Red
+Toyota,4-Runner,2016,51244,Locally Used, 23100000,,4000.0,,Grey
+Mazda,CX-9,2007,116395,Locally Used, 4725000,,3500.0,,brown
+Lexus,RX 350,2011,123278,Locally Used, 9672000,,3500.0,,black
+Hyundai,Santa Fe,2018,4756,Locally Used, 14700000,,2400.0,,Grey
+Nissan,Pathfinder,2008,133744,Locally Used, 5200000,,5600.0,,Silver
+Ford,Ranger,2013,197322,Locally Used, 5775000,,2500.0,,black
+Toyota,Camry,2008,170919,Locally Used, 2912000,,2400.0,,Blue
+Hyundai,Santa Fe,2016,229680,Foreign Used, 14560000,,2000.0,,Grey
+Toyota,Corolla,2019,44466,Foreign Used, 12480000,,1800.0,,Blue
+Toyota,Camry,2007,152499,Locally Used, 3120000,,2400.0,,Green
+Ford,Ranger,2013,205801,Locally Used, 5775000,,2500.0,,Grey
+Hyundai,Sonata,2013,175889,Locally Used, 3952000,,2400.0,,black
+Honda,Ridgeline,2007,452016,Locally Used, 3640000,6.0,3000.0,,black
+Toyota,Camry,2008,236366,Locally Used, 3120000,,2400.0,,gold
+Toyota,Corolla,2010,360532,Foreign Used, 5200000,,1800.0,,Red
+Toyota,Corolla,2006,200331,Foreign Used, 4160000,,1800.0,,black
+Toyota,Highlander,2010,191252,Locally Used, 8320000,,3500.0,,black
+Toyota,Corolla,2010,75742,Locally Used, 3744000,,1800.0,,Red
+Toyota,Highlander,2008,151646,Locally Used, 5000000,,3500.0,,Blue
+Toyota,Camry,2002,137065,Locally Used, 2080000,,2400.0,,gold
+Toyota,Camry,2008,209214,Locally Used, 2808000,,2400.0,,Grey
+Mercedes-Benz,M Class,2006,162879,Locally Used, 4160000,,3500.0,,Red
+Toyota,Corolla,2008,238539,Locally Used, 3224000,,1800.0,,black
+Ford,Edge,2007,293941,Foreign Used, 3675000,,3500.0,,Red
+Toyota,Camry,2011,128048,Locally Used, 3432000,,2500.0,,black
+Toyota,Highlander,2015,126210,Foreign Used, 15600000,,3500.0,,Blue
+Toyota,Avalon,2006,372283,Locally Used, 2496000,,3500.0,,gold
+Toyota,Corolla,2006,288324,Locally Used, 2808000,,1800.0,,Blue
+Toyota,Corolla,2003,482800,Locally Used, 2600000,,1800.0,,Grey
+Toyota,Corolla,2006,226989,Locally Used, 2704000,,1800.0,,black
+Toyota,RAV4,2009,105970,Locally Used, 3255000,,2500.0,,Red
+Mercedes-Benz,CLA-Class,2014,64800,Locally Used, 9880000,,2000.0,,White
+Toyota,Highlander,2012,69579,Locally Used, 7280000,,3500.0,,black
+Mercedes-Benz,GL-Class,2012,18000,Locally Used, 7140000,,4700.0,,black
+Lexus,ES,2007,180687,Locally Used, 3675000,,3500.0,,Red
+Toyota,Sienna,2004,286308,Locally Used, 2808000,,3300.0,,Blue
+Lexus,GX,2004,67645,Locally Used, 3800000,,4700.0,,black
+Kia,Sorento,2008,121191,Foreign Used, 4200000,,3500.0,,White
+Lexus,RX 350,2011,317397,Foreign Used, 11440000,,3500.0,,black
+Honda,Accord,2015,119574,Locally Used, 5720000,,2400.0,,black
+Toyota,Corolla,2006,195676,Locally Used, 2600000,,1800.0,,Blue
+Toyota,Land Cruiser,2004,133877,Locally Used, 9975000,,4700.0,,black
+Toyota,Corolla,2007,418832,Locally Used, 2604000,,1800.0,,Grey
+Toyota,Camry,2007,10105,Locally Used, 2730000,4.0,2400.0,,Red
+Toyota,Hilux,2010,203847,Locally Used, 6600000,4.0,3000.0,,White
+Mercedes-Benz,E350,2012,152443,Foreign Used, 7900000,,3500.0,,black
+Mercedes-Benz,S-Class,2008,225391,Locally Used, 6240000,,5500.0,,Grey
+Toyota,Highlander,2008,123568,Foreign Used, 8320000,6.0,3500.0,,purple
+Hyundai,Sonata,2011,354812,Locally Used, 3640000,,2400.0,,black
+Toyota,Sienna,2008,90251,Foreign Used, 4700000,,3500.0,,gold
+Toyota,Corolla,2005,177226,Locally Used, 2392000,,1600.0,,Silver
+Toyota,Corolla,2007,185697,Locally Used, 3120000,,1800.0,,Blue
+Toyota,Highlander,2007,386283,Locally Used, 3640000,,3300.0,,gold
+Acura,MDX,2007,154581,Foreign Used, 4200000,,3700.0,,Grey
+Toyota,Corolla,2006,169566,Locally Used, 2500000,4.0,1800.0,,black
+Mercedes-Benz,GL-Class,2013,60665,Locally Used, 12480000,,4700.0,,black
+Toyota,Corolla,2008,236165,Locally Used, 3120000,,1800.0,,Green
+Toyota,Camry,2006,177536,Locally Used, 2340000,,3000.0,,Blue
+Mercedes-Benz,GL-Class,2013,60665,Locally Used, 12480000,,4700.0,,black
+Toyota,Sienna,2003,178788,Foreign Used, 3640000,,3000.0,,White
+Toyota,Camry,2005,222499,Locally Used, 2600000,,2400.0,,Grey
+Toyota,Corolla,2015,106931,Locally Used, 5720000,,1800.0,,White
+Toyota,HiAce,2010,145818,Locally Used, 9450000,,2700.0,,White
+Lexus,GX,2007,136944,Locally Used, 5200000,8.0,4700.0,,black
+Land Rover,Range Rover Evoque,2012,157782,Foreign Used, 9450000,,2000.0,,Green
+Toyota,Camry,2007,194155,Locally Used, 2625000,,2400.0,,Green
+Lexus,IS,2006,130515,Locally Used, 3441000,6.0,2500.0,,Grey
+Lexus,GS,2008,149808,Foreign Used, 4830000,,3400.0,,black
+Toyota,Camry,2003,185448,Locally Used, 2080000,,2400.0,,Blue
+Toyota,Camry,2005,101778,Foreign Used, 3465000,,2400.0,,Blue
+Toyota,Corolla,2007,165518,Foreign Used, 4004000,,1800.0,,Red
+Lexus,GS,2010,157948,Foreign Used, 5250000,,3500.0,,Blue
+Toyota,Corolla,2004,299999,Locally Used, 2600000,4.0,1800.0,,Silver
+Mercedes-Benz,GL-Class,2007,235866,Locally Used, 4680000,8.0,4700.0,,black
+Ford,Explorer,2012,94805,Foreign Used, 8840000,,3500.0,,White
+Toyota,Corolla,2015,47536,Foreign Used, 8320000,,1800.0,,Silver
+Toyota,Corolla,2014,134387,Locally Used, 5240000,,1800.0,,black
+Honda,Pilot,2009,140952,Foreign Used, 5250000,,3500.0,,black
+Toyota,Corolla,2009,74638,Foreign Used, 4992000,,1800.0,,White
+Toyota,Highlander,2019,89249,Foreign Used, 22050000,,3500.0,,black
+Toyota,Corolla,2007,199686,Locally Used, 2600000,,1800.0,,gold
+Mercedes-Benz,C300,2015,41559,Locally Used, 10400000,,3500.0,,black
+Toyota,Camry,2008,203579,Foreign Used, 3885000,,2400.0,,black
+Toyota,Corolla,2009,226059,Locally Used, 2730000,,1800.0,,Blue
+Nissan,Rogue,2009,84322,Locally Used, 3045000,,2500.0,,Grey
+Nissan,Murano,2009,143575,Locally Used, 3150000,,3500.0,,black
+Honda,Odyssey,2006,366654,Foreign Used, 3465000,,3500.0,,Blue
+Toyota,Camry,2010,168007,Foreign Used, 4992000,,2500.0,,White
+Toyota,Sienna,2004,275786,Foreign Used, 4680000,,3300.0,,Silver
+Mercedes-Benz,GL-Class,2008,115647,Locally Used, 6760000,,4000.0,,black
+Toyota,Corolla,2009,240162,Locally Used, 2940000,,1800.0,,black
+Toyota,RAV4,2009,92709,Locally Used, 5200000,,2500.0,,Green
+Lexus,GS,2013,162597,Locally Used, 8400000,6.0,3500.0,,Silver
+Honda,Odyssey,2007,336620,Foreign Used, 3640000,,3500.0,,Grey
+Toyota,Camry,2012,332677,Foreign Used, 6825000,,2800.0,,Red
+Lexus,ES,2007,84302,Locally Used, 4784000,6.0,3500.0,,Silver
+Kia,Optima,2013,159397,Locally Used, 3640000,,2000.0,,black
+Lexus,GS,2013,162597,Locally Used, 8400000,6.0,3500.0,,Silver
+Toyota,Camry,2012,332677,Foreign Used, 6825000,,2800.0,,Red
+Toyota,Sienna,2009,179838,Foreign Used, 5096000,,3500.0,,Silver
+Honda,Odyssey,2010,140352,Foreign Used, 4160000,,3500.0,,Grey
+Ford,Explorer,2015,98142,Foreign Used, 7875000,6.0,3500.0,,Red
+Toyota,Corolla,2006,188791,Locally Used, 2600000,,1300.0,,black
+Honda,Pilot,2012,9999,Locally Used, 4680000,,3500.0,,Blue
+Toyota,Corolla,2011,80190,Foreign Used, 4888000,,1800.0,,Blue
+Honda,Accord,2016,87149,Locally Used, 6240000,,2500.0,,black
+Toyota,RAV4,2011,121804,Locally Used, 3675000,4.0,2400.0,,black
+Hyundai,Santa Fe,2014,51214,Locally Used, 5880000,,2400.0,,Silver
+Hyundai,Sonata,2015,285046,Locally Used, 7800000,,2400.0,,black
+Toyota,Sienna,2005,113498,Foreign Used, 3675000,,3300.0,,Blue
+Toyota,Highlander,2002,31361,Locally Used, 3120000,6.0,3000.0,,Silver
+Mercedes-Benz,C300,2009,111719,Locally Used, 4160000,,3500.0,,White
+Toyota,Highlander,2007,158262,Foreign Used, 5720000,,2400.0,,gold
+Toyota,Corolla,2006,271117,Locally Used, 2496000,,1800.0,,gold
+Toyota,Corolla,2006,247533,Locally Used, 2600000,,1800.0,,black
+Toyota,Corolla,2016,167175,Foreign Used, 8112000,4.0,1800.0,,black
+Ford,Explorer,2012,141694,Locally Used, 4962000,,3500.0,,Red
+Toyota,Land Cruiser Prado,2011,113154,Locally Used, 15600000,4.0,2700.0,,black
+Toyota,Corolla,2007,194560,Foreign Used, 3848000,,1800.0,,Green
+Toyota,Camry,2002,238950,Foreign Used, 3432000,,2400.0,,black
+Lexus,RX 330,2004,227393,Locally Used, 4992000,,3300.0,,Blue
+Lexus,ES,2013,77351,Locally Used, 7875000,6.0,3500.0,,black
+Toyota,Corolla,2007,49635,Foreign Used, 4160000,,1800.0,,Silver
+Toyota,Sienna,2004,362622,Locally Used, 3328000,,3300.0,,Silver
+Lexus,RX 300,2000,353393,Foreign Used, 3848000,,3000.0,,black
+Lexus,ES,2005,158940,Foreign Used, 4160000,6.0,3300.0,,gold
+Toyota,Corolla,2009,230924,Foreign Used, 4992000,4.0,1800.0,,Red
+Toyota,Corolla,2010,111688,Foreign Used, 4200000,,1800.0,,black
+Mercedes-Benz,C300,2009,54863,Locally Used, 4368000,,3000.0,,Grey
+Toyota,RAV4,2008,194417,Foreign Used, 4625000,,2400.0,,black
+Mercedes-Benz,M Class,2002,128442,Locally Used, 4160000,,3200.0,,black
+Ford,Edge,2007,182661,Locally Used, 2808000,,3500.0,,purple
+Toyota,Sienna,2000,739232,Locally Used, 2080000,,3000.0,,gold
+Toyota,Sienna,2002,177348,Foreign Used, 3640000,6.0,3000.0,,gold
+Toyota,Highlander,2009,175427,Locally Used, 6760000,,3500.0,,Grey
+Hyundai,Santa Fe,2007,164376,Locally Used, 3328000,,2700.0,,gold
+Mercedes-Benz,C300,2010,225669,Locally Used, 4784000,,3000.0,,White
+Mercedes-Benz,C300,2008,412599,Locally Used, 3744000,,3000.0,,black
+Toyota,Camry,2012,276388,Foreign Used, 5880000,4.0,2500.0,,Red
+Toyota,Corolla,2013,150495,Locally Used, 4712000,,1800.0,,Silver
+Mercedes-Benz,C300,2012,84685,Locally Used, 6032000,6.0,3000.0,,black
+Lexus,IS,2007,97418,Locally Used, 3255000,,3500.0,,Silver
+Ford,Expedition,2008,193710,Locally Used, 3850000,,5400.0,,black
+Nissan,Altima,2009,354986,Foreign Used, 3675000,,2500.0,,Blue
+Lexus,ES,2008,156040,Locally Used, 4160000,6.0,3500.0,,Red
+Toyota,Matrix,2007,299999,Locally Used, 2600000,,1800.0,,Blue
+Honda,Accord Crosstour,2010,189280,Locally Used, 3744000,,3500.0,,black
+Mercedes-Benz,E350,2011,224610,Locally Used, 5720000,6.0,3500.0,,White
+Honda,Accord,2008,89132,Locally Used, 3120000,,3500.0,,black
+Lexus,GS,2008,130777,Locally Used, 3150000,,3500.0,,black
+Toyota,Camry,2002,206195,Locally Used, 2028000,,3000.0,,gold
+Toyota,Venza,2010,255069,Locally Used, 5720000,,2700.0,,Green
+Toyota,Corolla,2004,261804,Locally Used, 2100000,,1800.0,,Red
+Mercedes-Benz,M Class,2010,223912,Locally Used, 8640000,,3500.0,,White
+Lexus,IS,2010,212537,Foreign Used, 7280000,,2500.0,,black
+Toyota,Corolla,2015,76257,Locally Used, 5040000,,1800.0,,black
+Honda,Ridgeline,2006,188615,Foreign Used, 8320000,,3500.0,,Silver
+Toyota,Camry,2013,178358,Locally Used, 5304000,4.0,2500.0,,Grey
+Honda,CR-V,2013,100633,Locally Used, 5200000,,1800.0,,black
+Honda,Ridgeline,2007,310828,Locally Used, 3640000,6.0,3500.0,,Grey
+Lexus,GS,2015,118730,Locally Used, 16800000,,3500.0,,black
+Toyota,Corolla,2008,87577,Foreign Used, 4680000,,2400.0,,black
+Mazda,CX-9,2019,100318,Foreign Used, 21000000,,2500.0,,White
+Toyota,Camry,2011,245727,Foreign Used, 4200000,,2500.0,,Blue
+Mazda,CX-9,2007,182100,Foreign Used, 3885000,,3500.0,,Blue
+Toyota,Corolla,2009,262542,Locally Used, 2940000,,1800.0,,black
+Hyundai,Elantra,2013,99999,Locally Used, 4680000,,1600.0,,black
+Kia,Sorento,2014,108026,Locally Used, 3675000,,1600.0,,black
+Lexus,ES,2010,204658,Locally Used, 3890000,,3500.0,,black
+Toyota,4-Runner,2002,345623,Locally Used, 3432000,,3400.0,,black
+Honda,Pilot,2013,228268,Locally Used, 7875000,,3500.0,,White
+Nissan,Pathfinder,2013,112373,Locally Used, 5250000,,3500.0,,black
+Land Rover,Range Rover,2010,177841,Locally Used, 4250000,,4900.0,,black
+Toyota,Matrix,2007,210176,Foreign Used, 3675000,,1800.0,,Red
+Acura,RDX,2010,79710,Foreign Used, 4200000,,2300.0,,Grey
+Toyota,Sienna,2005,175009,Locally Used, 3640000,,3300.0,,White
+Toyota,4-Runner,2002,345623,Locally Used, 3432000,,3400.0,,black
+Honda,Accord,2013,199398,Foreign Used, 5175000,,2400.0,,Blue
+Toyota,RAV4,2009,105839,Locally Used, 4680000,,2000.0,,black
+Toyota,Corolla,2013,131523,Foreign Used, 5250000,,1800.0,,Grey
+Mercedes-Benz,M Class,2006,87206,Locally Used, 3675000,,3500.0,,Blue
+Toyota,Corolla,2003,247963,Locally Used, 2100000,,1800.0,,Grey
+Land Rover,Range Rover,2010,177841,Locally Used, 4250000,,4900.0,,black
+Hyundai,Santa Fe,2014,169791,Locally Used, 5250000,,2000.0,,black
+Lexus,RX 350,2010,44699,Locally Used, 9880000,,3500.0,,black
+Lexus,ES,2018,53490,Foreign Used, 21000000,,3500.0,,Grey
+Toyota,RAV4,2007,309539,Foreign Used, 5200000,,3500.0,,Green
+Toyota,Corolla,2003,15203,Locally Used, 2100000,,1800.0,,Green
+Mercedes-Benz,C300,2018,32124,Foreign Used, 26000000,,2000.0,,black
+Kia,Optima,2007,234751,Locally Used, 2572500,,2400.0,,Silver
+Toyota,RAV4,2009,240416,Locally Used, 4060000,,3500.0,,Silver
+Toyota,Camry,2014,172365,Locally Used, 4992000,,2400.0,,White
+Toyota,Corolla,2011,92881,Locally Used, 3150000,,1800.0,,Red
+Honda,Accord,2013,190198,Locally Used, 5200000,4.0,2400.0,,Grey
+Mercedes-Benz,M Class,2009,92875,Locally Used, 4680000,,5500.0,,black
+Toyota,Corolla,2008,158114,Foreign Used, 3675000,,1800.0,,Blue
+Ford,Ranger,2020,21370,Locally Used, 27900000,4.0,2500.0,,black
+Mercedes-Benz,S-Class,2008,302121,Locally Used, 6615000,,3500.0,,White
+Toyota,Corolla,2009,321621,Foreign Used, 4784000,4.0,1800.0,,Blue
+Volkswagen,Jetta,2011,51973,Locally Used, 4725000,,2000.0,,black
+Toyota,Corolla,2008,308648,Locally Used, 2730000,,1800.0,,black
+Honda,Odyssey,2007,174187,Foreign Used, 4160000,,3500.0,,Grey
+Acura,MDX,2008,93672,Locally Used, 4160000,,3700.0,,black
+Volkswagen,Jetta,2011,51973,Locally Used, 4725000,,2000.0,,black
+Mercedes-Benz,M Class,2012,153622,Locally Used, 10920000,6.0,3500.0,,black
+Lexus,RX 330,2004,154589,Foreign Used, 5985000,,3300.0,,black
+Toyota,Highlander,2003,239314,Locally Used, 2520000,,3000.0,,black
+Toyota,RAV4,2010,189574,Locally Used, 4160000,,2500.0,,brown
+Ford,Expedition,2004,286840,Foreign Used, 3150000,,5400.0,,black
+Mercedes-Benz,C300,2015,156,Foreign Used, 10500000,,2000.0,,Grey
+Honda,Odyssey,2007,356854,Foreign Used, 3636000,,3500.0,,gold
+Toyota,Hilux,2007,34826,Locally Used, 4245000,,2700.0,,White
+Toyota,Highlander,2001,139548,Locally Used, 2600000,,3000.0,,black
+Honda,Accord,2011,102210,Foreign Used, 3360000,,2400.0,,Silver

@@ -1,0 +1,697 @@
+,Brand,Model,Year,Mileage,Condition,Price,Engine Type,Engine Capacity,Exterior Color,Ratings
+0,Toyota,Toyota Corolla,2015,"186,024",Foreign Used,"₦ 7,530,000",4-Cylinder(I4),Approx. 1000,Grey, (4.20)
+1,Mercedes-Benz,Mercedes-Benz GLK 350,2015,"87,465",Foreign Used,"₦ 13,530,000",6-Cylinder(V6),Approx. 3,Black, (4.50)
+2,Toyota,Toyota Highlander,2008,"142,719",Foreign Used,"₦ 7,230,000",6-Cylinder(V6),Approx. 3500,Red, (4.40)
+3,Toyota,Toyota Sienna,2006,"115,232",Foreign Used,"₦ 4,880,000",6-Cylinder(I6),Approx. 3,Gold, (4.50)
+4,Hyundai,Hyundai Grand Santa Fe,2013,"110,903",Foreign Used,"₦ 9,015,000",6-Cylinder(V6),Approx. 3300,Silver, (4.00)
+5,Honda,Honda Crosstour,2012,"120,661",Foreign Used,"₦ 5,030,000",6-Cylinder(V6),Approx. 3,Silver, (4.50)
+6,Toyota,Toyota Camry,2014,"42,677",Foreign Used,"₦ 7,265,000",4-Cylinder(I4),Approx. N/A,Silver, (4.00)
+7,Toyota,Toyota Camry,2012,"102,335",Foreign Used,"₦ 6,015,000",4-Cylinder(I4),Approx. 1000,Black, (4.30)
+8,Toyota,Toyota Corolla,2011,"80,547",Foreign Used,"₦ 6,015,000",4-Cylinder(I4),Approx. 1000,Black, (4.30)
+9,Toyota,Toyota Hiace,2007,"65,234",Foreign Used,"₦ 10,515,000",4-Cylinder(I4),Approx. 2400,Ash, (4.20)
+10,Mercedes-Benz,Mercedes-Benz GLK 350,2012,"65,345",Foreign Used,"₦ 10,330,000",6-Cylinder(V6),Approx. 5900,White, (4.40)
+11,Toyota,Toyota Highlander,2008,"152,000",Foreign Used,"₦ 10,715,000",6-Cylinder(V6),Approx. 3500,Dark Grey, (4.40)
+12,Lexus,Lexus RX 350,2013,"91,276",Foreign Used,"₦ 14,015,000",6-Cylinder(V6),Approx. 3500,Black, (4.40)
+13,Toyota,Toyota Matrix,2005,"121,256",Foreign Used,"₦ 3,530,000",4-Cylinder(I4),Approx. N/A,Black, (4.50)
+14,Lexus,Lexus RX 350,2011,"96,074",Foreign Used,"₦ 12,030,000",6-Cylinder(V6),Approx. 35000,Red, (4.40)
+15,Toyota,Toyota Camry,2009,"98,638",Foreign Used,"₦ 4,965,000",4-Cylinder(I4),Approx. 4800,Dark Grey, (4.40)
+16,Toyota,Toyota Camry,2014,"30,382",Locally used,"₦ 7,530,000",4-Cylinder(I4),Approx. 2000,Blue, (3.40)
+17,Toyota,Toyota RAV 4,2010,"194,780",Foreign Used,"₦ 6,865,000",6-Cylinder(V6),Approx. 1000,White, (4.20)
+18,Hyundai,Hyundai Sonata,2015,"58,900",Locally used,"₦ 5,695,000",6-Cylinder(V6),Approx. 5900,Silver, (3.50)
+19,Toyota,Toyota Avalon,2005,"84,740",Foreign Used,"₦ 3,165,000",6-Cylinder(I6),Approx. 3500,Sliver, (4.00)
+20,Lexus,Lexus ES 350,2007,"97,852",Foreign Used,"₦ 6,180,000",6-Cylinder(V6),Approx. 2500,Black, (4.50)
+21,Toyota,Toyota Corolla,2013,"87,965",Foreign Used,"₦ 5,080,000",4-Cylinder(I4),Approx. 1500,Gray, (4.50)
+22,Lexus,Lexus ES 350,2007,"96,452",Foreign Used,"₦ 6,080,000",6-Cylinder(V6),Approx. 2500,Gold, (4.50)
+23,Toyota,Toyota Camry,2012,"176,000",Foreign Used,"₦ 6,515,000",4-Cylinder(I4),Approx. N/A,Silver, (4.20)
+24,Toyota,Toyota Venza,2013,"201,667",Foreign Used,"₦ 9,815,000",6-Cylinder(V6),Approx. 5900,Black, (4.30)
+25,Toyota,Toyota Venza,2011,"133,905",Foreign Used,"₦ 9,630,000",6-Cylinder(V6),Approx. 59000,White, (4.50)
+26,Toyota,Toyota Avalon,2006,"229,353",Foreign Used,"₦ 4,330,000",6-Cylinder(V6),Approx. 3500,Silver, (4.30)
+27,Toyota,Toyota Camry,2007,"182,000",Foreign Used,"₦ 4,615,000",4-Cylinder(I4),Approx. N/A,Blue, (4.40)
+28,Toyota,Toyota Prado TXL,2015,"47,830",Locally used,"₦ 18,715,000",4-Cylinder(I4),Approx. 2000,Black, (4.00)
+29,Toyota,Toyota Corolla,2014,"75,236",Foreign Used,"₦ 7,780,000",4-Cylinder(I4),Approx. 2000,Dark Red, (4.50)
+30,Toyota,Toyota Highlander,2014,"120,000",Foreign Used,"₦ 15,030,000",6-Cylinder(V6),Approx. 6,White, (4.40)
+31,Mercedes-Benz,Mercedes-Benz GLK 350,2010,"173,702",Foreign Used,"₦ 12,030,000",6-Cylinder(V6),Approx. 6,Black, (4.40)
+32,Toyota,Toyota Highlander,2010,"155,378",Foreign Used,"₦ 10,015,000",6-Cylinder(V6),Approx. 6,White, (4.40)
+33,Lexus,Lexus GX 460,2015,"128,694",Foreign Used,"₦ 26,615,000",8-Cylinder(V8),Approx. N/A,Yellow, (4.30)
+34,Toyota,Toyota Camry,2022,"4,013",Foreign Used,"₦ 26,045,000",4-Cylinder(I4),Approx. 1000,Grey, (4.20)
+35,Mercedes-Benz,Mercedes-Benz ML 350,2012,"97,739",Foreign Used,"₦ 15,030,000",6-Cylinder(V6),Approx. 3500,Gray, (4.30)
+36,Mitsubishi,Mitsubishi L200,2022,50,New,"₦ 20,515,000",6-Cylinder(V6),Approx. 4000,White,
+37,Toyota,Toyota Highlander,2013,"163,870",Foreign Used,"₦ 12,315,000",6-Cylinder(I6),Approx. 4000,Black And Orange, (4.00)
+38,Toyota,Toyota Camry,2013,"167,937",Locally used,"₦ 4,615,000",4-Cylinder(I4),Approx. 1000,Dark Grey, (4.10)
+39,Honda,Honda Crosstour,2010,"59,132",Locally used,"₦ 3,315,000",6-Cylinder(V6),Approx. 1000,Silver, (4.00)
+40,Toyota,Toyota Camry,2009,"97,058",Foreign Used,"₦ 4,265,000",4-Cylinder(I4),Approx. 2000,Blue, (4.50)
+41,Toyota,Toyota Avalon,2013,"78,130",Locally used,"₦ 9,815,000",6-Cylinder(V6),Approx. N/A,Red, (3.40)
+42,Hyundai,Hyundai Sonata,2015,"138,300",Foreign Used,"₦ 6,015,000",4-Cylinder(I4),Approx. N/A,White, (4.20)
+43,Toyota,Toyota Hiace,2006,"87,123",Foreign Used,"₦ 10,730,000",4-Cylinder(I4),Approx. 2400,Ash, (4.20)
+44,Toyota,Toyota Prado,2014,"94,489",Locally used,"₦ 17,865,000",6-Cylinder(V6),Approx. 4000,Black, (4.00)
+45,Toyota,Toyota Camry,2012,"63,784",Foreign Used,"₦ 7,015,000",6-Cylinder(V6),Approx. 1000,Red, (4.00)
+46,Toyota,Toyota Highlander,2015,"122,043",Foreign Used,"₦ 12,515,000",6-Cylinder(V6),Approx. 3500,Dark Green, (4.20)
+47,Toyota,Toyota Highlander,2015,"81,148",Foreign Used,"₦ 17,030,000",6-Cylinder(V6),Approx. 6,Gold, (4.40)
+48,Mercedes-Benz,Mercedes-Benz ML 350,2014,"61,849",Locally used,"₦ 12,530,000",6-Cylinder(V6),Approx. 3500,Black, (3.40)
+49,BMW,BMW 325i,2011,"84,120",Foreign Used,"₦ 5,315,000",6-Cylinder(V6),Approx. N/A,Black, (4.40)
+50,Toyota,Toyota Highlander,2008,"43,677",Locally used,"₦ 5,230,000",6-Cylinder(V6),Approx. 3500,Black, (3.40)
+51,Toyota,Toyota Highlander,2004,"211,522",Foreign Used,"₦ 5,330,000",6-Cylinder(V6),Approx. 3300,Gold, (4.30)
+52,Lexus,Lexus IS 250,2008,"144,948",Foreign Used,"₦ 5,730,000",6-Cylinder(V6),Approx. 2500,White, (4.40)
+53,Acura,Acura MDX,2007,"94,152",Foreign Used,"₦ 4,515,000",4-Cylinder(I4),Approx. 1000,Black, (4.30)
+54,Honda,Honda Crosstour,2012,"142,000",Foreign Used,"₦ 7,215,000",6-Cylinder(V6),Approx. N/A,Silver, (4.40)
+55,Toyota,Toyota Corolla,2007,"98,562",Foreign Used,"₦ 4,100,000",4-Cylinder(I4),Approx. 2400,Ash, (4.00)
+56,Lexus,Lexus ES 330,2006,"56,234",Foreign Used,"₦ 4,755,000",6-Cylinder(V6),Approx. 5900,Silver, (4.40)
+57,Toyota,Toyota Highlander,2015,"64,000",Foreign Used,"₦ 16,830,000",6-Cylinder(V6),Approx. 3500,White, (4.40)
+58,Lexus,Lexus ES 330,2004,"56,324",Foreign Used,"₦ 3,915,000",6-Cylinder(V6),Approx. 5900,Silver, (4.50)
+59,Nissan,Nissan Frontier,2002,"86,779",Foreign Used,"₦ 4,615,000",2-Cylinder(I2),Approx. 2,Dark Gray, (4.40)
+60,Toyota,Toyota Tacoma,2011,"85,346",Foreign Used,"₦ 10,735,000",6-Cylinder(V6),Approx. 5900,Silver, (4.40)
+61,Mercedes-Benz,Mercedes-Benz C 300,2015,"113,642",Foreign Used,"₦ 14,015,000",4-Cylinder(I4),Approx. 2000,White, (4.10)
+62,Toyota,Toyota Camry,2010,"151,216",Foreign Used,"₦ 4,715,000",4-Cylinder(I4),Approx. 1800,Blue, (4.30)
+63,Pontiac,Pontiac Vibe,2003,"97,053",Foreign Used,"₦ 3,180,000",4-Cylinder(I4),Approx. 1500,White, (4.50)
+64,Toyota,Toyota Corolla,2011,"125,107",Foreign Used,"₦ 5,600,000",4-Cylinder(I4),Approx. 1800,Grey, (4.20)
+65,Mercedes-Benz,Mercedes-Benz CLS 550,2016,"28,000",Foreign Used,"₦ 23,015,000",6-Cylinder(V6),Approx. N/A,White, (4.50)
+66,Mercedes-Benz,Mercedes-Benz E 350,2014,"73,000",Foreign Used,"₦ 12,865,000",6-Cylinder(V6),Approx. N/A,Black, (4.40)
+67,Toyota,Toyota Camry,2014,"72,300",Foreign Used,"₦ 7,215,000",4-Cylinder(I4),Approx. N/A,Red, (4.40)
+68,Toyota,Toyota Highlander,2008,"240,500",Foreign Used,"₦ 9,015,000",6-Cylinder(V6),Approx. N/A,Silver, (4.20)
+69,Toyota,Toyota Tacoma,2016,"145,000",Foreign Used,"₦ 16,515,000",6-Cylinder(V6),Approx. N/A,Grey, (4.20)
+70,Toyota,Toyota Camry,2013,"185,328",Foreign Used,"₦ 7,260,000",4-Cylinder(I4),Approx. 59000,Dark Red, (4.30)
+71,Toyota,Toyota Land Cruiser Prado VX.L,2017,"27,225",Foreign Used,"₦ 26,415,000",6-Cylinder(I6),Approx. 4400,White, (4.00)
+72,Toyota,Toyota 4-Runner,2007,"88,977",Foreign Used,"₦ 7,446,000",6-Cylinder(V6),Approx. 5900,Black, (4.40)
+73,Ford,Ford Edge SE 2.0L,2013,"85,100",Foreign Used,"₦ 6,515,000",6-Cylinder(V6),Approx. N/A,White, (4.40)
+74,Toyota,Toyota RAV 4,2013,"104,902",Foreign Used,"₦ 15,515,000",4-Cylinder(I4),Approx. 1000,Grey, (4.40)
+75,Acura,Acura MDX,2019,"1,987",Foreign Used,"₦ 20,515,000",6-Cylinder(V6),Approx. N/A,Black, (4.50)
+76,Toyota,Toyota RAV 4,2010,"138,661",Foreign Used,"₦ 6,815,000",4-Cylinder(I4),Approx. 2500,White, (4.00)
+77,Toyota,Toyota Matrix,2009,"165,510",Foreign Used,"₦ 5,015,000",4-Cylinder(I4),Approx. N/A,Blue, (4.40)
+78,Toyota,Toyota RAV 4,2015,"122,441",Foreign Used,"₦ 11,015,000",4-Cylinder(I4),Approx. N/A,Brown, (4.20)
+79,Toyota,Toyota Highlander,2013,"58,955",Foreign Used,"₦ 14,015,000",6-Cylinder(V6),Approx. N/A,Blue, (4.40)
+80,Mercedes-Benz,Mercedes-Benz S 560,2021,"2,271",Locally used,"₦ 90,015,000",8-Cylinder(V8),Approx. 6000,Blanc, (3.50)
+81,Toyota,Toyota Sienna,2004,"138,253",Foreign Used,"₦ 4,515,000",6-Cylinder(V6),Approx. 3,Gold, (4.50)
+82,Toyota,Toyota Highlander,2017,"71,533",Foreign Used,"₦ 24,030,000",6-Cylinder(V6),Approx. 1000,Black, (4.40)
+83,Honda,Honda Accord,2015,"59,350",Locally used,"₦ 8,830,000",6-Cylinder(V6),Approx. 59000,White, (3.50)
+84,Toyota,Toyota Highlander,2008,"88,136",Locally used,"₦ 6,030,000",6-Cylinder(V6),Approx. 5900,Dark Grey, (3.50)
+85,Mercedes-Benz,Mercedes-Benz C 300,2010,"146,300",Foreign Used,"₦ 6,815,000",6-Cylinder(V6),Approx. N/A,Red, (4.40)
+86,Mercedes-Benz,Mercedes-Benz E 350,2010,"58,109",Foreign Used,"₦ 6,515,000",4-Cylinder(I4),Approx. 2,Black, (4.00)
+87,Lexus,Lexus RX 350,2011,"88,384",Foreign Used,"₦ 11,530,000",6-Cylinder(V6),Approx. 3500,Black, (4.40)
+88,Toyota,Toyota Highlander,2014,"56,512",Foreign Used,"₦ 15,515,000",6-Cylinder(V6),Approx. N/A,Black, (4.40)
+89,Toyota,Toyota Highlander,2009,"85,419",Foreign Used,"₦ 9,015,000",6-Cylinder(V6),Approx. 1000,Silver, (4.40)
+90,Honda,Honda Accord,2013,"138,860",Foreign Used,"₦ 7,830,000",6-Cylinder(V6),Approx. 59000,Eiger Grey, (4.30)
+91,Mercedes-Benz,Mercedes-Benz E 350,2012,"167,325",Foreign Used,"₦ 9,530,000",6-Cylinder(V6),Approx. 1500,Black, (4.20)
+92,Mercedes-Benz,Mercedes-Benz E 350,2010,"84,215",Foreign Used,"₦ 7,765,000",6-Cylinder(V6),Approx. 1000,White, (4.40)
+93,Toyota,Toyota RAV 4,2007,"54,662",Foreign Used,"₦ 5,515,000",6-Cylinder(V6),Approx. N/A,Silver, (4.30)
+94,Toyota,Toyota Camry,2016,"64,031",Locally used,"₦ 8,315,000",6-Cylinder(V6),Approx. N/A,Silver, (3.40)
+95,Lexus,Lexus GX 460,2011,"87,268",Foreign Used,"₦ 18,115,000",8-Cylinder(V8),Approx. 3500,Sliver, (4.00)
+96,Toyota,Toyota Highlander,2018,"20,926",Locally used,"₦ 21,545,000",6-Cylinder(V6),Approx. 3500,Green, (4.00)
+97,Toyota,Toyota Venza,2009,"84,998",Foreign Used,"₦ 8,515,000",6-Cylinder(V6),Approx. 1000,Grey, (4.40)
+98,Toyota,Toyota Corolla,2015,"68,966",Foreign Used,"₦ 8,130,000",4-Cylinder(I4),Approx. 2000,Black, (4.50)
+99,Toyota,Toyota Sienna,2007,"86,963",Foreign Used,"₦ 5,780,000",6-Cylinder(I6),Approx. 2500,Silver, (4.50)
+100,Toyota,Toyota Sienna,2013,"96,328",Foreign Used,"₦ 8,130,000",6-Cylinder(V6),Approx. 2500,Red Wine, (4.50)
+101,Honda,Honda Accord,2014,"96,760",Foreign Used,"₦ 7,030,000",4-Cylinder(I4),Approx. 2,Off White, (4.40)
+102,Toyota,Toyota Camry,2012,"124,998",Foreign Used,"₦ 7,530,000",4-Cylinder(I4),Approx. 1500,Silver, (4.40)
+103,Land,Land Rover Range Rover,2014,"44,492",Foreign Used,"₦ 35,030,000",6-Cylinder(V6),Approx. 1500,White, (4.40)
+104,Toyota,Toyota Highlander,2018,"72,807",Foreign Used,"₦ 23,015,000",6-Cylinder(V6),Approx. 3300,Dark Gray, (4.20)
+105,Toyota,Toyota RAV 4,2010,"99,583",Foreign Used,"₦ 7,015,000",4-Cylinder(I4),Approx. N/A,Dark Green, (4.40)
+106,Land,Land Rover range rover Hse,2013,"150,599",Foreign Used,"₦ 30,015,000",8-Cylinder(V8),Approx. N/A,Black, (4.30)
+107,Toyota,Toyota Camry,2012,"62,567",Foreign Used,"₦ 6,615,000",4-Cylinder(I4),Approx. 200,Dark Gray, (4.40)
+108,Lexus,Lexus RX 350,2010,"89,975",Foreign Used,"₦ 11,530,000",6-Cylinder(V6),Approx. 3500,Dark Gray, (4.40)
+109,Lexus,Lexus RX 350,2015,"106,430",Foreign Used,"₦ 14,830,000",6-Cylinder(V6),Approx. 3500,Wine, (4.20)
+110,Honda,Honda Accord,2014,"62,355",Foreign Used,"₦ 7,030,000",4-Cylinder(I4),Approx. 2400,Black, (4.40)
+111,Mercedes-Benz,Mercedes-Benz CLA 250,2014,"75,776",Foreign Used,"₦ 12,530,000",4-Cylinder(I4),Approx. 2000,Grey, (4.40)
+112,Toyota,Toyota Hilux,2018,"30,341",Foreign Used,"₦ 32,515,000",4-Cylinder(I4),Approx. 2400,White, (4.40)
+113,Toyota,Toyota Camry,2010,"58,667",Foreign Used,"₦ 5,815,000",4-Cylinder(I4),Approx. N/A,Silver, (4.30)
+114,Toyota,Toyota Corolla,2007,"82,879",Foreign Used,"₦ 3,915,000",4-Cylinder(I4),Approx. N/A,Black, (4.50)
+115,Toyota,Toyota Corolla,2005,"73,491",Foreign Used,"₦ 3,915,000",4-Cylinder(I4),Approx. N/A,Gold, (4.50)
+116,Toyota,Toyota Corolla,2013,"85,042",Foreign Used,"₦ 6,215,000",4-Cylinder(I4),Approx. 3000,Ash, (4.30)
+117,Mercedes-Benz,Mercedes-Benz E 350,2010,"142,730",Foreign Used,"₦ 7,915,000",6-Cylinder(V6),Approx. 3300,Dark Grey, (4.00)
+118,Toyota,Toyota Sienna,2004,"171,805",Locally used,"₦ 3,215,000",6-Cylinder(V6),Approx. N/A,Blue, (3.40)
+119,Lexus,Lexus ES 350,2013,"77,300",Locally used,"₦ 7,430,000",6-Cylinder(I6),Approx. 3,Black, (3.40)
+120,Ford,Ford Edge,2012,"93,576",Foreign Used,"₦ 7,580,000",6-Cylinder(I6),Approx. 2000,Blue, (4.50)
+121,Honda,Honda Pilot,2012,"98,535",Foreign Used,"₦ 6,780,000",6-Cylinder(V6),Approx. 2500,Gray, (4.50)
+122,Honda,Honda Crosstour,2010,"153,724",Foreign Used,"₦ 6,330,000",4-Cylinder(I4),Approx. 2,Grey, (4.50)
+123,Mercedes-Benz,Mercedes-Benz C 300,2011,"70,721",Foreign Used,"₦ 7,330,000",6-Cylinder(V6),Approx. 1500,White, (4.40)
+124,Kia,Kia Sorento,2007,"203,306",Locally used,"₦ 1,615,000",6-Cylinder(V6),Approx. 1500,Silver, (3.40)
+125,MINI,MINI Cooper S Clubman,2016,"21,513",Foreign Used,"₦ 15,015,000",4-Cylinder(I4),Approx. 2000,Green, (4.40)
+126,Mercedes-Benz,Mercedes-Benz C 300,2010,"39,260",Foreign Used,"₦ 7,515,000",6-Cylinder(V6),Approx. 3500,White, (4.40)
+127,Mercedes-Benz,Mercedes-Benz C 300,2012,"40,226",Foreign Used,"₦ 7,515,000",6-Cylinder(V6),Approx. 3500,Silver, (4.00)
+128,Lexus,Lexus ES 350,2011,"163,562",Foreign Used,"₦ 7,515,000",6-Cylinder(V6),Approx. 3500,White, (4.40)
+129,Toyota,Toyota Corolla,2005,"45,755",Foreign Used,"₦ 3,915,000",4-Cylinder(I4),Approx. 1008,Silver, (4.00)
+130,Mercedes-Benz,Mercedes-Benz CLS 550,2007,"68,777",Foreign Used,"₦ 5,515,000",8-Cylinder(V8),Approx. N/A,Silver, (4.40)
+131,Lexus,Lexus ES 300,2005,"100,000",Foreign Used,"₦ 3,815,000",6-Cylinder(V6),Approx. 3300,Blue, (4.40)
+132,Toyota,Toyota Avalon,2014,"65,235",Foreign Used,"₦ 11,015,000",6-Cylinder(V6),Approx. 3500,Black, (4.00)
+133,Toyota,Toyota Camry,2016,"116,761",Foreign Used,"₦ 11,515,000",6-Cylinder(I6),Approx. 6,Black, (4.20)
+134,Toyota,Toyota Sienna,2006,"121,556",Foreign Used,"₦ 5,015,000",6-Cylinder(V6),Approx. 3,Gold, (4.00)
+135,Toyota,Toyota Highlander,2009,"185,657",Locally used,"₦ 5,730,000",6-Cylinder(V6),Approx. 3500,Wine, (3.40)
+136,Lexus,Lexus RX 350,2009,"209,823",Foreign Used,"₦ 7,530,000",6-Cylinder(V6),Approx. 3500,Blue Light, (4.20)
+137,Lexus,Lexus ES 350,2012,"155,396",Foreign Used,"₦ 7,615,000",6-Cylinder(V6),Approx. 6,White, (4.20)
+138,Toyota,Toyota Corolla,2004,"96,000",Foreign Used,"₦ 3,715,000",4-Cylinder(I4),Approx. 1,Metallic Silver, (4.30)
+139,Toyota,Toyota Landcruiser Prado,2017,"45,000",Foreign Used,"₦ 27,530,000",4-Cylinder(I4),Approx. 35000,Black, (4.30)
+140,Ford,Ford Edge,2013,"82,592",Foreign Used,"₦ 5,530,000",6-Cylinder(I6),Approx. N/A,Silver, (4.50)
+141,Toyota,Toyota Camry,2007,"103,360",Foreign Used,"₦ 4,730,000",4-Cylinder(I4),Approx. 2500,Beige, (4.20)
+142,Toyota,Toyota Camry,2003,"11,903",Foreign Used,"₦ 3,495,000",6-Cylinder(V6),Approx. 5900,Dark Green, (4.50)
+143,Toyota,Toyota Sienna,2012,"62,727",Foreign Used,"₦ 7,830,000",6-Cylinder(I6),Approx. N/A,Blue, (4.50)
+144,Toyota,Toyota Camry,2011,"73,281",Foreign Used,"₦ 4,930,000",4-Cylinder(I4),Approx. 2,Black, (4.00)
+145,Kia,Kia Optima,2009,"229,442",Foreign Used,"₦ 2,715,000",4-Cylinder(I4),Approx. 1000,Dark Grey, (4.00)
+146,Toyota,Toyota Camry,2011,"88,569",Foreign Used,"₦ 4,930,000",4-Cylinder(I4),Approx. 2,Black, (4.00)
+147,Honda,Honda Accord,2009,"188,758",Foreign Used,"₦ 3,840,000",4-Cylinder(I4),Approx. 59000,Citrine Brown Metallic Finish, (4.40)
+148,Lexus,Lexus RX 350,2012,"82,205",Foreign Used,"₦ 13,830,000",6-Cylinder(V6),Approx. 1000,Red Wine, (4.30)
+149,Lexus,Lexus GX 460,2014,"51,221",Foreign Used,"₦ 26,730,000",6-Cylinder(V6),Approx. 1000,White, (4.40)
+150,Honda,Honda Pilot,2011,"78,356",Foreign Used,"₦ 8,830,000",6-Cylinder(I6),Approx. 1000,Black, (4.30)
+151,Toyota,Toyota Sienna,2008,"158,658",Foreign Used,"₦ 5,030,000",6-Cylinder(V6),Approx. 3500,White, (4.00)
+152,Toyota,Toyota Camry,2013,"89,260",Foreign Used,"₦ 6,915,000",4-Cylinder(I4),Approx. N/A,Black, (4.40)
+153,Toyota,Toyota Corolla,2004,"76,961",Foreign Used,"₦ 3,660,000",4-Cylinder(I4),Approx. 1800,Dark Grey, (4.40)
+154,Toyota,Toyota Corolla,2010,"125,111",Foreign Used,"₦ 4,730,000",4-Cylinder(I4),Approx. N/A,Red, (4.50)
+155,Toyota,Toyota Camry,2011,"131,556",Foreign Used,"₦ 4,630,000",6-Cylinder(V6),Approx. 3,Black, (4.50)
+156,Honda,Honda Pilot,2011,"207,437",Foreign Used,"₦ 6,030,000",6-Cylinder(V6),Approx. 3500,Wine, (4.10)
+157,Toyota,Toyota Camry,2014,"89,543",Foreign Used,"₦ 7,030,000",4-Cylinder(I4),Approx. 2500,Black, (4.40)
+158,Lexus,Lexus GX 460,2014,"138,876",Foreign Used,"₦ 26,815,000",8-Cylinder(V8),Approx. 4,Grey, (4.00)
+159,Mercedes-Benz,Mercedes-Benz GLK 350,2011,"197,488",Foreign Used,"₦ 9,730,000",6-Cylinder(V6),Approx. 1000,Black, (4.10)
+160,Lexus,Lexus GX 460,2013,"166,858",Foreign Used,"₦ 17,515,000",6-Cylinder(V6),Approx. 1000,Gold, (4.20)
+161,Mercedes-Benz,Mercedes-Benz GLE 450,2016,"59,597",Foreign Used,"₦ 40,615,000",6-Cylinder(I6),Approx. 1000,Red, (4.00)
+162,Toyota,Toyota Corolla,2016,"69,000",Foreign Used,"₦ 7,830,000",4-Cylinder(I4),Approx. 1,Red, (4.40)
+163,Toyota,Toyota Camry,2003,"100,427",Foreign Used,"₦ 3,330,000",4-Cylinder(I4),Approx. 2400,Silver, (4.30)
+164,Mercedes-Benz,Mercedes-Benz C 300,2015,"97,018",Foreign Used,"₦ 15,030,000",4-Cylinder(I4),Approx. 4,Grey, (4.20)
+165,Acura,Acura MDX,2007,"209,929",Foreign Used,"₦ 5,030,000",6-Cylinder(I6),Approx. 3700,Grey, (4.00)
+166,Toyota,Toyota Highlander,2004,"95,436",Foreign Used,"₦ 5,480,000",6-Cylinder(V6),Approx. 1500,Gold, (4.50)
+167,Mercedes-Benz,Mercedes-Benz ML 350,2015,"112,339",Foreign Used,"₦ 15,330,000",6-Cylinder(V6),Approx. 3,White, (4.30)
+168,Lexus,Lexus RX 350,2017,"31,446",Foreign Used,"₦ 25,515,000",6-Cylinder(V6),Approx. 3500,Silver, (4.40)
+169,Toyota,Toyota 4-Runner,2011,"173,630",Foreign Used,"₦ 12,530,000",6-Cylinder(I6),Approx. 1000,White, (4.10)
+170,Mercedes-Benz,Mercedes-Benz GLA 250,2016,"73,571",Foreign Used,"₦ 17,030,000",6-Cylinder(I6),Approx. 1000,Black, (4.30)
+171,Toyota,Toyota Camry,2013,"28,191",Foreign Used,"₦ 8,030,000",6-Cylinder(I6),Approx. 1000,Gray, (4.30)
+172,Toyota,Toyota Highlander,2016,"158,752",Foreign Used,"₦ 17,615,000",6-Cylinder(V6),Approx. N/A,Grey, (4.20)
+173,Mercedes-Benz,Mercedes-Benz GLK 350,2010,"164,612",Foreign Used,"₦ 8,515,000",6-Cylinder(V6),Approx. N/A,Silver, (4.40)
+174,Toyota,Toyota Highlander,2015,"58,566",Foreign Used,"₦ 15,730,000",6-Cylinder(I6),Approx. 1000,Beige, (4.40)
+175,Toyota,Toyota Sienna,2012,"97,852",Foreign Used,"₦ 6,700,000",6-Cylinder(V6),Approx. 2500,Silver, (4.00)
+176,Toyota,Toyota RAV 4,2007,"86,004",Foreign Used,"₦ 5,830,000",4-Cylinder(I4),Approx. 1000,Silver, (4.20)
+177,Hyundai,Hyundai Sonata,2014,"114,569",Foreign Used,"₦ 6,530,000",4-Cylinder(I4),Approx. 2400,Red, (4.40)
+178,Hyundai,Hyundai Santa Fe,2014,"96,826",Locally used,"₦ 6,215,000",4-Cylinder(I4),Approx. 1000,Dark Grey, (3.40)
+179,Toyota,Toyota Corolla,2003,"106,561",Foreign Used,"₦ 3,730,000",4-Cylinder(I4),Approx. 4,Silver, (4.40)
+180,Toyota,Toyota Corolla,2006,"18,522",Foreign Used,"₦ 4,030,000",4-Cylinder(I4),Approx. 4,Gold, (4.30)
+181,Toyota,Toyota Highlander,2006,"97,655",Foreign Used,"₦ 6,610,000",6-Cylinder(V6),Approx. 2500,Gold, (4.50)
+182,Toyota,Toyota Camry,2009,"99,419",Foreign Used,"₦ 4,845,000",4-Cylinder(I4),Approx. 4,Gold, (4.30)
+183,Toyota,Toyota Camry,2005,"115,608",Foreign Used,"₦ 3,830,000",4-Cylinder(I4),Approx. 4,Wine, (4.30)
+184,Toyota,Toyota RAV 4,2009,"168,905",Foreign Used,"₦ 7,215,000",6-Cylinder(I6),Approx. 3500,Brown, (4.30)
+185,Toyota,Toyota Tacoma,2009,"159,189",Foreign Used,"₦ 14,015,000",6-Cylinder(V6),Approx. 6,Grey, (4.30)
+186,Toyota,Toyota Highlander,2013,"89,523",Foreign Used,"₦ 14,815,000",6-Cylinder(I6),Approx. 3500,Blue Metallic, (4.00)
+187,Lexus,Lexus ES 300,2003,"176,000",Foreign Used,"₦ 4,065,000",6-Cylinder(V6),Approx. N/A,Silver, (4.30)
+188,Toyota,Toyota Corolla,2016,"54,852",Foreign Used,"₦ 7,530,000",4-Cylinder(I4),Approx. 2500,White, (4.00)
+189,Toyota,Toyota Camry,2007,"185,825",Foreign Used,"₦ 4,630,000",4-Cylinder(I4),Approx. N/A,Green, (4.50)
+190,Toyota,Toyota Corolla,2015,"89,373",Foreign Used,"₦ 7,530,000",4-Cylinder(I4),Approx. 2500,Grey, (4.00)
+191,Mercedes-Benz,Mercedes-Benz C 300,2016,"68,085",Foreign Used,"₦ 16,845,000",6-Cylinder(I6),Approx. 3000,Black, (4.20)
+192,Lexus,Lexus GX 460,2014,"121,336",Foreign Used,"₦ 270,315,008",8-Cylinder(I8),Approx. 4,Grey, (4.00)
+193,Mercedes-Benz,Mercedes-Benz C 300,2016,"56,802",Foreign Used,"₦ 18,315,000",6-Cylinder(I6),Approx. 3000,Blue, (4.40)
+194,Toyota,Toyota Camry,2008,"115,328",Foreign Used,"₦ 4,265,000",6-Cylinder(I6),Approx. N/A,Gold, (4.00)
+195,Toyota,Toyota Camry,2011,"185,000",Foreign Used,"₦ 4,765,000",4-Cylinder(I4),Approx. 1000,Black, (4.20)
+196,Toyota,Toyota Camry,2010,"96,000",Foreign Used,"₦ 5,530,000",4-Cylinder(I4),Approx. 2,Black, (4.40)
+197,Lexus,Lexus RX 350,2007,"105,484",Foreign Used,"₦ 7,740,000",6-Cylinder(V6),Approx. N/A,Blue, (4.40)
+198,Toyota,Toyota Camry,2009,"96,000",Foreign Used,"₦ 4,580,000",4-Cylinder(I4),Approx. 2,Blue, (4.00)
+199,Toyota,Toyota Camry,2012,"85,106",Foreign Used,"₦ 7,015,000",4-Cylinder(I4),Approx. 1500,Dark Grey, (4.40)
+200,Pontiac,Pontiac Vibe,2009,"83,664",Foreign Used,"₦ 5,345,000",4-Cylinder(I4),Approx. 1500,White, (4.30)
+201,Toyota,Toyota Yaris,2012,"86,899",Foreign Used,"₦ 4,615,000",4-Cylinder(I4),Approx. 4,Blue, (4.30)
+202,Toyota,Toyota Corolla,2006,"91,309",Foreign Used,"₦ 4,115,000",4-Cylinder(I4),Approx. 1500,Gold, (4.00)
+203,Toyota,Toyota Corolla,2006,"110,252",Foreign Used,"₦ 4,115,000",4-Cylinder(I4),Approx. 1500,Dark Grey, (4.00)
+204,Toyota,Toyota Sienna,2008,"182,642",Foreign Used,"₦ 5,115,000",6-Cylinder(V6),Approx. 1000,Green, (4.00)
+205,Mercedes-Benz,Mercedes-Benz ML 350,2013,"159,843",Foreign Used,"₦ 15,015,000",6-Cylinder(V6),Approx. N/A,Black, (4.00)
+206,Mercedes-Benz,Mercedes-Benz S 550,2015,"112,363",Foreign Used,"₦ 39,315,000",8-Cylinder(V8),Approx. 4,White, (4.30)
+207,Toyota,Toyota Camry,2004,"210,052",Foreign Used,"₦ 3,815,000",4-Cylinder(I4),Approx. 4,Amy Green, (4.30)
+208,Toyota,Toyota Camry,2012,"191,563",Foreign Used,"₦ 6,395,000",6-Cylinder(I6),Approx. 6,Grey, (4.20)
+209,Lexus,Lexus GX 470,2007,"78,509",Foreign Used,"₦ 9,815,000",8-Cylinder(V8),Approx. 5700,White, (4.30)
+210,Lexus,Lexus GX 470,2006,"75,231",Foreign Used,"₦ 9,815,000",8-Cylinder(V8),Approx. 5700,Black, (4.30)
+211,Kia,Kia Sorento 3.5l EX,2016,"96,000",Locally used,"₦ 6,830,000",6-Cylinder(I6),Approx. 3,Brown, (3.30)
+212,Toyota,Toyota Highlander,2014,"56,000",Locally used,"₦ 10,015,000",6-Cylinder(I6),Approx. 3,Silver, (3.50)
+213,Toyota,Toyota Highlander,2009,"96,552",Foreign Used,"₦ 8,615,000",6-Cylinder(V6),Approx. 2500,Silver, (4.50)
+214,Toyota,Toyota Highlander,2008,"97,532",Foreign Used,"₦ 7,930,000",6-Cylinder(I6),Approx. 2500,Dark Gray, (4.50)
+215,Toyota,Toyota Hilux,2018,"8,381",Foreign Used,"₦ 33,015,000",6-Cylinder(V6),Approx. 4800,White, (4.40)
+216,Toyota,Toyota Corolla,2003,"120,000",Foreign Used,"₦ 3,530,000",4-Cylinder(I4),Approx. 4,Silver, (4.40)
+217,Toyota,Toyota Camry,2009,"64,761",Foreign Used,"₦ 4,715,000",4-Cylinder(I4),Approx. N/A,Gold, (4.40)
+218,Toyota,Toyota Corolla,2015,"56,000",Foreign Used,"₦ 7,230,000",4-Cylinder(I4),Approx. 1,Black, (4.00)
+219,Lexus,Lexus RX 350,2007,"234,702",Foreign Used,"₦ 7,015,000",6-Cylinder(V6),Approx. 6,Blue, (4.10)
+220,Toyota,Toyota Hilux,2010,"86,000",Foreign Used,"₦ 10,315,000",4-Cylinder(I4),Approx. 2,Pearl White, (4.40)
+221,Toyota,Toyota Camry,2009,"96,000",Foreign Used,"₦ 4,830,000",4-Cylinder(I4),Approx. 2,Blue, (4.00)
+222,Toyota,Toyota Sienna,2011,"112,809",Foreign Used,"₦ 9,330,000",4-Cylinder(I4),Approx. 20,Gold, (4.40)
+223,Toyota,Toyota Corolla,2007,"168,736",Foreign Used,"₦ 3,630,000",4-Cylinder(I4),Approx. 2500,Gold, (4.30)
+224,Toyota,Toyota Corolla,2006,"83,930",Foreign Used,"₦ 3,630,000",4-Cylinder(I4),Approx. 2500,Gold, (4.00)
+225,Toyota,Toyota Corolla,2012,"98,054",Foreign Used,"₦ 6,130,000",4-Cylinder(I4),Approx. 1500,Dark Gray, (4.50)
+226,Toyota,Toyota Sienna,2006,"96,800",Foreign Used,"₦ 5,780,000",6-Cylinder(V6),Approx. 2000,Silver, (4.50)
+227,Toyota,Toyota Camry,2007,"86,998",Foreign Used,"₦ 5,330,000",6-Cylinder(V6),Approx. 1500,Silver, (4.50)
+228,Toyota,Toyota Corolla,2008,"180,289",Foreign Used,"₦ 3,630,000",4-Cylinder(I4),Approx. 2500,Red, (4.00)
+229,Toyota,Toyota Corolla,2013,"95,440",Foreign Used,"₦ 6,095,000",4-Cylinder(I4),Approx. 1500,Blue, (4.00)
+230,Toyota,Toyota Highlander,2013,"95,348",Foreign Used,"₦ 10,830,000",6-Cylinder(V6),Approx. 2500,Blue, (4.50)
+231,Hyundai,Hyundai Sonata,2015,"96,345",Foreign Used,"₦ 8,330,000",4-Cylinder(I4),Approx. 2500,Grey, (4.00)
+232,Toyota,Toyota Matrix,2007,"169,259",Locally used,"₦ 3,645,000",4-Cylinder(I4),Approx. 2500,Silver, (4.00)
+233,Toyota,Toyota Highlander,2015,"70,675",Foreign Used,"₦ 16,015,000",6-Cylinder(V6),Approx. 3500,Blue, (4.40)
+234,Lexus,Lexus RX 350,2014,"100,000",Foreign Used,"₦ 15,015,000",6-Cylinder(V6),Approx. 3500,Black, (4.40)
+235,Toyota,Toyota Corolla Sport,2009,"100,000",Foreign Used,"₦ 5,515,000",4-Cylinder(I4),Approx. 2000,Silver, (4.00)
+236,Mercedes-Benz,Mercedes-Benz E 320,2005,"99,448",Foreign Used,"₦ 3,015,000",4-Cylinder(I4),Approx. 25,Black, (4.40)
+237,Toyota,Toyota Hiace,2006,"112,336",Foreign Used,"₦ 9,060,000",4-Cylinder(I4),Approx. 2,Black, (4.00)
+238,Toyota,Toyota Hiace,2012,"45,856",Foreign Used,"₦ 11,545,000",4-Cylinder(I4),Approx. 2400,Purple, (4.00)
+239,Toyota,Toyota Corolla,2014,"93,200",Foreign Used,"₦ 7,215,000",4-Cylinder(I4),Approx. 1,Black, (4.40)
+240,Honda,Honda CR-V,2009,"121,855",Foreign Used,"₦ 4,845,000",4-Cylinder(I4),Approx. 2,Blue, (4.00)
+241,Toyota,Toyota Corolla,2005,"190,543",Foreign Used,"₦ 3,630,000",4-Cylinder(I4),Approx. 2500,Silver, (4.00)
+242,Hyundai,Hyundai Elantra,2016,"74,000",Foreign Used,"₦ 6,230,000",5-Cylinder(I5),Approx. N/A,Gold, (4.00)
+243,Toyota,Toyota Corolla,2008,"223,323",Foreign Used,"₦ 3,630,000",4-Cylinder(I4),Approx. 2500,Grey, (4.00)
+244,Toyota,Toyota Matrix,2006,"101,711",Foreign Used,"₦ 3,630,000",4-Cylinder(I4),Approx. 2500,Dark Grey, (4.00)
+245,Toyota,Toyota Corolla,2007,"205,262",Foreign Used,"₦ 3,630,000",4-Cylinder(I4),Approx. 2500,Blue, (4.00)
+246,Toyota,Toyota Sequoia,2010,"263,789",Foreign Used,"₦ 12,030,000",6-Cylinder(V6),Approx. 1000,Grey, (4.10)
+247,Lexus,Lexus ES 350,2013,"130,832",Foreign Used,"₦ 11,030,000",6-Cylinder(V6),Approx. 1000,Blue, (4.30)
+248,Lexus,Lexus GX 460,2013,"81,911",Foreign Used,"₦ 27,015,000",8-Cylinder(V8),Approx. 1000,Black, (4.40)
+249,Lexus,Lexus RX 350,2010,"130,864",Foreign Used,"₦ 11,015,000",6-Cylinder(I6),Approx. 1000,White, (4.40)
+250,Toyota,Toyota 4-Runner,2016,"134,112",Foreign Used,"₦ 20,530,000",6-Cylinder(V6),Approx. 1000,White, (4.20)
+251,Mitsubishi,Mitsubishi OUTLANDER,2012,"218,588",Foreign Used,"₦ 6,530,000",6-Cylinder(V6),Approx. 1500,White, (4.10)
+252,Honda,Honda Civic,2012,"75,163",Foreign Used,"₦ 6,045,000",4-Cylinder(I4),Approx. 1000,Silver, (4.00)
+253,Toyota,Toyota Corolla,2007,"101,305",Foreign Used,"₦ 3,630,000",4-Cylinder(I4),Approx. 2500,Blue, (4.00)
+254,Toyota,Toyota Corolla,2008,"96,793",Foreign Used,"₦ 3,630,000",4-Cylinder(I4),Approx. 2500,Blue, (4.00)
+255,Lexus,Lexus LX 570,2016,"113,486",Foreign Used,"₦ 75,015,000",8-Cylinder(V8),Approx. 4500,White, (4.20)
+256,Toyota,Toyota RAV 4,2016,"84,983",Foreign Used,"₦ 20,015,000",4-Cylinder(I4),Approx. 2200,Black, (4.40)
+257,Toyota,Toyota Corolla Sport,2016,"123,229",Foreign Used,"₦ 10,015,000",4-Cylinder(I4),Approx. 2000,Dark Grey, (4.20)
+258,Mercedes-Benz,Mercedes-Benz GLK 350,2010,"86,000",Foreign Used,"₦ 9,330,000",6-Cylinder(V6),Approx. 2500,Gold, (4.50)
+259,Toyota,Toyota Corolla,2008,"99,580",Foreign Used,"₦ 4,130,000",4-Cylinder(I4),Approx. 1000,Silver, (4.50)
+260,Acura,Acura MDX,2015,"123,483",Foreign Used,"₦ 13,530,000",6-Cylinder(I6),Approx. 1000,Grey, (4.10)
+261,Ford,Ford Edge,2010,"69,580",Foreign Used,"₦ 5,280,000",4-Cylinder(I4),Approx. 1500,White, (4.50)
+262,Toyota,Toyota Venza,2015,"87,000",Foreign Used,"₦ 11,815,000",6-Cylinder(V6),Approx. 2000,White, (4.50)
+263,Toyota,Toyota Venza,2009,"84,467",Foreign Used,"₦ 9,215,000",6-Cylinder(I6),Approx. 6,Blue, (4.30)
+264,MINI,MINI Cooper S,2015,"43,714",Locally used,"₦ 13,515,000",4-Cylinder(I4),Approx. 1000,Black, (3.40)
+265,Toyota,Toyota Avalon,2011,"151,864",Foreign Used,"₦ 8,545,000",6-Cylinder(I6),Approx. 6,Black And Orange, (4.40)
+266,Toyota,Toyota Sienna,2012,"90,141",Foreign Used,"₦ 11,030,000",6-Cylinder(V6),Approx. 6,Silver, (4.40)
+267,Toyota,Toyota Camry,2012,"175,688",Locally used,"₦ 4,830,000",6-Cylinder(I6),Approx. 3500,Silver, (4.00)
+268,Honda,Honda Accord,2017,"52,092",Foreign Used,"₦ 11,030,000",4-Cylinder(I4),Approx. 1500,Black, (4.40)
+269,Toyota,Toyota Highlander,2013,"45,237",Foreign Used,"₦ 12,630,000",6-Cylinder(V6),Approx. 1500,Dark Gray, (4.40)
+270,Toyota,Toyota Hiace,2011,"148,526",Foreign Used,"₦ 11,015,000",4-Cylinder(I4),Approx. 2400,White, (4.10)
+271,Toyota,Toyota Corolla,2500,"98,776",Foreign Used,"₦ 3,630,000",4-Cylinder(I4),Approx. 2500,Red, (4.00)
+272,Toyota,Toyota Corolla,2008,"242,384",Foreign Used,"₦ 3,630,000",4-Cylinder(I4),Approx. 2500,White, (4.00)
+273,Toyota,Toyota Corolla,2006,"179,604",Foreign Used,"₦ 3,630,000",4-Cylinder(I4),Approx. 2500,Gold, (4.00)
+274,Toyota,Toyota Corolla,2005,"193,140",Foreign Used,"₦ 3,630,000",4-Cylinder(I4),Approx. 2500,Gold, (4.00)
+275,Audi,Audi Q5,2013,"97,274",Locally used,"₦ 6,015,000",6-Cylinder(V6),Approx. 1000,Orange, (3.40)
+276,Toyota,Toyota Corolla,2011,"104,763",Foreign Used,"₦ 4,845,000",4-Cylinder(I4),Approx. N/A,Silver, (4.00)
+277,Toyota,Toyota Corolla,2014,"52,346",Foreign Used,"₦ 7,431,000",4-Cylinder(I4),Approx. N/A,Grey, (4.00)
+278,Acura,Acura RDX,2017,"97,274",Foreign Used,"₦ 15,515,000",6-Cylinder(V6),Approx. N/A,White, (4.20)
+279,Toyota,Toyota 4-Runner,2015,"61,438",Foreign Used,"₦ 22,530,000",6-Cylinder(I6),Approx. 1000,Grey, (4.40)
+280,Toyota,Toyota Venza,2009,"96,000",Foreign Used,"₦ 8,765,000",6-Cylinder(V6),Approx. 2000,Dark Red, (4.50)
+281,Toyota,Toyota Camry,2018,"38,815",Foreign Used,"₦ 17,815,000",4-Cylinder(I4),Approx. 2400,Black, (4.30)
+282,Toyota,Toyota Camry,2018,"58,139",Foreign Used,"₦ 15,515,000",4-Cylinder(I4),Approx. N/A,Silver, (4.00)
+283,Lexus,Lexus RX 350,2007,"31,083",Foreign Used,"₦ 6,615,000",6-Cylinder(V6),Approx. N/A,Gold, (4.40)
+284,Lexus,Lexus RX 330,2005,"65,000",Foreign Used,"₦ 6,215,000",6-Cylinder(V6),Approx. N/A,Dark Silver, (4.40)
+285,Toyota,Toyota RAV 4,2008,"146,495",Foreign Used,"₦ 5,730,000",4-Cylinder(I4),Approx. 2400,Gold, (4.00)
+286,Mercedes-Benz,Mercedes-Benz S 63 AMG,2014,"56,151",Foreign Used,"₦ 40,330,000",8-Cylinder(V8),Approx. 5,White, (4.00)
+287,Toyota,Toyota Corolla,2013,"135,437",Foreign Used,"₦ 5,515,000",4-Cylinder(I4),Approx. 1800,Blue, (4.00)
+288,Lexus,Lexus ES 350,2013,"100,000",Foreign Used,"₦ 11,015,000",6-Cylinder(V6),Approx. 3500,Black, (4.40)
+289,Ford,Ford Edge 3.5L,2013,"155,891",Locally used,"₦ 4,015,000",6-Cylinder(V6),Approx. N/A,Black, (4.00)
+290,Toyota,Toyota Sienna,2008,"14,775",Foreign Used,"₦ 5,489,000",6-Cylinder(V6),Approx. N/A,Black, (4.50)
+291,Mercedes-Benz,Mercedes-Benz CLA 180 Shooting Brake,2015,"123,556",Foreign Used,"₦ 13,530,000",4-Cylinder(I4),Approx. 2,Red, (4.30)
+292,Mercedes-Benz,Mercedes-Benz C 300,2010,"85,945",Foreign Used,"₦ 6,830,000",6-Cylinder(V6),Approx. 3,Black, (4.50)
+293,Toyota,Toyota Highlander,2014,"125,889",Foreign Used,"₦ 16,030,000",6-Cylinder(V6),Approx. 4,Black, (4.30)
+294,Mitsubishi,Mitsubishi Pajero,2017,"13,925",Locally used,"₦ 18,045,000",6-Cylinder(V6),Approx. 4,Black, (4.50)
+295,Toyota,Toyota Venza,2010,"145,991",Foreign Used,"₦ 9,830,000",4-Cylinder(I4),Approx. 3,Cream, (4.50)
+296,Ford,Ford E 350,2011,"123,580",Foreign Used,"₦ 7,215,000",6-Cylinder(I6),Approx. 3000,Red, (4.20)
+297,Honda,Honda Accord,2013,"4,354",Foreign Used,"₦ 5,815,000",4-Cylinder(I4),Approx. 4,Wine, (4.30)
+298,Toyota,Toyota Sienna,2004,"210,886",Foreign Used,"₦ 4,830,000",6-Cylinder(I6),Approx. 6,Gold, (4.30)
+299,Lexus,Lexus RX 350,2016,"94,598",Foreign Used,"₦ 24,515,000",6-Cylinder(V6),Approx. 1000,Black, (4.30)
+300,Toyota,Toyota RAV 4,2005,"100,000",Foreign Used,"₦ 5,515,000",4-Cylinder(I4),Approx. 2200,White, (4.40)
+301,Toyota,Toyota Venza,2015,"65,000",Foreign Used,"₦ 12,515,000",6-Cylinder(V6),Approx. 3800,White, (4.40)
+302,Toyota,Toyota Venza,2010,"86,529",Foreign Used,"₦ 10,030,000",4-Cylinder(I4),Approx. 1000,White, (4.30)
+303,Toyota,Toyota Highlander,2011,"198,217",Foreign Used,"₦ 11,530,000",6-Cylinder(V6),Approx. 1000,White, (4.10)
+304,Mercedes-Benz,Mercedes-Benz GLK 350,2011,"146,814",Foreign Used,"₦ 10,530,000",6-Cylinder(V6),Approx. 1000,Silver, (4.30)
+305,Toyota,Toyota RAV 4,2011,"108,951",Foreign Used,"₦ 7,515,000",4-Cylinder(I4),Approx. 2500,Silver, (4.20)
+306,Toyota,Toyota Corolla,2015,"79,512",Foreign Used,"₦ 7,415,000",4-Cylinder(I4),Approx. 2800,Dark Gray, (4.00)
+307,Toyota,Toyota Corolla,2014,"82,570",Foreign Used,"₦ 7,315,000",4-Cylinder(I4),Approx. 2500,Dark Grey, (4.00)
+308,Toyota,Toyota Corolla,2017,"137,832",Foreign Used,"₦ 8,715,000",4-Cylinder(I4),Approx. 2500,Black, (4.00)
+309,Lexus,Lexus ES 350,2007,"199,000",Foreign Used,"₦ 5,815,000",6-Cylinder(V6),Approx. N/A,White, (4.40)
+310,Hyundai,Hyundai Sonata,2013,"147,253",Foreign Used,"₦ 4,930,000",5-Cylinder(I5),Approx. N/A,Blue Navy, (4.30)
+311,Mercedes-Benz,Mercedes-Benz GLK 350,2014,"114,733",Foreign Used,"₦ 13,030,000",6-Cylinder(V6),Approx. 1000,Cream, (4.40)
+312,Toyota,Toyota Camry,2005,"45,320",Foreign Used,"₦ 3,545,000",4-Cylinder(I4),Approx. 1000,Gold, (4.00)
+313,Mazda,Mazda CX-9,2014,"97,224",Foreign Used,"₦ 8,015,000",6-Cylinder(V6),Approx. 3300,Dark Grey, (4.40)
+314,Hyundai,Hyundai Sonata,2011,"22,000",Foreign Used,"₦ 5,115,000",4-Cylinder(I4),Approx. 2,Black, (4.00)
+315,Mazda,Mazda CX-9,2013,"97,224",Foreign Used,"₦ 8,015,000",6-Cylinder(V6),Approx. 3300,Silver, (4.40)
+316,Toyota,Toyota Venza,2015,"31,010",Foreign Used,"₦ 10,815,000",4-Cylinder(I4),Approx. 1000,Black, (4.40)
+317,Land,Land Rover Range Rover,2011,"123,648",Foreign Used,"₦ 14,015,000",8-Cylinder(V8),Approx. 1000,Dark Blue, (4.40)
+318,Toyota,Toyota Avalon,2019,"72,924",Foreign Used,"₦ 31,015,000",6-Cylinder(I6),Approx. 1000,Black, (4.20)
+319,Lexus,Lexus ES 350,2009,"113,200",Foreign Used,"₦ 6,045,000",6-Cylinder(I6),Approx. 1000,Silver, (4.40)
+320,Land,Land Rover Range Rover,2018,"18,181",Locally used,"₦ 65,605,000",8-Cylinder(V8),Approx. 5,Black, (3.50)
+321,Toyota,Toyota RAV 4,2013,"32,613",Foreign Used,"₦ 12,515,000",4-Cylinder(I4),Approx. 2500,Amy Green, (4.20)
+322,Toyota,Toyota Highlander,2012,"139,407",Foreign Used,"₦ 8,915,000",6-Cylinder(V6),Approx. 3300,Silver, (4.40)
+323,Toyota,Toyota Corolla,2005,"73,523",Foreign Used,"₦ 3,915,000",4-Cylinder(I4),Approx. 1800,Dark Silver, (4.00)
+324,Toyota,Toyota Camry,2014,"81,048",Foreign Used,"₦ 6,515,000",4-Cylinder(I4),Approx. 1000,Gold, (4.40)
+325,Lexus,Lexus GX 460,2012,"89,000",Locally used,"₦ 13,965,000",8-Cylinder(V8),Approx. 1000,Black, (4.40)
+326,Toyota,Toyota Corolla,2006,"98,562",Foreign Used,"₦ 3,865,000",4-Cylinder(I4),Approx. 2000,Gold, (4.00)
+327,Honda,Honda Accord,2007,"98,000",Locally used,"₦ 1,315,000",4-Cylinder(I4),Approx. 2,Dark Grey, (3.40)
+328,Toyota,Toyota Corolla,2005,"238,145",Locally used,"₦ 3,815,000",4-Cylinder(I4),Approx. 2000,Ash, (4.00)
+329,Toyota,Toyota Corolla,2006,"110,428",Locally used,"₦ 3,815,000",4-Cylinder(I4),Approx. 2000,Grey, (4.00)
+330,Toyota,Toyota Corolla,2007,"97,853",Locally used,"₦ 3,815,000",4-Cylinder(I4),Approx. 24000,Sliver, (4.00)
+331,Toyota,Toyota Camry,2010,"79,188",Foreign Used,"₦ 5,415,000",4-Cylinder(I4),Approx. 2500,Golden Yellow, (4.00)
+332,Chevrolet,Chevrolet Cruze,2014,"58,653",Foreign Used,"₦ 4,515,000",4-Cylinder(I4),Approx. 1400,Dark Grey, (4.20)
+333,Mercedes-Benz,Mercedes-Benz GLE 400,2016,"73,000",Foreign Used,"₦ 28,015,000",6-Cylinder(V6),Approx. 3500,White, (4.00)
+334,Mercedes-Benz,Mercedes-Benz C 300,2012,"97,573",Locally used,"₦ 7,515,000",6-Cylinder(V6),Approx. 3,Grey, (4.50)
+335,Lexus,Lexus RX 350,2013,"103,195",Foreign Used,"₦ 14,515,000",6-Cylinder(V6),Approx. 3400,Silver, (4.40)
+336,Toyota,Toyota Highlander,2011,"34,259",Foreign Used,"₦ 11,530,000",6-Cylinder(V6),Approx. N/A,Gray, (3.30)
+337,Hyundai,Hyundai Sonata,2012,"110,657",Foreign Used,"₦ 5,715,000",4-Cylinder(I4),Approx. N/A,White, (4.00)
+338,Ford,Ford Edge,2010,"97,654",Foreign Used,"₦ 5,145,000",6-Cylinder(V6),Approx. 1000,White, (4.40)
+339,Lexus,Lexus RX 350,2012,"192,194",Foreign Used,"₦ 11,015,000",6-Cylinder(V6),Approx. 2350,Ash, (4.10)
+340,Lexus,Lexus GX 460,2014,"123,751",Foreign Used,"₦ 26,015,000",6-Cylinder(V6),Approx. 3300,Off-White, (4.30)
+341,Toyota,Toyota Camry,2006,"115,000",Foreign Used,"₦ 3,510,000",4-Cylinder(I4),Approx. N/A,White, (4.00)
+342,Toyota,Toyota Camry,2009,"130,248",Foreign Used,"₦ 4,130,000",4-Cylinder(I4),Approx. 1,Dark Silver, (4.40)
+343,Toyota,Toyota Corolla,2016,"160,654",Foreign Used,"₦ 7,715,000",4-Cylinder(I4),Approx. 2500,Red, (4.00)
+344,Toyota,Toyota Camry,2007,"76,000",Foreign Used,"₦ 4,515,000",4-Cylinder(I4),Approx. 1,Dark Gray, (4.00)
+345,Toyota,Toyota Camry,2012,"62,597",Locally used,"₦ 6,815,000",4-Cylinder(I4),Approx. 2500,Black, (4.00)
+346,Toyota,Toyota Camry,2018,"85,000",Foreign Used,"₦ 15,015,000",4-Cylinder(I4),Approx. 1000,Silver, (4.20)
+347,Toyota,Toyota Camry,2005,"86,790",Foreign Used,"₦ 3,330,000",4-Cylinder(I4),Approx. 2200,Gold, (4.00)
+348,Toyota,Toyota Highlander,2014,"44,871",Foreign Used,"₦ 15,515,000",6-Cylinder(I6),Approx. 1000,Black, (4.40)
+349,Toyota,Toyota Camry,2010,"58,268",Foreign Used,"₦ 5,830,000",4-Cylinder(I4),Approx. N/A,Gold, (4.20)
+350,Toyota,Toyota Highlander,2006,"180,340",Locally used,"₦ 4,615,000",6-Cylinder(I6),Approx. N/A,Silver, (3.50)
+351,Toyota,Toyota Camry,2009,"195,621",Foreign Used,"₦ 4,715,000",4-Cylinder(I4),Approx. 1000,Black, (4.00)
+352,Toyota,Toyota Camry,2007,0,Foreign Used,"₦ 4,445,000",4-Cylinder(I4),Approx. N/A,Silver, (4.00)
+353,Toyota,Toyota Tundra,2010,"210,604",Foreign Used,"₦ 9,506,000",8-Cylinder(V8),Approx. N/A,Red, (4.00)
+354,Toyota,Toyota Highlander,2016,"68,987",Foreign Used,"₦ 15,840,000",6-Cylinder(V6),Approx. N/A,Maroon, (4.00)
+355,Mercedes-Benz,Mercedes-Benz GLE 350,2016,"42,210",Foreign Used,"₦ 25,020,000",6-Cylinder(V6),Approx. N/A,White, (4.40)
+356,Lexus,Lexus RX 350,2013,"74,653",Foreign Used,"₦ 12,270,000",6-Cylinder(V6),Approx. N/A,White, (4.00)
+357,Lexus,Lexus RX 350,2010,"94,554",Foreign Used,"₦ 9,815,000",6-Cylinder(V6),Approx. N/A,Black, (4.50)
+358,Toyota,Toyota Camry,2013,"21,748",Foreign Used,"₦ 6,519,000",4-Cylinder(I4),Approx. N/A,Red, (4.00)
+359,Toyota,Toyota Camry,2013,"147,643",Locally used,"₦ 4,815,000",4-Cylinder(H4),Approx. 1000,Gray, (3.20)
+360,Toyota,Toyota Corolla,2008,"96,589",Foreign Used,"₦ 4,230,000",4-Cylinder(I4),Approx. 1500,Dark Grey, (4.50)
+361,Toyota,Toyota Sienna,2006,"147,404",Locally used,"₦ 5,280,000",6-Cylinder(V6),Approx. N/A,Dark Grey, (4.40)
+362,Acura,Acura ZDX,2013,0,Foreign Used,"₦ 11,250,000",6-Cylinder(V6),Approx. 3,White, (4.40)
+363,Toyota,Toyota RAV 4,2009,"129,000",Foreign Used,"₦ 7,240,000",6-Cylinder(V6),Approx. N/A,White, (4.40)
+364,Toyota,Toyota Camry,2013,"141,944",Locally used,"₦ 5,115,000",4-Cylinder(I4),Approx. N/A,Black, (3.20)
+365,Lexus,Lexus ES 350,2013,"48,220",Foreign Used,"₦ 13,515,000",6-Cylinder(I6),Approx. N/A,Silver, (4.20)
+366,Pontiac,Pontiac Vibe,2009,0,Foreign Used,"₦ 4,440,000",4-Cylinder(I4),Approx. 3,Black, (4.40)
+367,Toyota,Toyota Sienna,2006,"85,881",Foreign Used,"₦ 4,815,000",6-Cylinder(V6),Approx. N/A,Grey, (4.50)
+368,Toyota,Toyota Highlander,2011,"53,214",Foreign Used,"₦ 10,215,000",6-Cylinder(V6),Approx. N/A,Grey, (4.00)
+369,Toyota,Toyota Sienna,2015,"115,384",Foreign Used,"₦ 14,515,000",6-Cylinder(V6),Approx. 3500,Ash, (4.00)
+370,Mercedes-Benz,Mercedes-Benz 350,2011,"169,508",Foreign Used,"₦ 6,815,000",6-Cylinder(I6),Approx. 2,Off White, (4.30)
+371,Toyota,Toyota 4-Runner,2006,"102,571",Locally used,"₦ 6,725,000",6-Cylinder(V6),Approx. N/A,Red, (4.40)
+372,Toyota,Toyota Corolla,2010,"194,955",Foreign Used,"₦ 5,315,000",4-Cylinder(I4),Approx. 1800,Blue, (4.10)
+373,Toyota,Toyota Corolla,2010,"208,720",Foreign Used,"₦ 5,365,000",4-Cylinder(I4),Approx. 1800,Red, (4.00)
+374,Chevrolet,Chevrolet Malibu,2017,"76,208",Foreign Used,"₦ 14,230,000",4-Cylinder(I4),Approx. 2500,Yellow, (4.00)
+375,Toyota,Toyota Tacoma,2010,"126,604",Foreign Used,"₦ 11,515,000",6-Cylinder(V6),Approx. N/A,Dark Grey, (4.40)
+376,Toyota,Toyota Tacoma,2006,"87,607",Foreign Used,"₦ 10,015,000",6-Cylinder(V6),Approx. N/A,Red, (4.00)
+377,Lexus,Lexus IS 250,2014,"44,597",Foreign Used,"₦ 13,015,000",6-Cylinder(V6),Approx. 2500,White, (4.30)
+378,Toyota,Toyota Hilux,2022,10,New,"₦ 38,230,000",4-Cylinder(I4),Approx. 2,Black,
+379,Toyota,Toyota Tacoma,2008,"126,412",Foreign Used,"₦ 10,015,000",6-Cylinder(V6),Approx. N/A,Grey, (4.20)
+380,Toyota,Toyota Hilux,2009,"335,817",Foreign Used,"₦ 10,515,000",4-Cylinder(I4),Approx. N/A,White, (4.20)
+381,Mitsubishi,Mitsubishi L200,2021,"1,179",Locally used,"₦ 24,015,000",4-Cylinder(I4),Approx. N/A,White, (3.50)
+382,Honda,Honda Accord,2012,"174,778",Foreign Used,"₦ 5,015,000",4-Cylinder(I4),Approx. N/A,Grey, (4.00)
+383,Honda,Honda Crosstour,2013,"168,249",Foreign Used,"₦ 7,845,000",6-Cylinder(V6),Approx. N/A,Silver, (4.30)
+384,Toyota,Toyota Sienna,2013,"70,609",Foreign Used,"₦ 7,961,000",6-Cylinder(V6),Approx. N/A,White, (4.40)
+385,Toyota,Toyota Corolla,2009,"75,709",Foreign Used,"₦ 5,015,000",4-Cylinder(I4),Approx. 1800,Dark Grey, (4.20)
+386,Toyota,Toyota Corolla,2017,"112,004",Foreign Used,"₦ 10,615,000",4-Cylinder(I4),Approx. N/A,Dark Green, (4.00)
+387,Toyota,Toyota Highlander,2010,"75,649",Foreign Used,"₦ 10,015,000",6-Cylinder(V6),Approx. N/A,White, (4.30)
+388,Ford,Ford Edge TIT. 3.5L,2016,"89,016",Foreign Used,"₦ 12,415,000",6-Cylinder(V6),Approx. 3300,Dark Gray, (4.40)
+389,Toyota,Toyota Sienna,2011,"34,838",Foreign Used,"₦ 10,230,000",6-Cylinder(I6),Approx. N/A,Grey, (4.30)
+390,Mercedes-Benz,Mercedes-Benz E 350,2013,"78,147",Foreign Used,"₦ 12,015,000",6-Cylinder(V6),Approx. N/A,Grey, (4.30)
+391,Mercedes-Benz,Mercedes-Benz GLC 300,2018,"80,012",Foreign Used,"₦ 23,015,000",6-Cylinder(V6),Approx. 3500,White, (4.30)
+392,Toyota,Toyota Solara,2007,"185,652",Foreign Used,"₦ 4,115,000",6-Cylinder(I6),Approx. N/A,Red, (4.00)
+393,Toyota,Toyota Highlander,2016,"97,761",Foreign Used,"₦ 16,730,000",6-Cylinder(V6),Approx. 1000,Grey, (4.20)
+394,Toyota,Toyota Tacoma,2011,"83,510",Foreign Used,"₦ 12,530,000",6-Cylinder(V6),Approx. 1000,Grey, (4.20)
+395,Toyota,Toyota Highlander,2014,"102,291",Foreign Used,"₦ 16,015,000",6-Cylinder(V6),Approx. 3500,Light Blue, (4.30)
+396,Toyota,Toyota Sienna,2009,"87,955",Foreign Used,"₦ 4,730,000",6-Cylinder(V6),Approx. 6,Green, (4.30)
+397,Toyota,Toyota Camry,2005,"185,802",Foreign Used,"₦ 4,515,000",4-Cylinder(I4),Approx. N/A,Grey, (4.00)
+398,Lexus,Lexus RX 330,2004,"85,650",Foreign Used,"₦ 6,780,000",6-Cylinder(V6),Approx. 2500,Black, (4.40)
+399,Toyota,Toyota Hilux,2021,71,New,"₦ 39,795,000",4-Cylinder(I4),Approx. N/A,White,
+400,Toyota,Toyota Hilux,2021,98,New,"₦ 39,795,000",4-Cylinder(I4),Approx. N/A,Black,
+401,Toyota,Toyota Hilux,2021,446,New,"₦ 39,795,000",4-Cylinder(I4),Approx. N/A,White,
+402,Toyota,Toyota Camry,2011,"102,517",Foreign Used,"₦ 6,210,000",6-Cylinder(V6),Approx. 10,Silver, (4.30)
+403,Toyota,Toyota Highlander,2012,"195,893",Foreign Used,"₦ 11,015,000",6-Cylinder(V6),Approx. N/A,White, (4.00)
+404,Mercedes-Benz,Mercedes-Benz GL 450,2013,"85,743",Foreign Used,"₦ 17,365,000",8-Cylinder(V8),Approx. 1000,Sliver, (4.40)
+405,Toyota,Toyota Sienna,2015,"79,882",Foreign Used,"₦ 16,315,000",6-Cylinder(V6),Approx. N/A,Beige, (4.30)
+406,Jaguar,Jaguar XJ,2011,"16,296",Foreign Used,"₦ 24,015,000",8-Cylinder(V8),Approx. 3500,Black, (4.30)
+407,Hyundai,Hyundai Sonata,2013,"298,167",Foreign Used,"₦ 5,115,000",4-Cylinder(I4),Approx. 1000,Gray, (4.20)
+408,Hyundai,Hyundai Sonata,2014,"244,934",Foreign Used,"₦ 5,265,000",4-Cylinder(I4),Approx. 1000,Gray, (4.20)
+409,Hyundai,Hyundai Sonata,2013,"98,539",Foreign Used,"₦ 5,015,000",4-Cylinder(I4),Approx. 4,Gray, (4.00)
+410,Toyota,Toyota Corolla,2010,"75,218",Foreign Used,"₦ 4,900,500",4-Cylinder(I4),Approx. N/A,Black, (4.00)
+411,Chrysler,Chrysler 300C,2015,"172,739",Foreign Used,"₦ 7,515,000",6-Cylinder(V6),Approx. 3,White, (4.30)
+412,Toyota,Toyota Venza,2011,"77,664",Foreign Used,"₦ 8,515,000",4-Cylinder(I4),Approx. N/A,Silver, (4.30)
+413,Toyota,Toyota Corolla,2015,"14,279",Foreign Used,"₦ 7,330,000",4-Cylinder(I4),Approx. 2500,Dark Green, (4.00)
+414,Toyota,Toyota Camry,2012,"213,068",Foreign Used,"₦ 7,730,000",4-Cylinder(I4),Approx. N/A,Blue, (4.00)
+415,Toyota,Toyota RAV 4,2009,"113,857",Foreign Used,"₦ 6,815,000",6-Cylinder(V6),Approx. N/A,Dark Blue, (4.00)
+416,Toyota,Toyota Camry,2009,"68,957",Foreign Used,"₦ 4,715,000",4-Cylinder(I4),Approx. 2400,Black, (4.10)
+417,Mercedes-Benz,Mercedes-Benz ML 350,2013,"85,235",Foreign Used,"₦ 15,045,000",6-Cylinder(V6),Approx. 3500,Black, (4.00)
+418,Toyota,Toyota Corolla,2015,"169,808",Foreign Used,"₦ 7,215,000",4-Cylinder(I4),Approx. N/A,Blue, (4.00)
+419,Lexus,Lexus GX 460,2020,211,New,"₦ 60,515,000",8-Cylinder(V8),Approx. N/A,Black,
+420,Toyota,Toyota Tacoma,2020,78,New,"₦ 30,615,000",6-Cylinder(V6),Approx. N/A,Silver,
+421,Lexus,Lexus ES 330,2006,"85,243",Foreign Used,"₦ 4,730,000",6-Cylinder(V6),Approx. 350,Silver, (4.50)
+422,Honda,Honda Civic,2006,"92,122",Foreign Used,"₦ 3,215,000",4-Cylinder(I4),Approx. 1800,Blue, (4.00)
+423,MINI,MINI Cooper S Countryman,2013,"114,770",Foreign Used,"₦ 6,515,000",4-Cylinder(I4),Approx. N/A,Silver, (4.30)
+424,Toyota,Toyota RAV 4,2015,"98,442",Foreign Used,"₦ 12,015,000",4-Cylinder(I4),Approx. 2,Black, (4.40)
+425,Toyota,Toyota Venza,2009,"148,035",Foreign Used,"₦ 10,530,000",6-Cylinder(V6),Approx. N/A,White, (4.10)
+426,Lexus,Lexus RX 330,2004,"200,000",Foreign Used,"₦ 6,975,000",6-Cylinder(V6),Approx. N/A,Black, (4.30)
+427,Lexus,Lexus RX 350,2014,"67,553",Foreign Used,"₦ 15,795,000",6-Cylinder(V6),Approx. N/A,Blue, (4.00)
+428,Toyota,Toyota RAV 4,2019,"34,006",Foreign Used,"₦ 24,515,000",4-Cylinder(I4),Approx. 2,Dark Grey, (4.50)
+429,Toyota,Toyota Corolla,2009,"85,221",Locally used,"₦ 3,330,000",4-Cylinder(I4),Approx. 1,Grey, (3.30)
+430,Lexus,Lexus GX 460,2010,"7,306",Foreign Used,"₦ 20,015,000",6-Cylinder(V6),Approx. 4000,Black, (4.50)
+431,Lexus,Lexus RX 350,2013,"116,295",Foreign Used,"₦ 14,465,000",6-Cylinder(V6),Approx. N/A,White, (4.40)
+432,Mercedes-Benz,Mercedes-Benz ML 350,2014,"134,932",Foreign Used,"₦ 11,515,000",6-Cylinder(V6),Approx. N/A,Black, (4.10)
+433,Mercedes-Benz,Mercedes-Benz GLK 350,2012,"90,710",Foreign Used,"₦ 11,530,000",6-Cylinder(V6),Approx. 1000,Silver, (4.30)
+434,Mercedes-Benz,Mercedes-Benz GLK 350,2011,"98,624",Foreign Used,"₦ 11,015,000",6-Cylinder(V6),Approx. 1000,Grey, (4.00)
+435,Toyota,Toyota Venza,2013,"67,729",Foreign Used,"₦ 12,515,000",6-Cylinder(V6),Approx. 1000,Silver, (4.00)
+436,Toyota,Toyota Highlander,2006,"206,567",Foreign Used,"₦ 5,715,000",6-Cylinder(V6),Approx. N/A,Grey, (4.30)
+437,Suzuki,Suzuki Every,2012,"124,145",Foreign Used,"₦ 2,030,000",3-Cylinder(I3),Approx. 1,Ash, (4.00)
+438,Suzuki,Suzuki Celerio GL,2022,0,New,"₦ 7,900,000",4-Cylinder(I4),Approx. N/A,Red,
+439,Infiniti,Infiniti FX 35,2011,"184,995",Locally used,"₦ 5,915,000",6-Cylinder(V6),Approx. 3,Brown, (3.00)
+440,Ford,Ford Edge,2007,"105,634",Foreign Used,"₦ 4,035,000",6-Cylinder(V6),Approx. 3,White, (3.30)
+441,Lexus,Lexus RX 350,2013,"199,373",Foreign Used,"₦ 13,015,000",6-Cylinder(V6),Approx. N/A,White, (4.00)
+442,Lexus,Lexus RX 350,2013,"121,652",Foreign Used,"₦ 13,515,000",6-Cylinder(I6),Approx. 6,Silver, (4.40)
+443,Mercedes-Benz,Mercedes-Benz ML 350,2008,"162,604",Foreign Used,"₦ 7,015,000",6-Cylinder(V6),Approx. N/A,Light Blue, (4.40)
+444,Toyota,Toyota Highlander,2010,"91,877",Foreign Used,"₦ 7,755,000",6-Cylinder(V6),Approx. N/A,White, (4.40)
+445,Lexus,Lexus RX 350,2010,"36,159",Foreign Used,"₦ 11,015,000",6-Cylinder(I6),Approx. N/A,Dark Grey, (4.00)
+446,Toyota,Toyota Venza,2015,"81,175",Foreign Used,"₦ 12,015,000",6-Cylinder(V6),Approx. 1,Dark Blue, (4.00)
+447,Toyota,Toyota Camry,2008,"156,000",Locally used,"₦ 2,930,000",4-Cylinder(I4),Approx. 2,Gold, (3.20)
+448,Hyundai,Hyundai Elantra,2016,"146,589",Foreign Used,"₦ 6,015,000",4-Cylinder(I4),Approx. 1,Blue, (4.00)
+449,Toyota,Toyota Camry,2007,"74,500",Foreign Used,"₦ 4,415,000",4-Cylinder(I4),Approx. N/A,Black, (4.20)
+450,Lexus,Lexus RX 350,2009,"63,744",Foreign Used,"₦ 7,965,000",6-Cylinder(V6),Approx. N/A,Black, (4.20)
+451,Lexus,Lexus ES 350,2013,"150,048",Foreign Used,"₦ 10,015,000",6-Cylinder(V6),Approx. N/A,White, (4.10)
+452,Toyota,Toyota Highlander,2012,"108,423",Foreign Used,"₦ 11,015,000",6-Cylinder(I6),Approx. 2000,Black, (4.50)
+453,Toyota,Toyota Camry,2012,"131,316",Foreign Used,"₦ 7,315,000",4-Cylinder(I4),Approx. N/A,Grey, (4.00)
+454,Toyota,Toyota Tacoma,2017,"204,790",Foreign Used,"₦ 18,015,000",6-Cylinder(V6),Approx. N/A,Black, (4.00)
+455,Lexus,Lexus RX 350,2016,"35,152",Foreign Used,"₦ 24,030,000",6-Cylinder(I6),Approx. 1000,Gold, (4.00)
+456,Toyota,Toyota Camry,2007,"109,583",Foreign Used,"₦ 4,215,000",4-Cylinder(I4),Approx. 4,Gold, (4.30)
+457,Toyota,Toyota Corolla,2020,"16,543",Foreign Used,"₦ 16,515,000",4-Cylinder(I4),Approx. 2500,Silver, (4.40)
+458,Mitsubishi,Mitsubishi Pajero,2020,261,New,"₦ 29,885,000",6-Cylinder(V6),Approx. N/A,Black,
+459,Hyundai,Hyundai Elantra,2012,"180,748",Foreign Used,"₦ 4,815,000",4-Cylinder(I4),Approx. 1,Grey, (4.30)
+460,Toyota,Toyota Highlander,2013,"76,254",Locally used,"₦ 12,515,000",6-Cylinder(I6),Approx. N/A,Black, (3.30)
+461,Toyota,Toyota Corolla,2009,"240,450",Foreign Used,"₦ 5,215,000",4-Cylinder(I4),Approx. 1,Gold, (4.00)
+462,Toyota,Toyota Highlander,2013,"86,000",Foreign Used,"₦ 12,030,000",6-Cylinder(I6),Approx. 3,Black, (4.40)
+463,Toyota,Toyota Sienna,2015,"90,574",Foreign Used,"₦ 13,015,000",6-Cylinder(V6),Approx. 3500,White, (4.00)
+464,Nissan,Nissan Altima,2019,"21,156",Foreign Used,"₦ 18,530,000",4-Cylinder(I4),Approx. N/A,Dark Grey, (4.30)
+465,Lexus,Lexus ES 350,2014,"67,155",Foreign Used,"₦ 11,015,000",6-Cylinder(V6),Approx. 5000,Silver, (4.40)
+466,Toyota,Toyota RAV 4,2009,"75,836",Locally used,"₦ 7,515,000",4-Cylinder(I4),Approx. N/A,Red, (4.40)
+467,Volvo,Volvo C70,2008,"78,000",Foreign Used,"₦ 2,030,000",6-Cylinder(V6),Approx. N/A,White, (4.40)
+468,Lexus,Lexus IS 250,2015,"98,875",Foreign Used,"₦ 10,015,000",6-Cylinder(V6),Approx. N/A,Black, (4.30)
+469,Kia,Kia Rio,2012,"131,793",Locally used,"₦ 2,015,000",4-Cylinder(I4),Approx. N/A,Grey, (3.10)
+470,Toyota,Toyota Venza,2013,"172,079",Foreign Used,"₦ 12,615,000",4-Cylinder(I4),Approx. 1000,Silver, (4.20)
+471,Nissan,Nissan Murano,2010,"98,110",Foreign Used,"₦ 4,765,000",6-Cylinder(I6),Approx. N/A,Dark Blue, (4.50)
+472,Mercedes-Benz,Mercedes-Benz GLA 250,2019,"54,643",Foreign Used,"₦ 19,615,000",4-Cylinder(I4),Approx. N/A,Black, (4.20)
+473,Toyota,Toyota Camry,2020,"34,864",Foreign Used,"₦ 20,130,000",4-Cylinder(I4),Approx. N/A,White, (4.20)
+474,Toyota,Toyota Camry,2010,"96,000",Locally used,"₦ 5,465,000",4-Cylinder(I4),Approx. 2,Grey, (4.00)
+475,Honda,Honda Pilot,2011,"103,755",Foreign Used,"₦ 5,715,000",6-Cylinder(V6),Approx. N/A,Red, (4.50)
+476,Mercedes-Benz,Mercedes-Benz GLE 350,2016,"55,000",Foreign Used,"₦ 25,030,000",6-Cylinder(V6),Approx. 5000,Black, (4.00)
+477,Toyota,Toyota Venza,2011,"145,556",Foreign Used,"₦ 8,745,000",4-Cylinder(I4),Approx. 4,White, (4.30)
+478,Toyota,Toyota Corolla,2009,"180,008",Locally used,"₦ 2,865,000",4-Cylinder(I4),Approx. 2,Black, (3.10)
+479,Toyota,Toyota RAV 4,2014,"172,196",Foreign Used,"₦ 10,030,000",4-Cylinder(I4),Approx. N/A,Grey, (4.30)
+480,Kia,Kia PEGAS,2022,0,New,"₦ 9,915,000",4-Cylinder(I4),Approx. 1,Red,
+481,Volkswagen,Volkswagen Golf,2006,"109,523",Locally used,"₦ 3,030,000",6-Cylinder(V6),Approx. N/A,Silver, (3.90)
+482,Toyota,Toyota Fortuner,2022,33,New,"₦ 32,145,000",4-Cylinder(I4),Approx. N/A,Black,
+483,Lexus,Lexus ES 350,2010,"110,388",Foreign Used,"₦ 6,815,000",6-Cylinder(V6),Approx. N/A,Dark Grey, (4.00)
+484,Toyota,Toyota RAV 4,2012,"112,589",Foreign Used,"₦ 7,515,000",4-Cylinder(I4),Approx. 4,Black, (4.30)
+485,Lexus,Lexus RX 350,2019,"27,179",Foreign Used,"₦ 26,865,000",6-Cylinder(V6),Approx. 3,Grey, (4.50)
+486,Mercedes-Benz,Mercedes-Benz GLK 350,2012,"83,035",Foreign Used,"₦ 9,545,000",6-Cylinder(I6),Approx. 2500,Black, (4.00)
+487,Kia,Kia Sorento 3.5l EX,2022,0,New,"₦ 32,415,000",6-Cylinder(I6),Approx. N/A,White And Orange,
+488,Kia,Kia Sorento,2022,0,New,"₦ 32,430,000",6-Cylinder(I6),Approx. N/A,White,
+489,Kia,Kia Sportage,2022,0,New,"₦ 27,105,000",4-Cylinder(I4),Approx. N/A,Black,
+490,Kia,Kia Seltos,2022,0,New,"₦ 20,085,000",4-Cylinder(I4),Approx. N/A,Red,
+491,Kia,Kia Sonet,2022,0,New,"₦ 18,015,000",4-Cylinder(I4),Approx. N/A,Red,
+492,Kia,Kia Quoris K900 GLS,2022,0,New,"₦ 46,815,000",6-Cylinder(I6),Approx. N/A,Black,
+493,Kia,Kia K5,2022,0,New,"₦ 25,215,000",4-Cylinder(I4),Approx. N/A,Blue,
+494,Kia,Kia Rio,2022,0,New,"₦ 14,415,000",4-Cylinder(I4),Approx. N/A,Blue,
+495,Kia,Kia Cerato,2022,0,New,"₦ 19,815,000",4-Cylinder(I4),Approx. N/A,Black,
+496,Land,Land Rover range rover Hse,2018,"44,547",Foreign Used,"₦ 64,515,000",6-Cylinder(V6),Approx. 6,Black, (4.50)
+497,Ford,Ford Edge TIT. 3.5L,2016,"113,023",Foreign Used,"₦ 10,330,000",6-Cylinder(V6),Approx. N/A,White, (4.00)
+498,Mercedes-Benz,Mercedes-Benz GLK 350,2013,"126,925",Foreign Used,"₦ 10,815,000",6-Cylinder(I6),Approx. 3300,White, (4.00)
+499,Toyota,Toyota Highlander,2015,"91,463",Foreign Used,"₦ 16,515,000",6-Cylinder(V6),Approx. N/A,Brown, (4.50)
+500,Lexus,Lexus ES 350,2010,"174,606",Foreign Used,"₦ 6,530,000",6-Cylinder(V6),Approx. N/A,Dark Grey, (4.00)
+501,Foton,Foton View C2 2.2L P Minibus,2020,25,New,"₦ 16,015,000",4-Cylinder(I4),Approx. N/A,White,
+502,Foton,Foton View CS2 2.7L Petrol Minibus,2019,25,New,"₦ 22,765,000",4-Cylinder(I4),Approx. N/A,White,
+503,Jeep,Jeep Grand Cherokee Luxury,2019,12,New,"₦ 36,015,000",4-Cylinder(I4),Approx. N/A,Brown,
+504,Toyota,Toyota Camry,2005,"98,000",Locally used,"₦ 3,330,000",4-Cylinder(I4),Approx. 2,Gold, (3.90)
+505,Toyota,Toyota Highlander,2006,"161,832",Foreign Used,"₦ 6,315,000",6-Cylinder(V6),Approx. 2,Black, (4.00)
+506,Mercedes-Benz,Mercedes-Benz E 350,2014,"107,895",Foreign Used,"₦ 10,830,000",6-Cylinder(V6),Approx. 60,Black, (4.50)
+507,IVM,IVM 6857,2021,0,New,"₦ 74,297,496",4-Cylinder(I4),Approx. N/A,White,
+508,IVM,IVM 6800,2021,0,New,"₦ 48,497,500",4-Cylinder(I4),Approx. N/A,White,
+509,IVM,IVM 6601,2021,0,New,"₦ 38,177,500",4-Cylinder(I4),Approx. N/A,White,
+510,IVM,IVM 6499,2021,0,New,"₦ 17,053,750",4-Cylinder(I4),Approx. N/A,White,
+511,IVM,IVM 6540,2021,0,New,"₦ 21,297,312",4-Cylinder(I4),Approx. N/A,White,
+512,IVM,IVM G5,2021,0,New,"₦ 14,000,212",4-Cylinder(I4),Approx. N/A,White,
+513,IVM,IVM G40,2021,0,New,"₦ 29,900,000",4-Cylinder(I4),Approx. N/A,Black,
+514,IVM,IVM G80,2021,0,New,"₦ 49,142,500",4-Cylinder(I4),Approx. N/A,Black,
+515,Nissan,Nissan Sentra,2014,"57,949",Foreign Used,"₦ 6,830,000",4-Cylinder(I4),Approx. N/A,Black, (4.20)
+516,IVM,IVM Granite,2020,0,New,"₦ 23,127,500",4-Cylinder(I4),Approx. N/A,Blue,
+517,IVM,IVM G6C,2020,0,New,"₦ 20,977,500",4-Cylinder(I4),Approx. N/A,White,
+518,Toyota,Toyota Hilux,2022,675,New,"₦ 33,445,000",4-Cylinder(I4),Approx. 2,White,
+519,IVM,IVM G20 Smart,2020,0,New,"₦ 8,077,500",4-Cylinder(I4),Approx. N/A,Red,
+520,IVM,IVM Capa,2020,0,New,"₦ 26,352,500",4-Cylinder(I4),Approx. N/A,Black,
+521,IVM,IVM G6,2020,0,New,"₦ 25,492,500",4-Cylinder(I4),Approx. N/A,Black,
+522,IVM,IVM Ikenga,2020,0,New,"₦ 13,775,000",4-Cylinder(I4),Approx. N/A,Black,
+523,IVM,IVM Caris,2020,0,New,"₦ 13,775,000",4-Cylinder(I4),Approx. N/A,Red,
+524,DONGFENG,DONGFENG P 16,2021,0,New,"₦ 18,015,000",4-Cylinder(I4),Approx. N/A,White,
+525,DONGFENG,DONGFENG K01S,2020,0,New,"₦ 7,215,000",4-Cylinder(I4),Approx. N/A,White,
+526,DONGFENG,DONGFENG T5L,2020,0,New,"₦ 15,585,000",4-Cylinder(I4),Approx. N/A,Red,
+527,DONGFENG,DONGFENG SX5,2020,0,New,"₦ 11,715,000",4-Cylinder(I4),Approx. N/A,White,
+528,DONGFENG,DONGFENG A9,2020,0,New,"₦ 16,845,000",4-Cylinder(I4),Approx. N/A,White,
+529,DONGFENG,DONGFENG S50,2020,0,New,"₦ 10,635,000",4-Cylinder(I4),Approx. N/A,White,
+530,Kia,Kia K2700,2021,0,New,"₦ 15,315,000",4-Cylinder(I4),Approx. N/A,White,
+531,Kia,Kia Sorento 3.5l EX,2021,0,New,"₦ 26,115,000",6-Cylinder(V6),Approx. N/A,Black,
+532,Kia,Kia Sorento 3.5l EX,2021,0,New,"₦ 23,415,000",6-Cylinder(V6),Approx. N/A,Black,
+533,Kia,Kia Sorento EX,2021,0,New,"₦ 21,615,000",4-Cylinder(I4),Approx. N/A,Black,
+534,Kia,Kia Sportage,2021,0,New,"₦ 17,835,000",4-Cylinder(I4),Approx. N/A,Red,
+535,Kia,Kia Seltos,2021,0,New,"₦ 13,335,000",4-Cylinder(I4),Approx. N/A,Red,
+536,Kia,Kia Sonet,2021,0,New,"₦ 11,715,000",4-Cylinder(I4),Approx. N/A,Red,
+537,Kia,Kia Quoris K900 Top,2021,0,New,"₦ 63,015,000",4-Cylinder(I4),Approx. N/A,Black,
+538,Kia,Kia Quoris K900 GLS,2021,0,New,"₦ 46,815,000",4-Cylinder(I4),Approx. N/A,White,
+539,Kia,Kia Cadenza,2021,0,New,"₦ 36,015,000",2-Cylinder(I2),Approx. N/A,White,
+540,Kia,Kia Optima,2021,0,New,"₦ 16,215,000",2-Cylinder(I2),Approx. N/A,White,
+541,Kia,Kia Cerato,2021,0,New,"₦ 15,027,000",2-Cylinder(I2),Approx. N/A,White,
+542,Kia,Kia Rio,2021,0,New,"₦ 10,095,000",2-Cylinder(I2),Approx. N/A,White,
+543,Ford,Ford F-150 King Ranch,2008,"22,083",Foreign Used,"₦ 6,015,000",6-Cylinder(V6),Approx. N/A,Grey, (4.40)
+544,Toyota,Toyota Highlander,2011,"95,983",Foreign Used,"₦ 11,865,000",6-Cylinder(V6),Approx. 3,Grey, (4.00)
+545,Mitsubishi,Mitsubishi L200 Double Cabin,2022,0,New,"₦ 17,515,000",4-Cylinder(I4),Approx. N/A,White,
+546,Mitsubishi,Mitsubishi L200 Double Cabin 4WD,2022,0,New,"₦ 16,765,000",4-Cylinder(I4),Approx. N/A,White,
+547,Mitsubishi,Mitsubishi L200 Single Cabin,2022,0,New,"₦ 12,015,000",4-Cylinder(I4),Approx. N/A,Grey,
+548,Mitsubishi,Mitsubishi Pajero Sport,2022,0,New,"₦ 33,000,000",6-Cylinder(V6),Approx. N/A,Silver,
+549,Mitsubishi,Mitsubishi Pajero,2022,0,New,"₦ 27,015,000",4-Cylinder(I4),Approx. N/A,Silver,
+550,Mitsubishi,Mitsubishi Eclipse Cross 4x2,2022,0,New,"₦ 19,515,000",4-Cylinder(I4),Approx. N/A,Grey,
+551,Suzuki,Suzuki Vitara GLX 4x2,2022,0,New,"₦ 16,500,000",4-Cylinder(I4),Approx. 1000,Yellow,
+552,Suzuki,Suzuki Vitara,2022,0,New,"₦ 14,015,000",4-Cylinder(I4),Approx. 1000,Blue,
+553,Suzuki,Suzuki Super-Carry,2022,0,New,"₦ 6,515,000",4-Cylinder(I4),Approx. 1000,White,
+554,Suzuki,Suzuki Jimny GL,2022,0,New,"₦ 15,015,000",4-Cylinder(I4),Approx. 1000,Dark Blue,
+555,Suzuki,Suzuki Vitara GL,2022,0,New,"₦ 14,015,000",4-Cylinder(I4),Approx. 1000,Red,
+556,Suzuki,Suzuki Ertiga GLX,2022,0,New,"₦ 11,515,000",4-Cylinder(I4),Approx. 1000,Brown,
+557,Suzuki,Suzuki Ciaz GLX,2022,0,New,"₦ 15,000,000",4-Cylinder(I4),Approx. 1000,Black,
+558,Suzuki,Suzuki Baleno GLX,2022,0,New,"₦ 9,915,000",4-Cylinder(I4),Approx. 1000,White,
+559,Suzuki,Suzuki New Dzire GLX,2022,0,New,"₦ 8,915,000",4-Cylinder(I4),Approx. 1000,White,
+560,Suzuki,Suzuki New Dzire GL,2022,0,New,"₦ 9,200,000",4-Cylinder(I4),Approx. 1000,Dark Blue,
+561,Suzuki,Suzuki S-presso GL,2022,0,New,"₦ 6,315,000",4-Cylinder(I4),Approx. 1000,White,
+562,Suzuki,Suzuki Alto GLX,2022,0,New,"₦ 5,215,000",4-Cylinder(I4),Approx. 1000,Red,
+563,Foton,"Foton Gratour PX Van - 1.2L Petrol, 750kgs",2018,78,New,"₦ 6,515,000",4-Cylinder(I4),Approx. N/A,White,
+564,JAC,JAC Frison T6 4x4,2020,0,New,"₦ 15,915,000",6-Cylinder(V6),Approx. N/A,Silver,
+565,JAC,JAC Frison T6 4x4,2020,0,New,"₦ 14,915,000",6-Cylinder(V6),Approx. N/A,Silver,
+566,JAC,JAC Frison T6 4x4,2020,0,New,"₦ 14,515,000",6-Cylinder(V6),Approx. N/A,White,
+567,JAC,JAC Frison T6 4x2,2020,0,New,"₦ 12,515,000",6-Cylinder(V6),Approx. N/A,White,
+568,JAC,JAC S7,2020,0,New,"₦ 20,315,000",4-Cylinder(I4),Approx. N/A,Beige,
+569,JAC,JAC S5,2020,0,New,"₦ 12,565,000",4-Cylinder(I4),Approx. N/A,Grey,
+570,JAC,JAC S4,2020,0,New,"₦ 11,315,000",4-Cylinder(I4),Approx. N/A,Blue,
+571,JAC,JAC S3,2020,0,New,"₦ 10,265,000",4-Cylinder(I4),Approx. N/A,Red,
+572,JAC,JAC S3,2020,0,New,"₦ 9,690,000",4-Cylinder(I4),Approx. N/A,Red,
+573,JAC,JAC S2,2020,0,New,"₦ 8,165,000",4-Cylinder(I4),Approx. N/A,Red,
+574,JAC,JAC S2,2020,0,New,"₦ 8,515,000",4-Cylinder(I4),Approx. N/A,Red,
+575,JAC,JAC J4,2020,0,New,"₦ 8,435,000",4-Cylinder(I4),Approx. N/A,Silver,
+576,Ford,Ford Ranger D/C,2022,0,New,"₦ 19,902,500",4-Cylinder(I4),Approx. N/A,Brown,
+577,Ford,Ford F-150 King Ranch,2020,0,New,"₦ 47,775,000",6-Cylinder(V6),Approx. N/A,Dark Blue,
+578,Ford,Ford Ranger D/C,2020,0,New,"₦ 17,752,500",4-Cylinder(I4),Approx. N/A,White,
+579,Ford,Ford Ranger D/C,2020,0,New,"₦ 13,275,000",2-Cylinder(I2),Approx. N/A,Black,
+580,Ford,Ford Ranger S/C,2020,0,New,"₦ 15,065,000",4-Cylinder(I4),Approx. N/A,Black,
+581,Ford,Ford Evrest XLT 3.2L,2020,0,New,"₦ 29,515,000",4-Cylinder(I4),Approx. N/A,Silver,
+582,Ford,Ford Explorer LTD 3.5L,2021,0,New,"₦ 34,415,000",4-Cylinder(I4),Approx. N/A,Grey,
+583,Ford,Ford Explorer XLT 3.5L,2021,0,New,"₦ 31,727,500",4-Cylinder(I4),Approx. N/A,Brown,
+584,Ford,Ford Edge TIT. 3.5L,2020,0,New,"₦ 29,175,000",4-Cylinder(I4),Approx. N/A,Silver,
+585,Ford,Ford Edge SEL 2.0L,2020,0,New,"₦ 24,740,000",4-Cylinder(I4),Approx. N/A,Red,
+586,Ford,Ford Edge SE 2.0L,2020,0,New,"₦ 23,127,500",4-Cylinder(I4),Approx. N/A,Dark Blue,
+587,Ford,Ford Eco Sport 1.5L,2020,0,New,"₦ 11,975,000",4-Cylinder(I4),Approx. N/A,Blue,
+588,Ford,Ford Mustang GT Coupe 2.3L,2016,0,New,"₦ 21,515,000",4-Cylinder(I4),Approx. N/A,White,
+589,Ford,Ford Taurus SEL 3.5L,2020,0,New,"₦ 20,775,000",2-Cylinder(I2),Approx. N/A,Blue,
+590,Ford,Ford Fusion Titanium 2.0L,2020,0,New,"₦ 19,175,000",2-Cylinder(I2),Approx. N/A,Silver,
+591,Ford,Ford Fusion S 2.5L,2020,0,New,"₦ 15,775,000",2-Cylinder(I2),Approx. N/A,White,
+592,Ford,Ford Figo,2020,0,New,"₦ 10,765,000",2-Cylinder(I2),Approx. N/A,White,
+593,Renault,Renault Koleo 2.5L CVT,2020,0,New,"₦ 20,515,000",6-Cylinder(V6),Approx. N/A,Black,
+594,Renault,Renault Koleo 2.5L CVT,2020,0,New,"₦ 18,014,000",4-Cylinder(I4),Approx. N/A,Red,
+595,Renault,Renault Duster Expression 2.0L,2020,0,New,"₦ 13,815,000",4-Cylinder(I4),Approx. N/A,Maroon,
+596,Renault,Renault Duster Expression 1.6L,2020,0,New,"₦ 12,515,000",2-Cylinder(I2),Approx. N/A,Red,
+597,Renault,Renault Duster Authentic 1.6L,2020,0,New,"₦ 11,215,000",2-Cylinder(I2),Approx. N/A,Beige,
+598,Renault,Renault Logan Dynamic 1.6L,2020,0,New,"₦ 10,715,000",2-Cylinder(I2),Approx. N/A,Black,
+599,Renault,Renault Logan Authentic 1.6L,2020,0,New,"₦ 9,514,000",2-Cylinder(I2),Approx. N/A,Grey,
+600,Renault,Renault Logan Authentic 1.2L,2020,0,New,"₦ 9,014,000",2-Cylinder(I2),Approx. N/A,Brown,
+601,Renault,Renault Kwid Dynamic,2020,0,New,"₦ 6,815,000",2-Cylinder(I2),Approx. N/A,White,
+602,Renault,Renault Kwid Expression,2020,0,New,"₦ 6,515,000",2-Cylinder(I2),Approx. N/A,Blue,
+603,Renault,Renault Kwid Expression,2020,0,New,"₦ 6,515,000",2-Cylinder(I2),Approx. N/A,Blue,
+604,Toyota,Toyota Coaster,2020,0,New,"₦ 48,515,000",6-Cylinder(V6),Approx. N/A,White,
+605,Toyota,Toyota Coaster,2020,0,New,"₦ 46,015,000",6-Cylinder(V6),Approx. N/A,White,
+606,Toyota,Toyota Yaris,2020,0,New,"₦ 9,515,000",4-Cylinder(I4),Approx. N/A,Blue,
+607,Toyota,Toyota Prado VX,2020,0,New,"₦ 45,015,000",6-Cylinder(V6),Approx. N/A,Maroon,
+608,Toyota,Toyota Prado TXL,2020,0,New,"₦ 39,315,000",6-Cylinder(V6),Approx. N/A,Maroon,
+609,Toyota,Toyota Camry,2011,"108,915",Foreign Used,"₦ 5,530,000",4-Cylinder(I4),Approx. 2,Dark Grey, (4.00)
+610,Lexus,Lexus GX 460,2020,0,New,"₦ 58,015,000",8-Cylinder(V8),Approx. N/A,Grey,
+611,Lexus,Lexus LX 570,2020,0,New,"₦ 100,015,000",8-Cylinder(V8),Approx. N/A,Black,
+612,Toyota,Toyota Hilux,2020,0,New,"₦ 28,515,000",6-Cylinder(V6),Approx. N/A,Red,
+613,Toyota,Toyota Hilux,2020,0,New,"₦ 38,015,000",6-Cylinder(V6),Approx. N/A,Red,
+614,Toyota,Toyota Hilux,2021,0,New,"₦ 36,015,000",6-Cylinder(V6),Approx. N/A,White,
+615,Toyota,Toyota Hiace,2020,0,New,"₦ 26,015,000",4-Cylinder(I4),Approx. N/A,White,
+616,Toyota,Toyota Fortuner,2020,0,New,"₦ 31,015,000",6-Cylinder(V6),Approx. N/A,Grey,
+617,Toyota,Toyota Corolla,2020,0,New,"₦ 20,515,000",4-Cylinder(I4),Approx. N/A,White,
+618,Toyota,Toyota Corolla,2020,0,New,"₦ 19,515,000",4-Cylinder(I4),Approx. N/A,White,
+619,Toyota,Toyota Camry,2019,0,New,"₦ 28,015,000",6-Cylinder(V6),Approx. N/A,Red,
+620,Toyota,Toyota Camry,2019,0,New,"₦ 24,015,000",4-Cylinder(I4),Approx. N/A,Blue,
+621,Toyota,Toyota Prado,2020,0,New,"₦ 52,015,000",8-Cylinder(V8),Approx. N/A,Black,
+622,Toyota,Toyota Landcruiser Vx V8,2020,0,New,"₦ 58,015,000",8-Cylinder(V8),Approx. N/A,White,
+623,Toyota,Toyota Rush,2020,0,New,"₦ 16,515,000",6-Cylinder(V6),Approx. N/A,Red,
+624,Toyota,Toyota Coaster,2019,0,New,"₦ 48,515,000",6-Cylinder(V6),Approx. N/A,White,
+625,Toyota,Toyota Corolla,2019,0,New,"₦ 16,515,000",4-Cylinder(I4),Approx. N/A,White,
+626,Toyota,Toyota Hilux,2020,0,New,"₦ 23,015,000",6-Cylinder(V6),Approx. N/A,White,
+627,Toyota,Toyota Hiace,2019,0,New,"₦ 25,515,000",4-Cylinder(I4),Approx. N/A,Blue,
+628,Toyota,Toyota Camry,2019,0,New,"₦ 36,515,000",6-Cylinder(V6),Approx. N/A,Silver,
+629,Dodge,Dodge Durango (w. Performance Hood),2019,95,New,"₦ 34,015,000",6-Cylinder(V6),Approx. N/A,White,
+630,Foton,Foton View CS2 2.7L Petrol Ambulance,2019,56,New,"₦ 22,765,000",6-Cylinder(I6),Approx. N/A,White,
+631,Foton,Foton View C2 2.2L P Minibus,2020,23,New,"₦ 15,265,000",6-Cylinder(I6),Approx. N/A,White,
+632,Foton,Foton Tunland Double Cabin Pickup 4WD,2019,56,New,"₦ 17,015,000",6-Cylinder(I6),Approx. N/A,Blue,
+633,Fiat,Fiat Fullback Double Cabin 2.5 4WD Diesel,2019,88,New,"₦ 17,515,000",6-Cylinder(I6),Approx. N/A,Black,
+634,Fiat,Fiat Double Cabin,2019,56,New,"₦ 16,015,000",6-Cylinder(I6),Approx. N/A,White,
+635,Chevrolet,Chevrolet N300 Van,2019,54,New,"₦ 18,015,000",6-Cylinder(I6),Approx. N/A,Silver,
+636,Chevrolet,Chevrolet Cruze LT,2019,29,New,"₦ 11,765,000",4-Cylinder(I4),Approx. N/A,Silver,
+637,Chevrolet,Chevrolet Cruze LTZ,2019,12,New,"₦ 12,015,000",6-Cylinder(V6),Approx. N/A,Black,
+638,Fiat,Fiat Fullback,2019,66,New,"₦ 11,515,000",4-Cylinder(I4),Approx. N/A,White,
+639,Dodge,Dodge Durango,2019,66,New,"₦ 33,015,000",6-Cylinder(I6),Approx. N/A,Black,
+640,Jeep,Jeep Wrangler Sahara,2019,56,New,"₦ 36,015,000",6-Cylinder(I6),Approx. N/A,Silver,
+641,Jeep,Jeep Grand Cherokee Premium,2019,59,New,"₦ 35,015,000",6-Cylinder(I6),Approx. N/A,Black,
+642,Chevrolet,Chevrolet Trailblazer,2021,0,New,"₦ 22,515,000",6-Cylinder(V6),Approx. N/A,Grey,
+643,GEELY,GEELY Coolray Dynamic,2021,0,New,"₦ 13,565,000",6-Cylinder(V6),Approx. N/A,Red,
+644,Toyota,Toyota Corolla,2013,"97,652",Foreign Used,"₦ 6,330,000",4-Cylinder(I4),Approx. 1,Blue, (4.00)
+645,Toyota,Toyota Corolla,2016,"185,426",Foreign Used,"₦ 8,015,000",6-Cylinder(V6),Approx. N/A,Silver, (4.00)
+646,Lexus,Lexus LS 500,2018,"8,787",Foreign Used,"₦ 65,015,000",6-Cylinder(V6),Approx. 3500,Grey, (5.00)
+647,Toyota,Toyota Camry,2011,"65,560",Foreign Used,"₦ 6,030,000",4-Cylinder(I4),Approx. 1,Yellow, (4.00)
+648,Mercedes-Benz,Mercedes-Benz C 300,2015,"99,367",Foreign Used,"₦ 13,545,000",4-Cylinder(I4),Approx. 4,Gray, (4.50)
+649,Hyundai,Hyundai Santa Fe,2013,"148,752",Foreign Used,"₦ 9,015,000",6-Cylinder(V6),Approx. 3300,Silver, (0.00)
+650,Toyota,Toyota Corolla,2015,"139,552",Foreign Used,"₦ 8,515,000",4-Cylinder(I4),Approx. 2400,Dark Gray, (0.00)
+651,Lexus,Lexus GX 460,2015,"97,777",Foreign Used,"₦ 26,530,000",8-Cylinder(V8),Approx. 4600,Silver, (0.00)
+652,Honda,Honda Ridgeline,2010,"85,000",Foreign Used,"₦ 6,515,000",6-Cylinder(V6),Approx. 1000,Red, (0.00)
+653,Mercedes-Benz,Mercedes-Benz E 350,2014,"213,468",Foreign Used,"₦ 12,515,000",6-Cylinder(I6),Approx. 1000,Grey, (0.00)
+654,Toyota,Toyota Corolla,2016,"111,502",Foreign Used,"₦ 8,015,000",4-Cylinder(I4),Approx. 4000,Silver, (0.00)
+655,Land,Land Rover Range Rover,2014,"72,556",Locally used,"₦ 23,015,000",6-Cylinder(I6),Approx. 6000,Black, (0.00)
+656,Toyota,Toyota Sienna,2008,"121,333",Foreign Used,"₦ 5,815,000",6-Cylinder(V6),Approx. 3,Gold, (0.00)
+657,Toyota,Toyota Matrix,2005,"97,523",Foreign Used,"₦ 3,880,000",4-Cylinder(I4),Approx. 1500,Silver, (0.00)
+658,Lexus,Lexus RX 330,2004,"78,874",Foreign Used,"₦ 6,130,000",6-Cylinder(V6),Approx. 6,Black, (0.00)
+659,Mazda,Mazda CX-7,2011,"156,904",Foreign Used,"₦ 5,030,000",6-Cylinder(V6),Approx. N/A,Purple, (0.00)
+660,Toyota,Toyota RAV 4,2010,"124,382",Foreign Used,"₦ 6,930,000",4-Cylinder(I4),Approx. N/A,Dark Grey, (0.00)
+661,Mercedes-Benz,Mercedes-Benz GLE 350,2017,"51,283",Foreign Used,"₦ 25,530,000",6-Cylinder(V6),Approx. 3,Blue, (0.00)
+662,Mercedes-Benz,Mercedes-Benz GLK 350,2010,"97,814",Foreign Used,"₦ 8,530,000",6-Cylinder(V6),Approx. N/A,Grey, (0.00)
+663,Toyota,Toyota Camry,2013,"104,930",Foreign Used,"₦ 7,315,000",4-Cylinder(I4),Approx. 2500,Silver, (0.00)
+664,Mercedes-Benz,Mercedes-Benz GLK 350,2012,"54,862",Locally used,"₦ 11,515,000",4-Cylinder(I4),Approx. 3500,Red, (0.00)
+665,Toyota,Toyota Camry,2012,"55,313",Foreign Used,"₦ 8,530,000",6-Cylinder(V6),Approx. N/A,Black, (3.30)
+666,Toyota,Toyota RAV 4,2007,"101,000",Foreign Used,"₦ 5,915,000",6-Cylinder(I6),Approx. 1000,Light Grey, (0.00)
+667,Toyota,Toyota Camry,2006,"98,589",Foreign Used,"₦ 3,360,000",6-Cylinder(V6),Approx. N/A,Red, (0.00)
+668,Mercedes-Benz,Mercedes-Benz S 500,2015,"35,753",Locally used,"₦ 27,015,000",6-Cylinder(V6),Approx. 3000,Brown, (0.00)
+669,Toyota,Toyota Highlander,2005,"202,342",Foreign Used,"₦ 5,015,000",6-Cylinder(I6),Approx. N/A,Blue, (0.00)
+670,Lexus,Lexus RX 330,2006,"195,234",Foreign Used,"₦ 6,515,000",6-Cylinder(V6),Approx. 1000,White, (0.00)
+671,Honda,Honda Civic,2011,"89,883",Foreign Used,"₦ 4,060,000",4-Cylinder(I4),Approx. N/A,Red, (0.00)
+672,Toyota,Toyota Highlander,2011,"88,502",Foreign Used,"₦ 12,030,000",6-Cylinder(V6),Approx. 1000,Gold, (0.00)
+673,Audi,Audi A6,2010,"241,975",Foreign Used,"₦ 4,410,000",4-Cylinder(I4),Approx. 1000,White, (0.00)
+674,Ford,Ford F 150,2011,"238,598",Locally used,"₦ 11,515,000",6-Cylinder(V6),Approx. 1000,Gray, (0.00)
+675,Honda,Honda Pilot,2006,"110,470",Foreign Used,"₦ 4,315,000",6-Cylinder(I6),Approx. N/A,Green, (0.00)
+676,Nissan,Nissan Titan,2004,0,Foreign Used,"₦ 3,180,000",6-Cylinder(V6),Approx. N/A,Black, (0.00)
+677,Volkswagen,Volkswagen Golf,2012,"120,470",Foreign Used,"₦ 3,245,000",5-Cylinder(I5),Approx. N/A,Blue, (0.00)
+678,Toyota,Toyota RAV 4,2010,"52,345",Foreign Used,"₦ 5,895,000",4-Cylinder(I4),Approx. 25,Silver, (0.00)
+679,Mercedes-Benz,Mercedes-Benz CLA 250,2014,"69,727",Foreign Used,"₦ 11,530,000",6-Cylinder(V6),Approx. 3300,Black, (0.00)
+680,Hyundai,Hyundai Sonata,2015,"138,357",Foreign Used,"₦ 7,730,000",4-Cylinder(I4),Approx. 2400,Sliver, (0.00)
+681,Toyota,Toyota Venza,2014,"15,236",Foreign Used,"₦ 9,045,000",4-Cylinder(I4),Approx. 2,Silver, (0.00)
+682,Honda,Honda CR-V,2009,"85,243",Foreign Used,"₦ 5,015,000",4-Cylinder(I4),Approx. 18,Black, (0.00)
+683,Lexus,Lexus RX 350,2007,"105,067",Foreign Used,"₦ 6,730,000",6-Cylinder(V6),Approx. N/A,Silver, (0.00)
+684,Toyota,Toyota RAV 4,2009,"45,231",Foreign Used,"₦ 5,830,000",6-Cylinder(V6),Approx. 3,Dark Grey, (0.00)
+685,Toyota,Toyota Venza,2012,"41,027",Foreign Used,"₦ 8,030,000",4-Cylinder(I4),Approx. 2400,White, (0.00)
+686,Toyota,Toyota Sequoia,2012,"166,760",Foreign Used,"₦ 14,530,000",8-Cylinder(V8),Approx. N/A,Silver, (0.00)
+687,Toyota,Toyota 4-Runner,2012,"78,333",Foreign Used,"₦ 17,064,000",8-Cylinder(V8),Approx. N/A,Black, (0.00)
+688,Hyundai,Hyundai Sonata,2011,"96,598",Foreign Used,"₦ 5,015,000",4-Cylinder(I4),Approx. 3,Blue, (0.00)
+689,Toyota,Toyota Corolla,2006,"144,307",Foreign Used,"₦ 3,705,000",4-Cylinder(I4),Approx. N/A,Grey, (0.00)
+690,Toyota,Toyota Camry,2010,"104,632",Locally used,"₦ 4,130,000",4-Cylinder(I4),Approx. N/A,Grey, (4.30)
+691,Toyota,Toyota Camry,2008,"95,411",Foreign Used,"₦ 3,774,000",4-Cylinder(I4),Approx. N/A,Blue, (0.00)
+692,Toyota,Toyota Corolla,2012,"162,970",Locally used,"₦ 2,830,000",4-Cylinder(I4),Approx. N/A,Gold, (2.90)
+693,Lexus,Lexus IS 350,2008,"228,373",Foreign Used,"₦ 6,315,000",6-Cylinder(V6),Approx. 1000,Grey, (0.00)
+694,Lexus,Lexus RX 350,2014,"73,960",Foreign Used,"₦ 12,270,000",6-Cylinder(V6),Approx. 6,Beige, (0.00)
+695,Foton,"Foton Gratour PX Van - 1.2L Petrol, 750kgs",2018,78,Locally used,"₦ 6,515,000",4-Cylinder(I4),Approx. N/A,White, (0.00)
