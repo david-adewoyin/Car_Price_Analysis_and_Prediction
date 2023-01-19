@@ -1,10 +1,10 @@
 # Car Price Estimator: Project Overview
 
-  - Create a tool that estimates car prices (MAE ~ ₦ 1.8M) to help sellers and buyers knows what to pay for and sell.
+  - Created a tool that estimates car prices (MAE ~ ₦ 1.8M) to help sellers and buyers knows what to pay for and sell.
   - Scraped over 2000 cars decriptions from [cars45](https://www.cars45.com/) and [autochek.africa](https://autochek.africa/ng/cars-for-sale) using python and playwright.
   - Performed exploratory data analysis to gather insights on car prices, trends and popularity in the region.
   - Optimized Ridge, Decision Tree and Random Forest Regressors using GridsearchCV to reach the best model.
-  - Built a client facing API and webpage using flask.
+  - Built a client facing API and web application using Flask.
   
  ## Data Cleaning
  Due to the nature of scraping data from multiple sources, extensive data cleaning and preparation were done with a few such as:
@@ -36,7 +36,7 @@ Decision Tree: MAE =  2.0M
 Ridge Regression: MAE = 2.2M  
   
  ## Productionalization
-This step involved creating a Flask website and API that was hosted on a local webserver. Users can enter and submit information about the vehicle they want to estimate, and the website will return the estimated price.
+This step involved creating a Flask web application and API that was hosted on a local webserver. Users can enter and submit information about the vehicle they want to estimate, and the application will return the estimated price.
 
 
 ![image](https://user-images.githubusercontent.com/57121852/213565832-915b6d87-0084-4135-864d-546e8035691c.png)
