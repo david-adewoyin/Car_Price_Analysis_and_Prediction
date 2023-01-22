@@ -4,8 +4,8 @@
   - Scraped over 2,000 car descriptions from [cars45](https://www.cars45.com/) and [autochek.africa](https://autochek.africa/ng/cars-for-sale) using Python and Playwright.
   - Performed exploratory data analysis to gather insights on car prices, trends, and popularity in the region.
   - Optimized Ridge, Decision Tree, and Random Forest Regressors using GridsearchCV to reach the best model.
-  - Built a client facing web application using Flask.
   - Created external [Tableau dashboard](https://public.tableau.com/app/profile/david.adewoyin/viz/CarPriceDeterminantDashboard/Dashboard1) for visualization.
+  - Built a client facing web application using Flask.
 
 
  ## Data Cleaning
