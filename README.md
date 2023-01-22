@@ -4,8 +4,10 @@
   - Scraped over 2,000 car descriptions from [cars45](https://www.cars45.com/) and [autochek.africa](https://autochek.africa/ng/cars-for-sale) using Python and Playwright.
   - Performed exploratory data analysis to gather insights on car prices, trends, and popularity in the region.
   - Optimized Ridge, Decision Tree, and Random Forest Regressors using GridsearchCV to reach the best model.
-  - Built a client facing API and web application using Flask.
-  
+  - Built a client facing web application using Flask.
+  - Created external [Tableau dashboard](https://public.tableau.com/app/profile/david.adewoyin/viz/CarPriceDeterminantDashboard/Dashboard1) for visualization.
+
+
  ## Data Cleaning
 Because the data was scraped from multiple sources, extensive data cleaning and preparation was required, including the following:
 
@@ -16,12 +18,17 @@ Because the data was scraped from multiple sources, extensive data cleaning and 
  - Several outliers were removed, and engine capacity was standardized at milliliters. e.t.c
   
 ## EDA 
+
 For the Exploratory Analysis, various factors and trends affecting car prices in the region were investigated, as well as questions such as the popularity of brands and models. 
 
-![image](https://user-images.githubusercontent.com/57121852/213570571-0afc261a-d7d1-4184-92fe-4366a37aa98c.png)
 
+<div style='display:flex;'>
+<img src="https://user-images.githubusercontent.com/57121852/213569749-1485cf09-d250-4dcc-8eff-6ede1418aa4b.png">
+<img src="https://user-images.githubusercontent.com/57121852/213570571-0afc261a-d7d1-4184-92fe-4366a37aa98c.png" >
+</div>
 
-![image](https://user-images.githubusercontent.com/57121852/213569749-1485cf09-d250-4dcc-8eff-6ede1418aa4b.png)
+### Tableau Dashboard
+<img src="https://user-images.githubusercontent.com/57121852/213936600-c760ea7f-321c-4254-a88d-1ecc208e90e5.png" >
 
 ##  Model Building
   Firstly, due to the sheer numbers of models and brands present, **target mean encoding** was used to encode them, while for the remaining categorical features, ordinal and one hot encoding was used as required.  
