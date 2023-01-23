@@ -9,7 +9,7 @@
 
 
  ## Data Cleaning
-Because the data was scraped from multiple sources, extensive data cleaning and preparation was required, including the following:
+Because the data was scraped from multiple sources, extensive data cleaning and preparation was required, which includes the following:
 
  - Removed brackets and commas from all features that used them.
  - Price numeric data was parsed.
@@ -31,7 +31,7 @@ For the Exploratory Analysis, various factors and trends affecting car prices in
 <img src="https://user-images.githubusercontent.com/57121852/213936600-c760ea7f-321c-4254-a88d-1ecc208e90e5.png" >
 
 ##  Model Building
-  Firstly, due to the sheer numbers of models and brands present, **target mean encoding** was used to encode them, while for the remaining categorical features, ordinal and one hot encoding was used as required.  
+  Firstly, due to the sheer numbers of car models and brands present, **target mean encoding** was used to encode them, while for the remaining categorical features, ordinal and one hot encoding was used as required.  
   Three different models were created and evaluated using Mean Absolute Error.
 
 ## Model Performance
